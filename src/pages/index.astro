@@ -1,0 +1,107 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import OfferCard from "../components/OfferCard.astro";
+import ContactForm from "../components/ContactForm.astro";
+import {
+  DEFAULT_DESCRIPTION,
+  PHONE_DISPLAY,
+  PHONE_TEL,
+  PRACTITIONER,
+  differentKind,
+  ourStory,
+  topicCards,
+} from "../lib/site";
+---
+
+<BaseLayout
+  title="Couples Therapy in Roseville, CA"
+  description={DEFAULT_DESCRIPTION}
+  canonicalPath="/"
+>
+  <section class="hero">
+    <div class="wrap">
+      <h1>
+        Couples Therapy<br />
+        and Marriage Counseling<br />
+        in Roseville, CA
+      </h1>
+      <p class="topics"><strong>Communication</strong> • <strong>Infidelity</strong> • <strong>Disconnection</strong></p>
+      <p class="byline"><strong>{PRACTITIONER}</strong></p>
+      <p class="phone"><a href={PHONE_TEL}>{PHONE_DISPLAY}</a></p>
+      <div style="margin-top:2rem">
+        <OfferCard />
+      </div>
+    </div>
+  </section>
+
+  <figure class="photo-bleed">
+    <img
+      src="/images/site/k-cadet.jpg"
+      alt="A man dressed as a U.S. Marine in uniform and a woman smiling, holding a bicycle, standing outdoors."
+    />
+  </figure>
+
+  <section class="section">
+    <div class="wrap narrow story">
+      <h2 style="text-align:center;font-size:clamp(2rem,4vw,3.2rem);margin-bottom:1.5rem">Our Story</h2>
+      {
+        ourStory.map((p) => (
+          <p>
+            <strong>{p.lead}</strong> {p.rest}
+          </p>
+        ))
+      }
+    </div>
+  </section>
+
+  <figure class="photo-bleed">
+    <img src="/images/site/k9.jpg" alt="James Christensen offers couples therapy in Roseville, CA." />
+  </figure>
+
+  <section class="section section-paper">
+    <div class="wrap narrow story">
+      <h2 style="text-align:center;font-size:clamp(2rem,4vw,3.2rem);margin-bottom:1.5rem">
+        A Different Kind<br />of Marriage Counseling
+      </h2>
+      {
+        differentKind.map((p) => (
+          <p>
+            <strong>{p.lead}</strong> {p.rest}
+          </p>
+        ))
+      }
+    </div>
+  </section>
+
+  <figure class="photo-bleed">
+    <img
+      src="/images/site/tree-1.jpg"
+      alt="A woman and a man smiling and looking at each other while sitting against a large tree in a park."
+    />
+  </figure>
+
+  <section class="section section-warm">
+    <div class="wrap">
+      <OfferCard />
+    </div>
+  </section>
+
+  <ContactForm heading="Get in touch" />
+
+  <section class="section">
+    <div class="wrap">
+      <h2 style="text-align:center;font-size:clamp(2rem,4vw,3rem);margin-bottom:1.8rem">How I can help</h2>
+      <div class="topic-grid">
+        {
+          topicCards.map((card) => (
+            <a class="topic-card" href={card.href}>
+              <h3>{card.title}</h3>
+              <p>{card.body}</p>
+              <span class="more">Learn More</span>
+            </a>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+</BaseLayout>

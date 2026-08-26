@@ -1,0 +1,27 @@
+---
+import { getCollection, render } from "astro:content";
+import PageLayout from "../layouts/PageLayout.astro";
+import ContactForm from "../components/ContactForm.astro";
+
+export async function getStaticPaths() {
+  const pages = await getCollection("pages", ({ id }) => !id.startsWith("_index"));
+  return pages.map((page) => ({
+    params: { slug: page.id },
+    props: { page },
+  }));
+}
+
+const { page } = Astro.props;
+const { Content } = await render(page);
+const isContact = page.id === "contact" || page.id === "newsletter";
+---
+
+<PageLayout
+  title={page.data.title}
+  description={page.data.description}
+  image={page.data.heroImage}
+  showOffer={!isContact}
+>
+  <Content />
+  {isContact && <ContactForm slot="after" heading="" submitLabel="Email Me" />}
+</PageLayout>

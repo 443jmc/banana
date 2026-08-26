@@ -1,0 +1,37 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import CollectionGrid from "../../components/CollectionGrid.astro";
+
+const books = (await getCollection("book-summaries")).sort((a, b) => {
+  const ad = a.data.pubDate?.getTime() || 0;
+  const bd = b.data.pubDate?.getTime() || 0;
+  return bd - ad;
+});
+---
+
+<BaseLayout
+  title="Book Summaries"
+  description="Book summaries on relationships, codependency, intimacy, and personal growth."
+  canonicalPath="/book-summaries"
+>
+  <header class="page-hero">
+    <div class="wrap">
+      <h1>Book Summaries</h1>
+      <p class="lede">Notes on the books that shape how I think about marriage, desire, and differentiation.</p>
+    </div>
+  </header>
+  <section class="section-tight">
+    <div class="wrap">
+      <CollectionGrid
+        items={books.map((book) => ({
+          href: `/book-summaries/${book.id}`,
+          title: book.data.title,
+          excerpt: book.data.excerpt,
+          date: book.data.pubDate,
+          image: book.data.heroImage,
+        }))}
+      />
+    </div>
+  </section>
+</BaseLayout>

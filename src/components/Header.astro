@@ -1,0 +1,70 @@
+---
+import { BOOKING_URL, PHONE_DISPLAY, PHONE_TEL, SITE_NAME, isFolder, primaryNav } from "../lib/site";
+const path = Astro.url.pathname.replace(/\/$/, "") || "/";
+---
+
+<header class="site-header">
+  <div class="header-inner">
+    <a class="site-title" href="/">{SITE_NAME}</a>
+    <a class="header-phone" href={PHONE_TEL}>{PHONE_DISPLAY}</a>
+    <nav class="nav-desktop" aria-label="Primary">
+      {
+        primaryNav.map((item) =>
+          isFolder(item) ? (
+            <div class="nav-folder">
+              <button class="nav-folder-btn" type="button" aria-expanded="false" aria-controls={`desktop-${item.id}`}>
+                {item.label}
+              </button>
+              <div class="nav-dropdown" id={`desktop-${item.id}`}>
+                {item.items.map((sub) => (
+                  <a href={sub.href} aria-current={path === sub.href ? "page" : undefined}>
+                    {sub.label}
+                  </a>
+                ))}
+              </div>
+            </div>
+          ) : (
+            <a class="nav-link" href={item.href} aria-current={path === item.href ? "page" : undefined}>
+              {item.label}
+            </a>
+          )
+        )
+      }
+      <a class="btn header-cta" href={BOOKING_URL}>Get Started</a>
+    </nav>
+    <button class="burger" type="button" data-nav-toggle aria-expanded="false" aria-controls="mobile-nav">
+      <span class="visually-hidden" style="position:absolute;width:1px;height:1px;overflow:hidden">Menu</span>
+      <span class="burger-lines" aria-hidden="true">
+        <span></span><span></span><span></span>
+      </span>
+    </button>
+  </div>
+  <nav class="nav-mobile" id="mobile-nav" data-mobile-nav aria-label="Mobile">
+    <a href="/" aria-current={path === "/" ? "page" : undefined}>Home</a>
+    {
+      primaryNav.filter(isFolder).map((folder) => (
+        <div>
+          <div class="folder-label">{folder.label}</div>
+          <div class="sub">
+            {folder.items.map((sub) => (
+              <a href={sub.href}>{sub.label}</a>
+            ))}
+          </div>
+        </div>
+      ))
+    }
+    <div class="nav-mobile-cta">
+      <a class="btn btn-solid" href={BOOKING_URL}>Get Started</a>
+      <a class="btn" href={PHONE_TEL}>{PHONE_DISPLAY}</a>
+    </div>
+  </nav>
+</header>
+
+<script>
+  const toggle = document.querySelector("[data-nav-toggle]");
+  const panel = document.querySelector("[data-mobile-nav]");
+  toggle?.addEventListener("click", () => {
+    const open = panel?.classList.toggle("is-open");
+    toggle.setAttribute("aria-expanded", open ? "true" : "false");
+  });
+</script>

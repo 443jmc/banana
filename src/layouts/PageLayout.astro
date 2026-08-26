@@ -1,0 +1,36 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+import OfferCard from "../components/OfferCard.astro";
+
+interface Props {
+  title: string;
+  description?: string;
+  image?: string;
+  showOffer?: boolean;
+}
+
+const { title, description, image, showOffer = true } = Astro.props;
+---
+
+<BaseLayout title={title} description={description} image={image}>
+  <header class="page-hero">
+    <div class="wrap">
+      <h1>{title}</h1>
+    </div>
+  </header>
+  <div class="section-tight">
+    <div class="wrap narrow prose">
+      <slot />
+    </div>
+  </div>
+  <slot name="after" />
+  {
+    showOffer && (
+      <section class="section section-warm">
+        <div class="wrap">
+          <OfferCard />
+        </div>
+      </section>
+    )
+  }
+</BaseLayout>

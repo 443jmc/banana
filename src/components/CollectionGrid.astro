@@ -1,0 +1,32 @@
+---
+import { formatDate } from "../lib/site";
+
+interface Item {
+  href: string;
+  title: string;
+  excerpt?: string;
+  date?: Date;
+  image?: string;
+}
+
+interface Props {
+  items: Item[];
+}
+
+const { items } = Astro.props;
+---
+
+<div class="card-grid">
+  {
+    items.map((item) => (
+      <a class="entry-card" href={item.href}>
+        {item.image ? <img src={item.image} alt="" /> : <img src="/images/site/og-default.png" alt="" />}
+        <div class="body">
+          {item.date && <time datetime={item.date.toISOString()}>{formatDate(item.date)}</time>}
+          <h2>{item.title}</h2>
+          {item.excerpt && <p>{item.excerpt}</p>}
+        </div>
+      </a>
+    ))
+  }
+</div>

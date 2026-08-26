@@ -1,0 +1,60 @@
+---
+interface Props {
+  heading?: string;
+  submitLabel?: string;
+}
+
+const { heading = "Send a message", submitLabel = "Email Me" } = Astro.props;
+---
+
+<section class="section section-paper" id="contact-form">
+  <div class="wrap">
+    {heading && <h2 class="page-hero" style="padding-top:0">{heading}</h2>}
+    <form class="form" method="POST" action="/api/contact" data-contact-form>
+      <label>
+        Email
+        <input type="email" name="email" required autocomplete="email" />
+      </label>
+      <label>
+        Message
+        <textarea name="message" required></textarea>
+      </label>
+      <label class="hp" aria-hidden="true">
+        Website
+        <input type="text" name="website" tabindex="-1" autocomplete="off" />
+      </label>
+      <button class="btn btn-solid" type="submit">{submitLabel}</button>
+    </form>
+    <div class="form-status" data-form-status hidden></div>
+  </div>
+</section>
+
+<script>
+  const form = document.querySelector("[data-contact-form]");
+  const status = document.querySelector("[data-form-status]");
+  form?.addEventListener("submit", async (event) => {
+    event.preventDefault();
+    if (!(form instanceof HTMLFormElement) || !(status instanceof HTMLElement)) return;
+    status.hidden = false;
+    status.classList.remove("error");
+    status.innerHTML = "<p>Sending…</p>";
+    const body = new FormData(form);
+    try {
+      const res = await fetch(form.action, {
+        method: "POST",
+        body,
+        headers: { Accept: "application/json" },
+      });
+      const data = await res.json().catch(() => ({}));
+      if (!res.ok) {
+        throw new Error(data.error || "Unable to send your message right now.");
+      }
+      form.hidden = true;
+      status.innerHTML =
+        "<h3>Thank you for reaching out.</h3><p>I usually respond within 24 hours.</p>";
+    } catch (err) {
+      status.classList.add("error");
+      status.innerHTML = `<p>${err instanceof Error ? err.message : "Unable to send your message right now."}</p><p>You can also call <a href="tel:9162928920">916-292-8920</a>.</p>`;
+    }
+  });
+</script>

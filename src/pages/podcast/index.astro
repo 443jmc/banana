@@ -1,0 +1,45 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import CollectionGrid from "../../components/CollectionGrid.astro";
+
+const episodes = (await getCollection("podcast")).sort((a, b) => {
+  const ad = a.data.pubDate?.getTime() || 0;
+  const bd = b.data.pubDate?.getTime() || 0;
+  return bd - ad;
+});
+---
+
+<BaseLayout
+  title="Balance your Brain Podcast"
+  description="Balance your Brain Podcast: life, love, and relationships with James Christensen LMFT"
+  image="/images/site/podcast-cover.png"
+  canonicalPath="/podcast"
+>
+  <header class="page-hero">
+    <div class="wrap">
+      <h1>Balance your Brain Podcast</h1>
+      <p class="lede">Life, love, and relationships with James Christensen LMFT.</p>
+      <p>
+        <a href="https://open.spotify.com/show/2PC7NKPstyNi08TNfYcyaT">Spotify</a>
+        ·
+        <a href="https://podcasts.apple.com/us/podcast/james-christensen-podcast/id1757976298">Apple Podcasts</a>
+        ·
+        <a href="https://www.youtube.com/playlist?list=PLev0wDi_D_FKBNguwWm6LhPi711Gs7AVO">YouTube</a>
+      </p>
+    </div>
+  </header>
+  <section class="section-tight">
+    <div class="wrap">
+      <CollectionGrid
+        items={episodes.map((ep) => ({
+          href: `/podcast/${ep.id}`,
+          title: ep.data.title,
+          excerpt: ep.data.excerpt,
+          date: ep.data.pubDate,
+          image: ep.data.heroImage || "/images/site/podcast-cover.png",
+        }))}
+      />
+    </div>
+  </section>
+</BaseLayout>

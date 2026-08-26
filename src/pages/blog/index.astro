@@ -1,0 +1,37 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import CollectionGrid from "../../components/CollectionGrid.astro";
+
+const posts = (await getCollection("blog")).sort((a, b) => {
+  const ad = a.data.pubDate?.getTime() || 0;
+  const bd = b.data.pubDate?.getTime() || 0;
+  return bd - ad;
+});
+---
+
+<BaseLayout
+  title="Blog"
+  description="Essays on couples therapy, personal power, intimacy, and how relationships actually change."
+  canonicalPath="/blog"
+>
+  <header class="page-hero">
+    <div class="wrap">
+      <h1>Blog</h1>
+      <p class="lede">Writing from the therapy room on conflict, intimacy, narcissism, and growing up in your marriage.</p>
+    </div>
+  </header>
+  <section class="section-tight">
+    <div class="wrap">
+      <CollectionGrid
+        items={posts.map((post) => ({
+          href: `/blog/${post.id}`,
+          title: post.data.title,
+          excerpt: post.data.excerpt,
+          date: post.data.pubDate,
+          image: post.data.heroImage,
+        }))}
+      />
+    </div>
+  </section>
+</BaseLayout>

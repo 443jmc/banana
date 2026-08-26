@@ -1,0 +1,9 @@
+---
+import { BOOKING_URL, offer } from "../lib/site";
+---
+
+<div class="offer-card">
+  <h2>{offer.headline}</h2>
+  {offer.lines.map((line) => <p>{line}</p>)}
+  <a class="btn btn-solid" href={BOOKING_URL}>{offer.cta}</a>
+</div>

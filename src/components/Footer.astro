@@ -1,0 +1,45 @@
+---
+import {
+  ADDRESS,
+  LICENSE,
+  PHONE_DISPLAY,
+  PHONE_TEL,
+  SITE_NAME,
+  PRACTITIONER,
+  resourcesNav,
+  servicesNav,
+} from "../lib/site";
+
+const year = new Date().getFullYear();
+---
+
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <div>
+      <h2>{SITE_NAME}</h2>
+      <p>
+        {ADDRESS.street}<br />
+        {ADDRESS.city}, {ADDRESS.region} {ADDRESS.postal}
+      </p>
+      <p><a href={PHONE_TEL}>{PHONE_DISPLAY}</a></p>
+      <p>{PRACTITIONER} {LICENSE}</p>
+    </div>
+    <div>
+      <h2>Services</h2>
+      <div class="footer-nav">
+        {servicesNav.map((item) => <a href={item.href}>{item.label}</a>)}
+      </div>
+    </div>
+    <div>
+      <h2>Resources</h2>
+      <div class="footer-nav">
+        {resourcesNav.map((item) => <a href={item.href}>{item.label}</a>)}
+        <a href="/privacy">Privacy</a>
+        <a href="/contact">Contact</a>
+      </div>
+    </div>
+  </div>
+  <div class="wrap copyright">
+    © {year} {SITE_NAME}. {PRACTITIONER}.
+  </div>
+</footer>

@@ -1,0 +1,8 @@
+name = "roseville-couples-counseling"
+compatibility_date = "2026-08-01"
+pages_build_output_dir = "dist"
+
+# Optional: set FORMSPREE_URL or CONTACT_WEBHOOK_URL in the Cloudflare
+# Pages dashboard so /api/contact can forward submissions.
+# [vars]
+# PUBLIC_SITE_URL = "https://jamesmchristensen.com"
