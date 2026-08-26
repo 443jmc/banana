@@ -2,6 +2,7 @@
 import { getCollection } from "astro:content";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import CollectionGrid from "../../components/CollectionGrid.astro";
+import { PODCAST_RSS_TITLE, PODCAST_RSS_URL } from "../../lib/site";
 
 const episodes = (await getCollection("podcast")).sort((a, b) => {
   const ad = a.data.pubDate?.getTime() || 0;
@@ -16,6 +17,8 @@ const episodes = (await getCollection("podcast")).sort((a, b) => {
   description="Balance your Brain Podcast:  life, love, and relationships with James Christensen LMFT"
   image="/images/site/podcast-cover.png"
   canonicalPath="/podcast"
+  rssHref={PODCAST_RSS_URL}
+  rssTitle={PODCAST_RSS_TITLE}
 >
   <header class="page-hero">
     <div class="wrap">

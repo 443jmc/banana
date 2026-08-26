@@ -10,6 +10,8 @@ interface Props {
   description?: string;
   image?: string;
   canonicalPath?: string;
+  rssHref?: string;
+  rssTitle?: string;
 }
 
 const {
@@ -18,6 +20,8 @@ const {
   description = DEFAULT_DESCRIPTION,
   image = "/images/site/og-default.png",
   canonicalPath,
+  rssHref,
+  rssTitle,
 } = Astro.props;
 
 const pageTitle = seoTitle || title;
@@ -34,6 +38,9 @@ const ogImage = image.startsWith("http") ? image : new URL(image, Astro.site).hr
     <title>{pageTitle}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
+    {rssHref && (
+      <link rel="alternate" type="application/rss+xml" title={rssTitle || pageTitle} href={rssHref} />
+    )}
     <link rel="icon" href="/favicon.ico" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content={pageTitle} />

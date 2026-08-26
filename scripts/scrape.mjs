@@ -9,9 +9,11 @@
  * 3. Extracts main content (not Squarespace chrome)
  * 4. Downloads images into public/images/
  * 5. Writes Markdown into src/content/{pages,blog,podcast,book-summaries}
+ * 6. If public/audio/<slug> already exists, podcast pages use that URL
+ *    instead of Squarespace (run `npm run fetch-audio` after a scrape)
  */
 import { mkdir, writeFile, readFile } from "node:fs/promises";
-import { createWriteStream } from "node:fs";
+import { createWriteStream, existsSync } from "node:fs";
 import { dirname, extname, join } from "node:path";
 import { pipeline } from "node:stream/promises";
 import { Readable } from "node:stream";
@@ -58,6 +60,16 @@ function slugifyName(name) {
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-|-$/g, "")
     .slice(0, 80) || "image";
+}
+
+function firstPartyAudio(slug) {
+  if (!slug) return null;
+  for (const ext of ["mp3", "mp4", "m4a"]) {
+    if (existsSync(join(ROOT, "public/audio", `${slug}.${ext}`))) {
+      return `/audio/${slug}.${ext}`;
+    }
+  }
+  return null;
 }
 
 function classify(pathname) {
@@ -456,6 +468,19 @@ async function scrapePage(url, sitemapMeta) {
   }
   if (audioUrls[0]) fm.audioUrl = audioUrls[0];
   if (embeds.length) fm.embeds = embeds;
+
+  const pageSlug = pathname.replace(/\/+$/, "").split("/").pop() || slug;
+  const localAudio = firstPartyAudio(pageSlug);
+  if (localAudio) {
+    fm.audioUrl = localAudio;
+    for (const remote of audioUrls) {
+      markdown = markdown.split(remote).join(localAudio);
+    }
+    markdown = markdown.replace(
+      /https?:\/\/(?:static1\.)?squarespace(?:usercontent)?\.com\/[^\s)"']+\.(?:mp3|mp4|m4a)/gi,
+      localAudio
+    );
+  }
 
   const front = Object.entries(fm)
     .map(([k, v]) => {

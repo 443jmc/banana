@@ -15,6 +15,14 @@ export const ADDRESS = {
 export const DEFAULT_DESCRIPTION =
   "Couples therapy and marriage counseling in Roseville, CA for conflict, disconnection, infidelity, and communication problems. First session free.";
 
+/** Live Squarespace query-string feeds — must keep working after cutover. */
+export const BLOG_RSS_URL = "https://jamesmchristensen.com/blog?format=rss";
+export const PODCAST_RSS_URL = "https://jamesmchristensen.com/podcast?format=rss";
+export const BLOG_RSS_TITLE = "Roseville Couples Therapy Blog";
+export const PODCAST_RSS_TITLE = "Balance your Brain";
+export const BLOG_RSS_FILE = "/blog/rss.xml";
+export const PODCAST_RSS_FILE = "/podcast/rss.xml";
+
 export type NavLink = { href: string; label: string };
 export type NavFolder = { label: string; id: string; items: NavLink[] };
 export type NavItem = NavLink | NavFolder;

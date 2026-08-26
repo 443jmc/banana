@@ -11,6 +11,9 @@
     "build": "astro build",
     "preview": "astro preview",
     "scrape": "node scripts/scrape.mjs",
+    "fetch-audio": "node scripts/fetch-audio.mjs",
+    "generate-feeds": "node scripts/generate-feeds.mjs",
+    "verify-feeds": "node scripts/verify-feeds.mjs",
     "astro": "astro"
   },
   "dependencies": {
