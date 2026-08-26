@@ -12,12 +12,21 @@ const RSS_HEADERS = {
 
 export async function onRequest(context) {
   const url = new URL(context.request.url);
-  if (url.searchParams.get("format") === "rss") {
+  const wantsRss = url.searchParams.get("format") === "rss";
+
+  if (wantsRss) {
     const rss = await context.env.ASSETS.fetch(new Request(new URL("/podcast/rss.xml", url.origin)));
     if (!rss.ok) {
       return new Response("Podcast feed unavailable", { status: 500 });
     }
     return new Response(rss.body, { status: 200, headers: RSS_HEADERS });
   }
+
+  if (url.pathname.endsWith("/") && url.pathname !== "/") {
+    const dest = new URL(url);
+    dest.pathname = dest.pathname.replace(/\/+$/, "") || "/";
+    return Response.redirect(dest.toString(), 301);
+  }
+
   return context.env.ASSETS.fetch(context.request);
 }

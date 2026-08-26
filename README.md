@@ -147,6 +147,31 @@ The look is taken from the live Squarespace 7.1 theme:
 
 Photography on the homepage (`K+Cadet.jpg`, `K9.jpg`, `tree+1.jpg`) and the favicon are downloaded locally so the clone does not hotlink the Squarespace CDN.
 
+## Tracking (live Squarespace IDs)
+
+Every page loads the same header tags from `src/layouts/BaseLayout.astro`. Do not change these IDs:
+
+| Product | ID |
+| --- | --- |
+| Google tag (gtag.js) | `G-FL14YETXQW` |
+| Google Tag Manager | `GTM-TLB6DLP9` |
+| Meta Pixel | `523134667361670` |
+| Facebook domain verification | `6trlgtc8wro0905iwbk9ha5nms0ms4` |
+
+GTM and the Meta Pixel include the usual `<noscript>` fallbacks immediately after `<body>`.
+
+Each page also emits the live homepage **MedicalBusiness** JSON-LD (Roseville Couples Counseling, LMFT #142990, no invented reviews or ratings) plus a simple **WebSite** graph.
+
 ## Trailing slashes and SEO
 
-Astro is configured with `trailingSlash: 'never'` and `build.format: 'file'`. Canonicals and the generated sitemap use `https://jamesmchristensen.com{path}` with no trailing slash (homepage is `https://jamesmchristensen.com`). `public/_redirects` sends `/home` → `/` and strips trailing slashes on Cloudflare Pages. `robots.txt` allows crawling and points at `https://jamesmchristensen.com/sitemap-index.xml`.
+Astro is configured with `trailingSlash: 'never'` and `build.format: 'file'`. Canonicals and the generated sitemap use `https://jamesmchristensen.com{path}` with no trailing slash (homepage is `https://jamesmchristensen.com`).
+
+Live Squarespace 200s both `/blog` and `/blog/`. This clone 301s the slashed form:
+
+```
+/*/ /:splat 301
+```
+
+That covers collection indexes and items (`/blog/<slug>/`, `/podcast/<slug>/`, `/book-summaries/<slug>/`, and every `src/content/pages` slug). It does **not** match files that already have an extension and no trailing slash, so `/blog/rss.xml` and `/audio/*.mp3` stay 200. `/blog?format=rss` and `/podcast?format=rss` have no trailing slash and still hit the Pages Functions (200 `application/rss+xml`).
+
+`www.jamesmchristensen.com` 301s to `https://jamesmchristensen.com` via `functions/_middleware.js` (same as the live site). `/home` still redirects to `/`. `robots.txt` allows crawling and points at `https://jamesmchristensen.com/sitemap-index.xml`.

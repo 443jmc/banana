@@ -23,6 +23,47 @@ export const PODCAST_RSS_TITLE = "Balance your Brain";
 export const BLOG_RSS_FILE = "/blog/rss.xml";
 export const PODCAST_RSS_FILE = "/podcast/rss.xml";
 
+/** Live Squarespace tracking IDs — do not change. */
+export const GA_MEASUREMENT_ID = "G-FL14YETXQW";
+export const GTM_CONTAINER_ID = "GTM-TLB6DLP9";
+export const META_PIXEL_ID = "523134667361670";
+export const FACEBOOK_DOMAIN_VERIFICATION = "6trlgtc8wro0905iwbk9ha5nms0ms4";
+
+/** Exact MedicalBusiness JSON-LD from the live homepage. */
+export const MEDICAL_BUSINESS_JSON_LD = {
+  "@context": "https://schema.org",
+  "@type": "MedicalBusiness",
+  name: "Roseville Couples Counseling",
+  url: "https://jamesmchristensen.com",
+  telephone: "916-292-8920",
+  address: {
+    "@type": "PostalAddress",
+    streetAddress: "300 Harding Blvd Suite 108",
+    addressLocality: "Roseville",
+    addressRegion: "CA",
+    postalCode: "95678",
+    addressCountry: "US",
+  },
+  openingHours: ["Mo-Su 07:00-21:00"],
+  priceRange: "$$",
+  description:
+    "Couples therapy in Roseville, CA for communication problems, disconnection, infidelity, and conflict. First session is free.",
+  founder: {
+    "@type": "Person",
+    name: "James Christensen",
+    jobTitle: "Licensed Marriage and Family Therapist",
+    hasCredential: "LMFT #142990",
+    sameAs: "https://www.psychologytoday.com/us/therapists/james-christensen-roseville-ca",
+  },
+} as const;
+
+export const WEBSITE_JSON_LD = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: "Roseville Couples Counseling",
+  url: "https://jamesmchristensen.com",
+} as const;
+
 export type NavLink = { href: string; label: string };
 export type NavFolder = { label: string; id: string; items: NavLink[] };
 export type NavItem = NavLink | NavFolder;

@@ -1,4 +1,12 @@
+# Apex paths only. www → https://jamesmchristensen.com is handled in
+# functions/_middleware.js and in the Cloudflare custom-domain settings.
 /home / 301
 /home/ / 301
 /cart / 301
+
+# Trailing slash → canonical unsashed URL for every public page and item.
+# Matches /blog/, /podcast/slug/, /book-summaries/slug/, /communication/, etc.
+# Does not match files that already have an extension and no trailing slash
+# (/blog/rss.xml, /audio/*.mp3, /_astro/*.css). /blog?format=rss has no
+# trailing slash so it still hits functions/blog.js (200 RSS, not a redirect).
 /*/ /:splat 301

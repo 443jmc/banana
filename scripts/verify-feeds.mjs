@@ -9,6 +9,7 @@ import { join } from "node:path";
 import * as cheerio from "cheerio";
 import { onRequest as blogOnRequest } from "../functions/blog.js";
 import { onRequest as podcastOnRequest } from "../functions/podcast.js";
+import { onRequest as hostMiddleware } from "../functions/_middleware.js";
 
 const ROOT = new URL("..", import.meta.url).pathname;
 
@@ -106,6 +107,23 @@ async function checkFunction(handler, path, feedFile) {
   });
   if (htmlRes.status !== 200) fail(`${path} HTML status ${htmlRes.status}`);
   else ok(`${path} without query still served (${htmlRes.status})`);
+
+  const slashRss = await handler({
+    request: new Request(`https://jamesmchristensen.com${path}/?format=rss`),
+    env: { ASSETS: assets },
+  });
+  if (slashRss.status !== 200 || !(slashRss.headers.get("content-type") || "").includes("application/rss+xml")) {
+    fail(`${path}/?format=rss must stay 200 RSS (got ${slashRss.status} ${slashRss.headers.get("content-type")})`);
+  } else {
+    ok(`${path}/?format=rss → 200 RSS (not a redirect)`);
+  }
+
+  const slashHtml = await handler({
+    request: new Request(`https://jamesmchristensen.com${path}/`),
+    env: { ASSETS: assets },
+  });
+  if (slashHtml.status !== 301) fail(`${path}/ HTML status ${slashHtml.status}, expected 301`);
+  else ok(`${path}/ → 301 ${slashHtml.headers.get("location")}`);
 }
 
 async function checkPagesAudio() {
@@ -150,6 +168,67 @@ async function statIf(path) {
   }
 }
 
+async function checkHostRedirect() {
+  const redirected = await hostMiddleware({
+    request: new Request("https://www.jamesmchristensen.com/blog?format=rss"),
+    next: async () => new Response("should not run", { status: 500 }),
+  });
+  if (redirected.status !== 301) fail(`www host redirect status ${redirected.status}`);
+  else if (redirected.headers.get("location") !== "https://jamesmchristensen.com/blog?format=rss") {
+    fail(`www host redirect location ${redirected.headers.get("location")}`);
+  } else {
+    ok("www.jamesmchristensen.com → https://jamesmchristensen.com (query preserved)");
+  }
+
+  let nextCalled = false;
+  const passed = await hostMiddleware({
+    request: new Request("https://jamesmchristensen.com/blog?format=rss"),
+    next: async () => {
+      nextCalled = true;
+      return new Response("ok", { status: 200 });
+    },
+  });
+  if (!nextCalled || passed.status !== 200) fail("apex host must fall through to RSS functions");
+  else ok("apex host falls through to the next handler");
+}
+
+async function checkBuiltHtml() {
+  const index = join(ROOT, "dist/index.html");
+  const blog = join(ROOT, "dist/blog.html");
+  if (!existsSync(index)) {
+    console.log("SKIP: dist/index.html not built yet (run npm run build)");
+    return;
+  }
+  const html = await readFile(index, "utf8");
+  const needles = [
+    "G-FL14YETXQW",
+    "GTM-TLB6DLP9",
+    "523134667361670",
+    'name="facebook-domain-verification"',
+    "6trlgtc8wro0905iwbk9ha5nms0ms4",
+    '"@type":"MedicalBusiness"',
+    "LMFT #142990",
+    '"@type":"WebSite"',
+    "https://connect.facebook.net/en_US/fbevents.js",
+  ];
+  for (const needle of needles) {
+    if (!html.includes(needle)) fail(`dist/index.html missing ${needle}`);
+    else ok(`dist/index.html includes ${needle}`);
+  }
+  if (existsSync(blog)) {
+    const blogHtml = await readFile(blog, "utf8");
+    if (!blogHtml.includes("G-FL14YETXQW") || !blogHtml.includes("MedicalBusiness")) {
+      fail("dist/blog.html missing site-wide tracking or JSON-LD");
+    } else {
+      ok("dist/blog.html also has tracking + MedicalBusiness JSON-LD");
+    }
+  }
+
+  const redirects = await readFile(join(ROOT, "public/_redirects"), "utf8");
+  if (!redirects.includes("/*/ /:splat 301")) fail("public/_redirects missing trailing-slash splat");
+  else ok("public/_redirects has /*/ /:splat 301");
+}
+
 async function main() {
   await checkStaticFeed("public/blog/rss.xml", {
     title: "Roseville Couples Therapy Blog",
@@ -171,6 +250,8 @@ async function main() {
   await checkFunction(blogOnRequest, "/blog", "public/blog/rss.xml");
   await checkFunction(podcastOnRequest, "/podcast", "public/podcast/rss.xml");
   await checkPagesAudio();
+  await checkHostRedirect();
+  await checkBuiltHtml();
 
   if (process.exitCode) {
     console.error("\nFeed verification failed.");
