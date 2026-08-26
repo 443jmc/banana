@@ -1,6 +1,6 @@
 export const SITE_NAME = "Roseville Couples Counseling";
 export const PRACTITIONER = "James Christensen LMFT";
-export const LICENSE = "LMFT #142990";
+export const LICENSE = "#142990";
 export const PHONE_DISPLAY = "916-292-8920";
 export const PHONE_TEL = "tel:9162928920";
 export const EMAIL_DISPLAY = "james@jamesmchristensen.com";

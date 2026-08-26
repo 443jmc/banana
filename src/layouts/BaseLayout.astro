@@ -19,7 +19,8 @@ const {
 } = Astro.props;
 
 const pageTitle = title.includes(SITE_NAME) ? title : `${title} | ${SITE_NAME}`;
-const canonical = new URL(canonicalPath || Astro.url.pathname.replace(/\/$/, "") || "/", Astro.site);
+const rawPath = canonicalPath || Astro.url.pathname.replace(/\.html$/, "").replace(/\/$/, "") || "/";
+const canonical = new URL(rawPath, Astro.site);
 const ogImage = image.startsWith("http") ? image : new URL(image, Astro.site).href;
 ---
 
