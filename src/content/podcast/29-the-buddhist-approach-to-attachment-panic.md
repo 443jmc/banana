@@ -5,16 +5,16 @@ sourceUrl: "https://jamesmchristensen.com/podcast/29-the-buddhist-approach-to-at
 pubDate: "2025-09-28T11:26:08-0700"
 heroImage: /images/podcast/podcast-29-the-buddhist-approach-to-attachment-panic-40af685e5c.png
 excerpt: "Catherine Roebuck joins me to discuss Chapter 2 of Bruce Tift’s book “Already Free.” James Christensen: Catherine Roebuck: Listen to Balance Your Brain Podcast on Spotify: Listen to Balance Your Brain Podcast on…"
-audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68d97cb51d0db56188c182b5/1759083787185/Attachment+Panic+with+Catherine+Roebuck.mp3"
+audioUrl: "/audio/29-the-buddhist-approach-to-attachment-panic.mp3"
 embeds:
   - "https://www.youtube.com/embed/FYMV750QS7E?feature=oembed"
 seoTitle: 29. The Buddhist Approach to Attachment Panic
 ---
 
-<audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68d97cb51d0db56188c182b5/1759083787185/Attachment+Panic+with+Catherine+Roebuck.mp3"></audio>
+<audio controls="" preload="none" src="/audio/29-the-buddhist-approach-to-attachment-panic.mp3"></audio>
 
   
-[Download 29. Attachment Panic with Catherine Roebuck](https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68d97cb51d0db56188c182b5/1759083787185/Attachment+Panic+with+Catherine+Roebuck.mp3)
+[Download 29. Attachment Panic with Catherine Roebuck](/audio/29-the-buddhist-approach-to-attachment-panic.mp3)
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/FYMV750QS7E?feature=oembed" title="The Buddhist Approach to Attachment Panic" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>
 

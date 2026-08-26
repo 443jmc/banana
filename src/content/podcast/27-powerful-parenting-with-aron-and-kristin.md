@@ -5,7 +5,7 @@ sourceUrl: "https://jamesmchristensen.com/podcast/27-powerful-parenting-with-aro
 pubDate: "2025-08-19T11:16:41-0700"
 heroImage: /images/podcast/podcast-27-powerful-parenting-with-aron-and-kristin-648537f59c.png
 excerpt: "Kristin Areglado Hurley: Aron Carlson: Parenting Workshop: Transcript: James: My guests today are Aron Carlson and Kristen Alado Hurley, and they're here to talk about a parenting workshop that they have been…"
-audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68a48d8ccc467f13a343f1fa/1755614719125/Room+recording+-+Aug+17%2C+2025.mp3"
+audioUrl: "/audio/27-powerful-parenting-with-aron-and-kristin.mp3"
 embeds:
   - "https://www.youtube.com/embed/A9LGwt6uT6c?feature=oembed"
 seoTitle: 27. Powerful Parenting with Aron and Kristin
@@ -13,10 +13,10 @@ seoTitle: 27. Powerful Parenting with Aron and Kristin
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/A9LGwt6uT6c?feature=oembed" title="Powerful Parenting with Aron and Kristin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>
 
-<audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68a48d8ccc467f13a343f1fa/1755614719125/Room+recording+-+Aug+17%2C+2025.mp3"></audio>
+<audio controls="" preload="none" src="/audio/27-powerful-parenting-with-aron-and-kristin.mp3"></audio>
 
   
-[Download 27. Powerful Parenting with Aron and Kristin](https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68a48d8ccc467f13a343f1fa/1755614719125/Room+recording+-+Aug+17%2C+2025.mp3)
+[Download 27. Powerful Parenting with Aron and Kristin](/audio/27-powerful-parenting-with-aron-and-kristin.mp3)
 
 **Kristin Areglado Hurley:** [**https://www.karegladohurley.com/**](https://www.karegladohurley.com/￼Aron)
 

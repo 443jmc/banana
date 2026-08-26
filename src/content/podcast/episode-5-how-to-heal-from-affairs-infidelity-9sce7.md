@@ -5,13 +5,13 @@ sourceUrl: "https://jamesmchristensen.com/podcast/episode-5-how-to-heal-from-aff
 pubDate: "2024-12-15T16:10:01-0800"
 heroImage: /images/podcast/podcast-episode-5-how-to-heal-from-affairs-infidelity-9sce7-0612b2a53c.png
 excerpt: 10 parenting tips from James Christensen
-audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/675f6fb66ecf8361bf70f562/1734307784817/Parenting.mp3"
+audioUrl: "/audio/episode-5-how-to-heal-from-affairs-infidelity-9sce7.mp3"
 seoTitle: "Episode 6: Parenting"
 ---
 
-<audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/675f6fb66ecf8361bf70f562/1734307784817/Parenting.mp3"></audio>
+<audio controls="" preload="none" src="/audio/episode-5-how-to-heal-from-affairs-infidelity-9sce7.mp3"></audio>
 
   
-[Download Parenting](https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/675f6fb66ecf8361bf70f562/1734307784817/Parenting.mp3)
+[Download Parenting](/audio/episode-5-how-to-heal-from-affairs-infidelity-9sce7.mp3)
 
 10 parenting tips from James Christensen

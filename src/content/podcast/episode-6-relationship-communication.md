@@ -5,14 +5,14 @@ sourceUrl: "https://jamesmchristensen.com/podcast/episode-6-relationship-communi
 pubDate: "2024-12-24T08:46:34-0800"
 heroImage: /images/podcast/podcast-episode-6-relationship-communication-0612b2a53c.png
 excerpt: "1\\. Hit the Pause Button (10 Seconds or 10 Minutes) Before reacting to your partner, take a beat. There's magic in a well-timed pause. I like to think of two types: The 10-Second Pause: This is your quick breather.…"
-audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/676ae393752b3e596aa661f8/1735058345846/Communication.mp3"
+audioUrl: "/audio/episode-6-relationship-communication.mp3"
 seoTitle: "Episode 7: Relationship Communication"
 ---
 
-<audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/676ae393752b3e596aa661f8/1735058345846/Communication.mp3"></audio>
+<audio controls="" preload="none" src="/audio/episode-6-relationship-communication.mp3"></audio>
 
   
-[Download Episode 7: Relationship Communication](https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/676ae393752b3e596aa661f8/1735058345846/Communication.mp3)
+[Download Episode 7: Relationship Communication](/audio/episode-6-relationship-communication.mp3)
 
 **1\. Hit the Pause Button (10 Seconds or 10 Minutes)**
 

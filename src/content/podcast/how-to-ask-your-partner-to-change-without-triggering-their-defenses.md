@@ -5,14 +5,14 @@ sourceUrl: "https://jamesmchristensen.com/podcast/how-to-ask-your-partner-to-cha
 pubDate: "2026-02-20T15:33:41-0800"
 heroImage: /images/podcast/podcast-how-to-ask-your-partner-to-change-without-triggering-their-defenses-40af685e5c.png
 excerpt: "A conversation between James Christensen and . Catherine: We were talking the other day about pathological demand avoidance — with neurodivergent clients and their partners — and you offered a different term that I…"
-audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/6998ee51011bcc420c550056/1771630267001/Warm+Acceptance+and+Autonomy+Dialogue.mp3"
+audioUrl: "/audio/how-to-ask-your-partner-to-change-without-triggering-their-defenses.mp3"
 seoTitle: Don’t be a Doormat
 ---
 
-<audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/6998ee51011bcc420c550056/1771630267001/Warm+Acceptance+and+Autonomy+Dialogue.mp3"></audio>
+<audio controls="" preload="none" src="/audio/how-to-ask-your-partner-to-change-without-triggering-their-defenses.mp3"></audio>
 
   
-[Download How to Ask Your Partner to Change Without Triggering Their Defenses](https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/6998ee51011bcc420c550056/1771630267001/Warm+Acceptance+and+Autonomy+Dialogue.mp3)
+[Download How to Ask Your Partner to Change Without Triggering Their Defenses](/audio/how-to-ask-your-partner-to-change-without-triggering-their-defenses.mp3)
 
 *A conversation between James Christensen and* [*Catherine Roebuck*](https://catherineroebuck.com)*.*
 

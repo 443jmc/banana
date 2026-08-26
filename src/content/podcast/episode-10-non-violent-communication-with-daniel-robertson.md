@@ -5,16 +5,16 @@ sourceUrl: "https://jamesmchristensen.com/podcast/episode-10-non-violent-communi
 pubDate: "2025-06-07T05:14:31-0700"
 heroImage: /images/podcast/podcast-episode-10-non-violent-communication-with-daniel-robertson-0612b2a53c.png
 excerpt: "joins me to talk about nonviolent communication in relationships. Nonviolent Communication (NVC) is a communication model developed by Marshall Rosenberg in the 1960s. It focuses on fostering empathy, compassion, and…"
-audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/684429531583831c2fdfe2ab/1749297720209/Non+Violent+Communication.mp3"
+audioUrl: "/audio/episode-10-non-violent-communication-with-daniel-robertson.mp3"
 embeds:
   - "https://www.youtube.com/embed/T1pIMQ3kAy4?feature=oembed"
 seoTitle: "Episode 10: Non-Violent Communication for Couples With Daniel Robertson"
 ---
 
-<audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/684429531583831c2fdfe2ab/1749297720209/Non+Violent+Communication.mp3"></audio>
+<audio controls="" preload="none" src="/audio/episode-10-non-violent-communication-with-daniel-robertson.mp3"></audio>
 
   
-[Download Episode 10](https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/684429531583831c2fdfe2ab/1749297720209/Non+Violent+Communication.mp3)
+[Download Episode 10](/audio/episode-10-non-violent-communication-with-daniel-robertson.mp3)
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/T1pIMQ3kAy4?feature=oembed" title="Non-Violent Communication for Couples" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>
 

@@ -5,16 +5,16 @@ sourceUrl: "https://jamesmchristensen.com/podcast/30-a-therapists-escape-from-na
 pubDate: "2025-10-14T07:57:55-0700"
 heroImage: /images/podcast/podcast-30-a-therapists-escape-from-narcissism-40af685e5c.png
 excerpt: "Transcript: About three years ago, I began to accept that I was unusually narcissistic. I say it that way on purpose because I don't like to use the term \"you're a narcissist\" or \"you're not a narcissist.\"…"
-audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68ee63998212026e82b910dd/1760453696511/Escaping+Narcissism.mp3"
+audioUrl: "/audio/30-a-therapists-escape-from-narcissism.mp3"
 embeds:
   - "https://www.youtube.com/embed/9T0feAhpK-w?feature=oembed"
 seoTitle: 30. A Therapist’s Escape from Narcissism
 ---
 
-<audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68ee63998212026e82b910dd/1760453696511/Escaping+Narcissism.mp3"></audio>
+<audio controls="" preload="none" src="/audio/30-a-therapists-escape-from-narcissism.mp3"></audio>
 
   
-[Download A Therapist's Escape from Narcissism](https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68ee63998212026e82b910dd/1760453696511/Escaping+Narcissism.mp3)
+[Download A Therapist's Escape from Narcissism](/audio/30-a-therapists-escape-from-narcissism.mp3)
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/9T0feAhpK-w?feature=oembed" title="How I Learned I was Narcissistic" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>
 

@@ -197,6 +197,13 @@ async function rewritePodcastMarkdown(items) {
     if (item?.originalUrl && item.publicUrl) {
       const local = item.publicUrl.replace(SITE, "") || item.publicUrl;
       text = text.split(item.originalUrl).join(local);
+    } else if (item?.originalUrl && item.unavailable) {
+      text = text.replace(
+        `<audio controls="" preload="none" src="${item.originalUrl}"></audio>`,
+        ""
+      );
+      text = text.replace(`[Download Healing trauma with Catherine Roebuck.](${item.originalUrl})`, "");
+      text = text.split(item.originalUrl).join("");
     }
 
     text = text.replace(

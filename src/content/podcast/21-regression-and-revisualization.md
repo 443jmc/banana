@@ -5,14 +5,14 @@ sourceUrl: "https://jamesmchristensen.com/podcast/21-regression-and-revisualizat
 pubDate: "2025-08-05T11:10:16-0700"
 heroImage: /images/podcast/podcast-21-regression-and-revisualization-7b513f6507.png
 excerpt: "joins to talk about dealing with parental blindness Transcript James: Let's just start with what regression is. Regression is a reduced state of brain performance. How would you define it? Catherine: I think the more…"
-audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/6891f1ef06bec65c2b5d2353/1754395265810/Abramor+7.mp3"
+audioUrl: "/audio/21-regression-and-revisualization.mp3"
 seoTitle: 21. Regression and Revisualization
 ---
 
-<audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/6891f1ef06bec65c2b5d2353/1754395265810/Abramor+7.mp3"></audio>
+<audio controls="" preload="none" src="/audio/21-regression-and-revisualization.mp3"></audio>
 
   
-[Download 21. Regression and Revisualization](https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/6891f1ef06bec65c2b5d2353/1754395265810/Abramor+7.mp3)
+[Download 21. Regression and Revisualization](/audio/21-regression-and-revisualization.mp3)
 
 [**Catherine Roebuck**](http://catroebuck.com) **joins** [**James Christensen**]() **to talk about dealing with parental blindness**
 

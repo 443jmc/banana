@@ -5,7 +5,7 @@ sourceUrl: "https://jamesmchristensen.com/podcast/loving-on-purpose-a-conversati
 pubDate: "2025-12-25T17:08:17-0800"
 heroImage: /images/podcast/podcast-loving-on-purpose-a-conversation-with-catherine-roebuck-40af685e5c.png
 excerpt: "James: Loving from the heart and loving unilaterally is fundamentally an adult task, not a childhood task. Catherine: When you first told me that, my reaction was, \"Well, I know kids can love—I felt a lot of love as…"
-audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/694ddf27331f57266b73bc4e/1766711169418/Adult+Love.mp3"
+audioUrl: "/audio/loving-on-purpose-a-conversation-with-catherine-roebuck.mp3"
 embeds:
   - "https://www.youtube.com/embed/gvCQBSms6TE?feature=oembed"
 seoTitle: "Loving on Purpose: A Conversation with Catherine Roebuck"
@@ -13,10 +13,10 @@ seoTitle: "Loving on Purpose: A Conversation with Catherine Roebuck"
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/gvCQBSms6TE?feature=oembed" title="Loving on Purpose with Catherine Roebuck" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>
 
-<audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/694ddf27331f57266b73bc4e/1766711169418/Adult+Love.mp3"></audio>
+<audio controls="" preload="none" src="/audio/loving-on-purpose-a-conversation-with-catherine-roebuck.mp3"></audio>
 
   
-[Download 34. Loving on Purpose with Catherine Roebuck](https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/694ddf27331f57266b73bc4e/1766711169418/Adult+Love.mp3)
+[Download 34. Loving on Purpose with Catherine Roebuck](/audio/loving-on-purpose-a-conversation-with-catherine-roebuck.mp3)
 
 **James:** Loving from the heart and loving unilaterally is fundamentally an adult task, not a childhood task.
 

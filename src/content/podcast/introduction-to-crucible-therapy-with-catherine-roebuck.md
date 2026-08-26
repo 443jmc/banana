@@ -5,16 +5,16 @@ sourceUrl: "https://jamesmchristensen.com/podcast/introduction-to-crucible-thera
 pubDate: "2025-08-08T10:53:30-0700"
 heroImage: /images/podcast/podcast-introduction-to-crucible-therapy-with-catherine-roebuck-7b513f6507.png
 excerpt: "James Christensen: Catherine Roebuck: Transcript James: Why is this called Crucible therapy? Catherine Roebuck: The crucible metaphor comes from metalworking. A crucible is a heat-proof container that you can put…"
-audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/689638f8509ac7630a1a0af0/1754675554698/23.+Crucible+Therapy+with+Catherine+Roebuck.mp3"
+audioUrl: "/audio/introduction-to-crucible-therapy-with-catherine-roebuck.mp3"
 embeds:
   - "https://www.youtube.com/embed/e7FJMJxKDKs?feature=oembed"
 seoTitle: 23. Introduction to Crucible Therapy with Catherine Roebuck
 ---
 
-<audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/689638f8509ac7630a1a0af0/1754675554698/23.+Crucible+Therapy+with+Catherine+Roebuck.mp3"></audio>
+<audio controls="" preload="none" src="/audio/introduction-to-crucible-therapy-with-catherine-roebuck.mp3"></audio>
 
   
-[Download Crucible Therapy with Catherine Roebuck](https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/689638f8509ac7630a1a0af0/1754675554698/23.+Crucible+Therapy+with+Catherine+Roebuck.mp3)
+[Download Crucible Therapy with Catherine Roebuck](/audio/introduction-to-crucible-therapy-with-catherine-roebuck.mp3)
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/e7FJMJxKDKs?feature=oembed" title="23  Crucible Therapy with Catherine Roebuck" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>
 

@@ -21,11 +21,18 @@ function ok(message) {
   console.log(`OK: ${message}`);
 }
 
+function requestHref(input) {
+  if (typeof input === "string") return input;
+  if (input instanceof URL) return input.href;
+  if (input && typeof input.url === "string") return input.url;
+  if (input && typeof input.href === "string") return input.href;
+  return String(input);
+}
+
 function mockAssets(files) {
   return {
     async fetch(input) {
-      const url = typeof input === "string" ? input : input.url;
-      const path = new URL(url, "https://jamesmchristensen.com").pathname;
+      const path = new URL(requestHref(input), "https://jamesmchristensen.com").pathname;
       if (files[path]) {
         const body = await readFile(files[path]);
         const type = path.endsWith(".xml") ? "application/rss+xml" : "text/html";
@@ -55,7 +62,7 @@ async function checkStaticFeed(rel, { title, items, enclosures, author }) {
     if (enc !== enclosures) fail(`${rel} has ${enc} enclosures, expected ${enclosures}`);
     else ok(`${rel} has ${enclosures} enclosures`);
   }
-  if (author && !$("itunes\\:author, itunes:author").text().includes(author)) {
+  if (author && !xml.includes(`<itunes:author>${author}</itunes:author>`)) {
     fail(`${rel} missing itunes:author ${author}`);
   } else if (author) {
     ok(`${rel} itunes:author ${author}`);

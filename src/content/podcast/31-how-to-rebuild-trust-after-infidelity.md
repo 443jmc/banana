@@ -5,16 +5,16 @@ sourceUrl: "https://jamesmchristensen.com/podcast/31-how-to-rebuild-trust-after-
 pubDate: "2025-10-16T11:51:13-0700"
 heroImage: /images/podcast/podcast-31-how-to-rebuild-trust-after-infidelity-40af685e5c.png
 excerpt: "Transcript: If you recently found out that your partner has cheated on you, this video is for you. I'm going to talk about the three components of rebuilding trust after infidelity, and I think of these as three legs…"
-audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68f13daec3140856e47c6bd8/1760640450282/How+to+Rebuild+Trust+after+Infidelity.mp3"
+audioUrl: "/audio/31-how-to-rebuild-trust-after-infidelity.mp3"
 embeds:
   - "https://www.youtube.com/embed/ESX7RiFnFX4?feature=oembed"
 seoTitle: 31. How to Rebuild Trust after Infidelity
 ---
 
-<audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68f13daec3140856e47c6bd8/1760640450282/How+to+Rebuild+Trust+after+Infidelity.mp3"></audio>
+<audio controls="" preload="none" src="/audio/31-how-to-rebuild-trust-after-infidelity.mp3"></audio>
 
   
-[Download How to Rebuild Trust after Infidelity](https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68f13daec3140856e47c6bd8/1760640450282/How+to+Rebuild+Trust+after+Infidelity.mp3)
+[Download How to Rebuild Trust after Infidelity](/audio/31-how-to-rebuild-trust-after-infidelity.mp3)
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/ESX7RiFnFX4?feature=oembed" title="How to Rebuild Trust after Infidelity" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>
 

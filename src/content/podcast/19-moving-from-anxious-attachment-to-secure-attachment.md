@@ -5,14 +5,14 @@ sourceUrl: "https://jamesmchristensen.com/podcast/19-moving-from-anxious-attachm
 pubDate: "2025-08-04T11:32:55-0700"
 heroImage: /images/podcast/podcast-19-moving-from-anxious-attachment-to-secure-attachment-7b513f6507.png
 excerpt: "lays out how to create secure attachment with yourself and with your partner. Full Transcript James: I had to pause because you were way more fun before we started recording. Catherine: I feel like I'm too much when…"
-audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/6893e87ea53c8b11a824b305/1754523888421/19.+Moving+from+Anxious+Attachment+to+Secure+Attachment.mp3"
+audioUrl: "/audio/19-moving-from-anxious-attachment-to-secure-attachment.mp3"
 seoTitle: 19. Moving from Anxious Attachment to Secure Attachment
 ---
 
-<audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/6893e87ea53c8b11a824b305/1754523888421/19.+Moving+from+Anxious+Attachment+to+Secure+Attachment.mp3"></audio>
+<audio controls="" preload="none" src="/audio/19-moving-from-anxious-attachment-to-secure-attachment.mp3"></audio>
 
   
-[Download 19. Moving from Anxious Attachment to Secure Attachment](https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/6893e87ea53c8b11a824b305/1754523888421/19.+Moving+from+Anxious+Attachment+to+Secure+Attachment.mp3)
+[Download 19. Moving from Anxious Attachment to Secure Attachment](/audio/19-moving-from-anxious-attachment-to-secure-attachment.mp3)
 
 [Catherine Roebuck](http://catroebuck.com) lays out how to create secure attachment with yourself and with your partner. 
 

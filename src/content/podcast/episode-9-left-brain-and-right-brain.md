@@ -5,7 +5,7 @@ sourceUrl: "https://jamesmchristensen.com/podcast/episode-9-left-brain-and-right
 pubDate: "2025-05-22T08:24:51-0700"
 heroImage: /images/podcast/podcast-episode-9-left-brain-and-right-brain-0612b2a53c.png
 excerpt: "joins for a discussion of how to balance your brain. Key points: The left brain is a simplistic problem-solver with a narrow focus. It doesn’t understand people, it ignores context, and it constantly makes things up.…"
-audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/682f3ef501ce5e60b4459679/1747926848409/Balanced+Brain+Episode+9.mp3"
+audioUrl: "/audio/episode-9-left-brain-and-right-brain.mp3"
 embeds:
   - "https://www.youtube.com/embed/3bMaxJ5JKlg?feature=oembed"
 seoTitle: "Episode 9: Left Brain and Right Brain"
@@ -13,10 +13,10 @@ seoTitle: "Episode 9: Left Brain and Right Brain"
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/3bMaxJ5JKlg?feature=oembed" title="Use your Right Brain to Fix your Relationship" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>
 
-<audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/682f3ef501ce5e60b4459679/1747926848409/Balanced+Brain+Episode+9.mp3"></audio>
+<audio controls="" preload="none" src="/audio/episode-9-left-brain-and-right-brain.mp3"></audio>
 
   
-[Download Episode 9: Left Brain and Right Brain](https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/682f3ef501ce5e60b4459679/1747926848409/Balanced+Brain+Episode+9.mp3)
+[Download Episode 9: Left Brain and Right Brain](/audio/episode-9-left-brain-and-right-brain.mp3)
 
 [Catherine Roebuck](https://catroebuck.com/) joins [James Christensen]() for a discussion of how to balance your brain.  
   

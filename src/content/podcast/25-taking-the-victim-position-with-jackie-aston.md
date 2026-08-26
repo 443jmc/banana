@@ -5,7 +5,7 @@ sourceUrl: "https://jamesmchristensen.com/podcast/25-taking-the-victim-position-
 pubDate: "2025-08-15T11:35:04-0700"
 heroImage: /images/podcast/podcast-25-taking-the-victim-position-with-jackie-aston-648537f59c.png
 excerpt: "Jackie Aston: James Christensen: Jackie Aston is a licensed psychotherapist with over a decade of experience working with individuals and couples in Washington, DC, and Maryland, as well as coaching clients…"
-audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/689f7d46bd20811a25b5747a/1755282849467/Jackie+Aston.mp3"
+audioUrl: "/audio/25-taking-the-victim-position-with-jackie-aston.mp3"
 embeds:
   - "https://www.youtube.com/embed/cGbdqGwC25k?feature=oembed"
 seoTitle: 25. Making Moves in your Marriage with Jackie Aston
@@ -13,10 +13,10 @@ seoTitle: 25. Making Moves in your Marriage with Jackie Aston
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/cGbdqGwC25k?feature=oembed" title="25. Making Moves in your Marriage with Jackie Aston" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>
 
-<audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/689f7d46bd20811a25b5747a/1755282849467/Jackie+Aston.mp3"></audio>
+<audio controls="" preload="none" src="/audio/25-taking-the-victim-position-with-jackie-aston.mp3"></audio>
 
   
-[Download 25. Making Moves in your Marriage with Jackie Aston](https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/689f7d46bd20811a25b5747a/1755282849467/Jackie+Aston.mp3)
+[Download 25. Making Moves in your Marriage with Jackie Aston](/audio/25-taking-the-victim-position-with-jackie-aston.mp3)
 
 ### [**Listen on Spotify**](https://open.spotify.com/show/2PC7NKPstyNi08TNfYcyaT)
 

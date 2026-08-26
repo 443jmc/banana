@@ -5,7 +5,7 @@ sourceUrl: "https://jamesmchristensen.com/podcast/14-dr-corey-allan"
 pubDate: "2025-07-21T17:57:00-0700"
 heroImage: /images/podcast/podcast-14-dr-corey-allan-0612b2a53c.png
 excerpt: "Dr. Corey Allan from joins me for real talk about marriage and relationships. Transcript: James Christensen, LMFT: My guest today is Dr. Corey Allan from Sexy Marriage Radio. My first question for you, Corey, is…"
-audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/687ee0e4e514fb285eb0d5b3/1753145668713/Dr+Corey+from+Sexy+Marriage+Radio.mp3"
+audioUrl: "/audio/14-dr-corey-allan.mp3"
 embeds:
   - "https://www.youtube.com/embed/yGp1CWENwKk?feature=oembed"
 seoTitle: "14: Live your Way to a Better Marriage"
@@ -13,10 +13,10 @@ seoTitle: "14: Live your Way to a Better Marriage"
 
 Dr. Corey Allan from [Sexy Marriage Radio](https://smr.fm) joins me for real talk about marriage and relationships.
 
-<audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/687ee0e4e514fb285eb0d5b3/1753145668713/Dr+Corey+from+Sexy+Marriage+Radio.mp3"></audio>
+<audio controls="" preload="none" src="/audio/14-dr-corey-allan.mp3"></audio>
 
   
-[Download 14: Live your Way to a Better Marriage](https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/687ee0e4e514fb285eb0d5b3/1753145668713/Dr+Corey+from+Sexy+Marriage+Radio.mp3)
+[Download 14: Live your Way to a Better Marriage](/audio/14-dr-corey-allan.mp3)
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/yGp1CWENwKk?feature=oembed" title="Live your Way to a Better Marriage with Dr. Corey Allan" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>
 

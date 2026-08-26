@@ -5,16 +5,16 @@ sourceUrl: "https://jamesmchristensen.com/podcast/22-healthy-male-sexuality-with
 pubDate: "2025-08-08T08:48:28-0700"
 heroImage: /images/podcast/podcast-22-healthy-male-sexuality-with-heather-matthews-7b513f6507.png
 excerpt: "Healthy Male Sexuality with and Transcript Heather Matthews: I'm really passionate about this idea around men and shame around their sexuality. I work with a lot of men in my practice, which I really enjoy, and some…"
-audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/6896192f9afc7a20fe4a6c65/1754667404303/22.+Reframing+Male+Sexuality+with+Heather+Matthews.mp3"
+audioUrl: "/audio/22-healthy-male-sexuality-with-heather-matthews.mp3"
 embeds:
   - "https://www.youtube.com/embed/DiZWoQHn9L8?feature=oembed"
 seoTitle: 22. Healthy Male Sexuality with Heather Matthews
 ---
 
-<audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/6896192f9afc7a20fe4a6c65/1754667404303/22.+Reframing+Male+Sexuality+with+Heather+Matthews.mp3"></audio>
+<audio controls="" preload="none" src="/audio/22-healthy-male-sexuality-with-heather-matthews.mp3"></audio>
 
   
-[Download Healthy Male Sexuality](https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/6896192f9afc7a20fe4a6c65/1754667404303/22.+Reframing+Male+Sexuality+with+Heather+Matthews.mp3)
+[Download Healthy Male Sexuality](/audio/22-healthy-male-sexuality-with-heather-matthews.mp3)
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/DiZWoQHn9L8?feature=oembed" title="22. Healthy Male Sexuality with Heather Matthews" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>
 

@@ -5,14 +5,14 @@ sourceUrl: "https://jamesmchristensen.com/podcast/relational-life-therapy-with-a
 pubDate: "2025-11-27T00:08:44-0800"
 heroImage: /images/podcast/podcast-relational-life-therapy-with-audrey-schoen-40af685e5c.png
 excerpt: "joins me to talk about Terry Real’s Relational Life Therapy Transcript: James: My guest today is Audrey Schoen. Audrey is a relational life therapist. I'm a crucible therapist. And relational life therapy (RLT) and…"
-audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/692804be0dad5d330c1d82c5/1764230456779/Audrey.mp3"
+audioUrl: "/audio/relational-life-therapy-with-audrey-schoen.mp3"
 seoTitle: 33. Relational Life Therapy with Audrey Schoen
 ---
 
-<audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/692804be0dad5d330c1d82c5/1764230456779/Audrey.mp3"></audio>
+<audio controls="" preload="none" src="/audio/relational-life-therapy-with-audrey-schoen.mp3"></audio>
 
   
-[Download 33. Relational Life Therapy with Audrey Schoen](https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/692804be0dad5d330c1d82c5/1764230456779/Audrey.mp3)
+[Download 33. Relational Life Therapy with Audrey Schoen](/audio/relational-life-therapy-with-audrey-schoen.mp3)
 
 [Audrey Schoen](https://audreylmft.com) joins me to talk about Terry Real’s Relational Life Therapy
 

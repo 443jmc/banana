@@ -92,7 +92,7 @@ Pages rejects files over 25MB. Several live episodes are larger than that (the f
 - copies files ≤25MB into `public/audio/` unchanged
 - transcodes files >25MB to speech-quality mono MP3 so each published file stays under 25MB
 
-No episode is skipped. `scripts/data/audio-manifest.json` records original size, published path, and which files were transcoded.
+No episode is skipped. `scripts/data/audio-manifest.json` records original size, published path, and which files were transcoded (25 of 37 published files; the rest copied as-is).
 
 To serve the uncompressed originals later, put those objects in **Cloudflare R2** and point the enclosure URLs at the R2 public domain (or a Worker in front of `/audio/*`). Until then, the transcoded first-party files are what podcast apps get.
 

@@ -5,16 +5,16 @@ sourceUrl: "https://jamesmchristensen.com/podcast/26-crucible-therapy-with-dr-da
 pubDate: "2025-08-17T12:22:06-0700"
 heroImage: /images/podcast/podcast-26-crucible-therapy-with-dr-dave-jenkins-648537f59c.png
 excerpt: "James Christensen: Transcript: James: I was wondering if you'd be willing to tell me some of your memories of Dr. Schnarch. What first impressed you about him and what your relationship with him was like? Dave:…"
-audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68a229461d0cfd75684677a5/1755457949408/26.+Crucible+Therapy+with+Dr.+Dave+Jenkins.mp3"
+audioUrl: "/audio/26-crucible-therapy-with-dr-dave-jenkins.mp3"
 embeds:
   - "https://www.youtube.com/embed/oXu7F9YngSU?feature=oembed"
 seoTitle: 26. Crucible Therapy with Dr. Dave Jenkins.
 ---
 
-<audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68a229461d0cfd75684677a5/1755457949408/26.+Crucible+Therapy+with+Dr.+Dave+Jenkins.mp3"></audio>
+<audio controls="" preload="none" src="/audio/26-crucible-therapy-with-dr-dave-jenkins.mp3"></audio>
 
   
-[Download 26. Crucible Therapy with Dr. Dave Jenkins](https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68a229461d0cfd75684677a5/1755457949408/26.+Crucible+Therapy+with+Dr.+Dave+Jenkins.mp3)
+[Download 26. Crucible Therapy with Dr. Dave Jenkins](/audio/26-crucible-therapy-with-dr-dave-jenkins.mp3)
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/oXu7F9YngSU?feature=oembed" title="26  Crucible Therapy with Dr  Dave Jenkins" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>
 

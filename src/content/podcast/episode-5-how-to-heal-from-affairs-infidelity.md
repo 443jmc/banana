@@ -5,16 +5,16 @@ sourceUrl: "https://jamesmchristensen.com/podcast/episode-5-how-to-heal-from-aff
 pubDate: "2024-08-31T21:08:52-0700"
 heroImage: /images/podcast/podcast-episode-5-how-to-heal-from-affairs-infidelity-0612b2a53c.png
 excerpt: "James Christensen:  Catherine Roebuck: https://catroebuck.com 00:32 - The impact of infidelity on trust 01:13 - Mind blindness and its roots in childhood 01:46 - Infidelity as a symptom,…"
-audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/66d3e6ce76074d6f7109b007/1734307586202/Episode+5.mp3"
+audioUrl: "/audio/episode-5-how-to-heal-from-affairs-infidelity.mp3"
 embeds:
   - "https://www.youtube.com/embed/SLRkSo03j4c?feature=oembed"
 seoTitle: "Episode 5: Infidelity"
 ---
 
-<audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/66d3e6ce76074d6f7109b007/1734307586202/Episode+5.mp3"></audio>
+<audio controls="" preload="none" src="/audio/episode-5-how-to-heal-from-affairs-infidelity.mp3"></audio>
 
   
-[Download Affair Repair: How to Heal from Infidelity](https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/66d3e6ce76074d6f7109b007/1734307586202/Episode+5.mp3)
+[Download Affair Repair: How to Heal from Infidelity](/audio/episode-5-how-to-heal-from-affairs-infidelity.mp3)
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/SLRkSo03j4c?feature=oembed" title="Affair Repair:  Rebuilding Trust and Healing your Relationship after Infidelity" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>
 

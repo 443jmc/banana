@@ -5,7 +5,7 @@ sourceUrl: "https://jamesmchristensen.com/podcast/episode-3-chad-fraga-on-relati
 pubDate: "2024-07-24T15:41:04-0700"
 heroImage: /images/podcast/podcast-episode-3-chad-fraga-on-relationship-growth-0612b2a53c.png
 excerpt: "Transcript: Welcome to episode three of the James Christians podcast. That's me. I'm James, I'm here with my friend Chad Fraga. Say hi, Chad. Hey. Hey. How we doing? Uh, Chad and I are both therapists and we love to…"
-audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/66a17157af3d9c7812b17256/1721857039437/Podcast+Episode+3.mp3"
+audioUrl: "/audio/episode-3-chad-fraga-on-relationship-growth.mp3"
 embeds:
   - "https://www.youtube.com/embed/bwTfenQUN14?feature=oembed"
 seoTitle: "Episode 3: Chad Fraga on Relationship Growth"
@@ -13,10 +13,10 @@ seoTitle: "Episode 3: Chad Fraga on Relationship Growth"
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/bwTfenQUN14?feature=oembed" title="Episode 3:  Emotional Flashbacks in Relationship" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>
 
-<audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/66a17157af3d9c7812b17256/1721857039437/Podcast+Episode+3.mp3"></audio>
+<audio controls="" preload="none" src="/audio/episode-3-chad-fraga-on-relationship-growth.mp3"></audio>
 
   
-[Download Episode 3](https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/66a17157af3d9c7812b17256/1721857039437/Podcast+Episode+3.mp3)
+[Download Episode 3](/audio/episode-3-chad-fraga-on-relationship-growth.mp3)
 
 **Transcript:**
 

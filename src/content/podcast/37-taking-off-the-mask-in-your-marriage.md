@@ -5,7 +5,7 @@ sourceUrl: "https://jamesmchristensen.com/podcast/37-taking-off-the-mask-in-your
 pubDate: "2026-04-05T18:06:47-0700"
 heroImage: /images/podcast/podcast-37-taking-off-the-mask-in-your-marriage-40af685e5c.png
 excerpt: "IN THIS EPISODE: Why revealing the messy stuff in your mind builds trust — but only when paired with responsibility and thoughtfulness about timing and impact The case for telling your partner about an affair: the…"
-audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/69d3069b3f58bb231c16c0c2/1775437565230/Room+recording+-+Apr+4%2C+2026.mp3"
+audioUrl: "/audio/37-taking-off-the-mask-in-your-marriage.mp3"
 embeds:
   - "https://www.youtube.com/embed/90MXFG4khi4?feature=oembed"
 seoTitle: 37. Taking Off the Mask in Your Marriage
@@ -13,10 +13,10 @@ seoTitle: 37. Taking Off the Mask in Your Marriage
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/90MXFG4khi4?feature=oembed" title="Taking Off the Mask in Your Marriage" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>
 
-<audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/69d3069b3f58bb231c16c0c2/1775437565230/Room+recording+-+Apr+4%2C+2026.mp3"></audio>
+<audio controls="" preload="none" src="/audio/37-taking-off-the-mask-in-your-marriage.mp3"></audio>
 
   
-[Download Taking Off the Mask in Your Marriage](https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/69d3069b3f58bb231c16c0c2/1775437565230/Room+recording+-+Apr+4%2C+2026.mp3)
+[Download Taking Off the Mask in Your Marriage](/audio/37-taking-off-the-mask-in-your-marriage.mp3)
 
 IN THIS EPISODE:
 

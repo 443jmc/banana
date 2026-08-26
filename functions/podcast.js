@@ -13,7 +13,7 @@ const RSS_HEADERS = {
 export async function onRequest(context) {
   const url = new URL(context.request.url);
   if (url.searchParams.get("format") === "rss") {
-    const rss = await context.env.ASSETS.fetch(new URL("/podcast/rss.xml", url.origin));
+    const rss = await context.env.ASSETS.fetch(new Request(new URL("/podcast/rss.xml", url.origin)));
     if (!rss.ok) {
       return new Response("Podcast feed unavailable", { status: 500 });
     }

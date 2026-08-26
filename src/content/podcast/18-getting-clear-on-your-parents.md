@@ -5,14 +5,14 @@ sourceUrl: "https://jamesmchristensen.com/podcast/18-getting-clear-on-your-paren
 pubDate: "2025-08-02T23:43:14-0700"
 heroImage: /images/podcast/podcast-18-getting-clear-on-your-parents-7b513f6507.png
 excerpt: "James: I had a new client come in last week with his partner, his fiance. He's a very ambitious, very performance-oriented person. And he was super set on fixing this fast. What I told him is, \"I share your mindset.…"
-audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/688f04a44aeff0309f4f73bf/1754203363816/Getting+Clear+on+your+Parents.mp3"
+audioUrl: "/audio/18-getting-clear-on-your-parents.mp3"
 seoTitle: 18. Getting Clear on your Parents
 ---
 
-<audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/688f04a44aeff0309f4f73bf/1754203363816/Getting+Clear+on+your+Parents.mp3"></audio>
+<audio controls="" preload="none" src="/audio/18-getting-clear-on-your-parents.mp3"></audio>
 
   
-[Download Getting Clear on your Parents](https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/688f04a44aeff0309f4f73bf/1754203363816/Getting+Clear+on+your+Parents.mp3)
+[Download Getting Clear on your Parents](/audio/18-getting-clear-on-your-parents.mp3)
 
 **James:** I had a new client come in last week with his partner, his fiance. He's a very ambitious, very performance-oriented person. And he was super set on fixing this fast. What I told him is, "I share your mindset. I believe in fixing things fast. I really like to work efficiently," and most of the work that I do here is like fitness work where there are no overnight fixes. If you want to get a lot stronger, then you will need to do uncomfortable things on a daily basis for many months. Just as if you're getting physically stronger, that mental strength comes the same way. I said the only exception to that is I have seen incredibly rapid and extreme behavioral change when people get clear on their parents. So has that been your experience too? Have you seen behavior change really, really quickly when people suddenly see their parents more clearly?
 

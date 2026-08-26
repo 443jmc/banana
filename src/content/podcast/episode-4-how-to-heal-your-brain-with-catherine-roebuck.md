@@ -5,16 +5,16 @@ sourceUrl: "https://jamesmchristensen.com/podcast/episode-4-how-to-heal-your-bra
 pubDate: "2024-08-17T12:48:50-0700"
 heroImage: /images/podcast/podcast-episode-4-how-to-heal-your-brain-with-catherine-roebuck-0612b2a53c.png
 excerpt: "In this episode I’m talking to relationship coach Catherine Roebuck about Dr David Schnarch’s last book, Living at the Bottom of the Ocean. The book available as a free PDF download: Catherine’s site: My site:…"
-audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/66c0fd5cc726ca54717b0edf/1723923862595/Podcast+4.mp3"
+audioUrl: "/audio/episode-4-how-to-heal-your-brain-with-catherine-roebuck.mp3"
 embeds:
   - "https://www.youtube.com/embed/QguDJ8D7Ihg?feature=oembed"
 seoTitle: "Episode 4: How to Heal your Brain with Catherine Roebuck"
 ---
 
-<audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/66c0fd5cc726ca54717b0edf/1723923862595/Podcast+4.mp3"></audio>
+<audio controls="" preload="none" src="/audio/episode-4-how-to-heal-your-brain-with-catherine-roebuck.mp3"></audio>
 
   
-[Download Episode 4: Catherine Roebuck](https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/66c0fd5cc726ca54717b0edf/1723923862595/Podcast+4.mp3)
+[Download Episode 4: Catherine Roebuck](/audio/episode-4-how-to-heal-your-brain-with-catherine-roebuck.mp3)
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/QguDJ8D7Ihg?feature=oembed" title="When your Brain don" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>
 

@@ -5,16 +5,16 @@ sourceUrl: "https://jamesmchristensen.com/podcast/episode-11-right-brain-relatio
 pubDate: "2025-06-20T10:28:47-0700"
 heroImage: /images/podcast/podcast-episode-11-right-brain-relationship-5b17c110a2.png
 excerpt: "Listen on Spotify: Listen on Apple Podcasts: In this episode, and team up to talk about how your right brain can save your relationship. Have you ever listened to David Foster Wallace's commencement speech \"This Is…"
-audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68558b3f31da3d765fcd7ecd/1750436830966/Steve+1+1.mp3"
+audioUrl: "/audio/episode-11-right-brain-relationship.mp3"
 embeds:
   - "https://www.youtube.com/embed/c1cetbav57s?feature=oembed"
 seoTitle: How to use your right brain to have a better relationship.
 ---
 
-<audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68558b3f31da3d765fcd7ecd/1750436830966/Steve+1+1.mp3"></audio>
+<audio controls="" preload="none" src="/audio/episode-11-right-brain-relationship.mp3"></audio>
 
   
-[Download Episode 11: Right-Brain Relationships](https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68558b3f31da3d765fcd7ecd/1750436830966/Steve+1+1.mp3)
+[Download Episode 11: Right-Brain Relationships](/audio/episode-11-right-brain-relationship.mp3)
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/c1cetbav57s?feature=oembed" title="Therapist:  Your Left Brain is Ruining your Relationship" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>
 

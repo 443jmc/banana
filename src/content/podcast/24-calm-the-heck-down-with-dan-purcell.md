@@ -5,16 +5,16 @@ sourceUrl: "https://jamesmchristensen.com/podcast/24-calm-the-heck-down-with-dan
 pubDate: "2025-08-12T12:15:58-0700"
 heroImage: /images/podcast/podcast-24-calm-the-heck-down-with-dan-purcell-7b513f6507.png
 excerpt: "Dan Purcell: James Christensen: About Dan Purcell: Dan and his wife Emily Purcell are the founders of Get Your Marriage On! They are on a mission to help millions of couples overcome obstacles to significantly…"
-audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/689baa34e443f619202ebb98/1755032203453/24.+Calm+the+Heck+Down+with+Dan+Purcell.mp3"
+audioUrl: "/audio/24-calm-the-heck-down-with-dan-purcell.mp3"
 embeds:
   - "https://www.youtube.com/embed/tx0HMkvqYGE?feature=oembed"
 seoTitle: 24. Calm the heck down with Dan Purcell
 ---
 
-<audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/689baa34e443f619202ebb98/1755032203453/24.+Calm+the+Heck+Down+with+Dan+Purcell.mp3"></audio>
+<audio controls="" preload="none" src="/audio/24-calm-the-heck-down-with-dan-purcell.mp3"></audio>
 
   
-[Download 24. Calm the heck down with Dan Purcell](https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/689baa34e443f619202ebb98/1755032203453/24.+Calm+the+Heck+Down+with+Dan+Purcell.mp3)
+[Download 24. Calm the heck down with Dan Purcell](/audio/24-calm-the-heck-down-with-dan-purcell.mp3)
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/tx0HMkvqYGE?feature=oembed" title="24.  Calm the Heck Down with Dan Purcell" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>
 

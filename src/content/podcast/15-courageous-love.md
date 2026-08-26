@@ -5,14 +5,14 @@ sourceUrl: "https://jamesmchristensen.com/podcast/15-courageous-love"
 pubDate: "2025-08-02T16:19:46-0700"
 heroImage: /images/podcast/podcast-15-courageous-love-0612b2a53c.png
 excerpt: "This conversation between James Christensen and Catherine Roebuck was recorded on July 22, 2025. Full Transcript: Catherine: The thing I was thinking about is that mature love is courageous love. That's the only kind…"
-audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/688e9b810ca309629a786938/1754176516135/Abramor+1.mp3"
+audioUrl: "/audio/15-courageous-love.mp3"
 seoTitle: "15: Courageous Love"
 ---
 
-<audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/688e9b810ca309629a786938/1754176516135/Abramor+1.mp3"></audio>
+<audio controls="" preload="none" src="/audio/15-courageous-love.mp3"></audio>
 
   
-[Download 15: Courageous Love with Catherine Roebuck](https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/688e9b810ca309629a786938/1754176516135/Abramor+1.mp3)
+[Download 15: Courageous Love with Catherine Roebuck](/audio/15-courageous-love.mp3)
 
 **This conversation between James Christensen and Catherine Roebuck was recorded on July 22, 2025.**
 
