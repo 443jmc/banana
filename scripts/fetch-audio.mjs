@@ -84,7 +84,13 @@ async function downloadTo(url, dest) {
   let lastErr;
   for (let attempt = 1; attempt <= RETRIES; attempt++) {
     try {
-      const res = await fetch(url, { headers: { "User-Agent": UA } });
+      const res = await fetch(url, {
+        headers: {
+          "User-Agent": UA,
+          Referer: "https://jamesmchristensen.com/podcast",
+          Accept: "audio/mpeg,audio/*,video/mp4,video/*,*/*",
+        },
+      });
       if (!res.ok || !res.body) throw new Error(`${res.status} ${url}`);
       await pipeline(Readable.fromWeb(res.body), createWriteStream(tmp));
       await rename(tmp, dest);
@@ -257,18 +263,24 @@ export async function fetchAudio() {
       already.size > 1000 &&
       (expected === 0 || Math.abs(already.size - expected) < 2048 || already.size >= expected * 0.9);
 
-    if (fresh) {
-      console.log(`  cached ${item.slug} (${already.size} bytes)`);
-    } else {
-      console.log(`  download ${item.slug}`);
-      await downloadTo(item.originalUrl, originalPath);
-    }
+    try {
+      if (fresh) {
+        console.log(`  cached ${item.slug} (${already.size} bytes)`);
+      } else {
+        console.log(`  download ${item.slug}`);
+        await downloadTo(item.originalUrl, originalPath);
+      }
 
-    const published = await publishFile(item, originalPath);
-    Object.assign(item, published);
-    console.log(
-      `  → ${item.localPath} ${item.bytes} bytes${item.transcoded ? " (transcoded)" : ""}`
-    );
+      const published = await publishFile(item, originalPath);
+      Object.assign(item, published);
+      console.log(
+        `  → ${item.localPath} ${item.bytes} bytes${item.transcoded ? " (transcoded)" : ""}`
+      );
+    } catch (err) {
+      item.unavailable = true;
+      item.reason = `Live enclosure could not be downloaded: ${err.message}`;
+      console.warn(`  UNAVAILABLE ${item.slug}: ${err.message}`);
+    }
   });
 
   const manifest = {
@@ -287,6 +299,7 @@ export async function fetchAudio() {
       bytes: item.bytes || 0,
       type: item.type || null,
       transcoded: !!item.transcoded,
+      unavailable: !!item.unavailable,
       reason: item.reason || null,
     })),
   };

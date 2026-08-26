@@ -124,6 +124,14 @@ async function checkPagesAudio() {
   const noEnc = manifest.items.filter((i) => !i.originalUrl);
   if (noEnc.length !== 1) fail(`Expected 1 item without enclosure, found ${noEnc.length}`);
   else ok(`Kept ${noEnc[0].slug} without an enclosure`);
+  const dead = manifest.items.filter((i) => i.unavailable);
+  if (dead.length) {
+    ok(
+      `Documented ${dead.length} live enclosure(s) already missing on Squarespace: ${dead
+        .map((i) => i.slug)
+        .join(", ")}`
+    );
+  }
 }
 
 async function statIf(path) {
@@ -141,10 +149,16 @@ async function main() {
     items: 20,
     enclosures: 0,
   });
+  const manifestPath = join(ROOT, "scripts/data/audio-manifest.json");
+  const manifest = existsSync(manifestPath)
+    ? JSON.parse(await readFile(manifestPath, "utf8"))
+    : { items: [] };
+  const expectedEnclosures = manifest.items.filter((i) => i.publicUrl && !i.unavailable).length;
+
   await checkStaticFeed("public/podcast/rss.xml", {
     title: "Balance your Brain",
     items: 39,
-    enclosures: 38,
+    enclosures: expectedEnclosures || 37,
     author: "James Christensen",
   });
   await checkFunction(blogOnRequest, "/blog", "public/blog/rss.xml");

@@ -81,7 +81,7 @@ Every enclosure is now first-party:
 
 `https://jamesmchristensen.com/audio/<slug>.mp3`
 
-(or `.mp4` for the one episode whose live enclosure was `video/mp4`). Episode **13: The Power of Authenticity** has no enclosure in the live feed; that item is kept without audio rather than inventing a file.
+(or `.mp4` when the live enclosure is a video file that still exists). Episode **13: The Power of Authenticity** has no enclosure in the live feed; that item is kept without audio rather than inventing a file. The live **Healing Trauma with Catherine Roebuck** enclosure is a `video/mp4` with `length="0"` that already 404s on Squarespace; it is not replaced with invented audio.
 
 On-page `<audio>` players and download links use the same `/audio/<slug>.*` paths.
 

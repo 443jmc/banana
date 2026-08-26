@@ -78,16 +78,31 @@ async function rewritePodcastEnclosures(xml, manifest) {
     if (item.originalUrl) byOriginal.set(item.originalUrl, item);
   }
 
-  return xml.replace(/<enclosure\b[^>]*\/?>/g, (tag) => {
+  let out = xml.replace(/<enclosure\b[^>]*\/?>/g, (tag) => {
     const urlMatch = tag.match(/\burl="([^"]+)"/);
     if (!urlMatch) return tag;
     const oldUrl = urlMatch[1];
     const mapped = byOriginal.get(oldUrl);
-    if (!mapped?.publicUrl) {
+    if (mapped?.unavailable || !mapped?.publicUrl) {
+      if (mapped?.unavailable) return "";
       throw new Error(`No first-party mapping for enclosure ${oldUrl}`);
     }
     return `<enclosure url="${escapeAttr(mapped.publicUrl)}" length="${mapped.bytes || 0}" type="${escapeAttr(mapped.type || "audio/mpeg")}"/>`;
   });
+
+  out = out.replace(/<media:content\b[^>]*>[\s\S]*?<\/media:content>/g, (block) => {
+    const urlMatch = block.match(/\burl="([^"]+)"/);
+    if (!urlMatch) return block;
+    const mapped = byOriginal.get(urlMatch[1]);
+    if (!mapped) return block;
+    if (mapped.unavailable || !mapped.publicUrl) return "";
+    return block
+      .replace(/\burl="[^"]+"/, `url="${escapeAttr(mapped.publicUrl)}"`)
+      .replace(/\blength="[^"]+"/, `length="${mapped.bytes || 0}"`)
+      .replace(/\btype="[^"]+"/, `type="${escapeAttr(mapped.type || "audio/mpeg")}"`);
+  });
+
+  return out;
 }
 
 function rewriteSquarespaceAudioUrls(xml, manifest) {
@@ -95,14 +110,14 @@ function rewriteSquarespaceAudioUrls(xml, manifest) {
   for (const item of manifest.items || []) {
     if (item.originalUrl && item.publicUrl) {
       out = out.split(item.originalUrl).join(item.publicUrl);
+    } else if (item.originalUrl && item.unavailable) {
+      out = out.split(item.originalUrl).join("");
     }
   }
-  if (/static1\.squarespace\.com/i.test(out) && /<enclosure/i.test(out)) {
-    const leftover = out.match(/https?:\/\/static1\.squarespace\.com[^"'<\s]+/g) || [];
-    const audioLeft = leftover.filter((u) => /\.(mp3|mp4|m4a)(\?|$)/i.test(u) || /\/t\/[0-9a-f]+\//i.test(u));
-    if (audioLeft.length) {
-      throw new Error(`Squarespace audio URLs remain in podcast feed:\n${audioLeft.join("\n")}`);
-    }
+  const leftover = out.match(/https?:\/\/static1\.squarespace\.com[^"'<\s]+/g) || [];
+  const audioLeft = leftover.filter((u) => /\.(mp3|mp4|m4a)(\?|$)/i.test(u));
+  if (audioLeft.length) {
+    throw new Error(`Squarespace audio URLs remain in podcast feed:\n${audioLeft.join("\n")}`);
   }
   return out;
 }
