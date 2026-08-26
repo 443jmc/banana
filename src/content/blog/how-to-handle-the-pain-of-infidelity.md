@@ -5,6 +5,7 @@ sourceUrl: "https://jamesmchristensen.com/blog/how-to-handle-the-pain-of-infidel
 pubDate: "2026-05-01T07:49:10-0700"
 heroImage: /images/blog/blog-how-to-handle-the-pain-of-infidelity-995ea460c5.png
 excerpt: "Your brain is mostly optimized to survive childhood, it's not really designed for adult relationships. Your partner occupies the place in your mind that is reserved for the person who's supposed to love you. And that…"
+seoTitle: How to Handle the Pain of Infidelity
 ---
 
 ![](/images/site/blog-be2423858d.png)

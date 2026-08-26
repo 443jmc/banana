@@ -8,6 +8,7 @@ excerpt: "James and Catherine discuss why yelling at kids is harmful, except in 
 audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/69d6ad8a8ba58b7666828581/1775676908281/Room+recording+-+Apr+7%2C+2026.mp3"
 embeds:
   - "https://www.youtube.com/embed/qE7n9_26B2Q?feature=oembed"
+seoTitle: "38. Is there ever a good reason to yell at your kids?"
 ---
 
 <audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/69d6ad8a8ba58b7666828581/1775676908281/Room+recording+-+Apr+7%2C+2026.mp3"></audio>

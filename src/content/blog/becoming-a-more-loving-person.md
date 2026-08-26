@@ -6,6 +6,7 @@ pubDate: "2025-12-23T13:12:07-0800"
 excerpt: "The absolute lowest point of my marriage came a few years ago when I was having an emotional affair, and my wife asked me to stop. I said no. When I think back to that conversation now, the thing that stands out most…"
 embeds:
   - "https://www.youtube.com/embed/u3IuFBkvN8c?feature=oembed"
+seoTitle: Becoming a More Loving Person
 ---
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/u3IuFBkvN8c?feature=oembed" title="Becoming a More Loving Person" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>

@@ -4,6 +4,7 @@ description: "Every family exists somewhere on a spectrum of financial poverty t
 sourceUrl: "https://jamesmchristensen.com/blog/are-you-living-in-emotional-poverty"
 pubDate: "2024-10-09T14:26:04-0700"
 excerpt: "Every family exists somewhere on a spectrum of financial poverty to extreme wealth. There is a similar spectrum for emotional wealth in families. Like most therapists, I was born into emotional poverty, and have…"
+seoTitle: "Are you Living in Emotional Poverty?"
 ---
 
 Every family exists somewhere on a spectrum of financial poverty to extreme wealth. There is a similar spectrum for emotional wealth in families. Like most therapists, I was born into emotional poverty, and have spent many years trying to help my family climb out of that pit. Let’s take a look at what families are like at various levels of emotional wealth:

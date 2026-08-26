@@ -5,6 +5,7 @@ sourceUrl: "https://jamesmchristensen.com/blog/growth-after-infidelity"
 pubDate: "2026-05-01T07:22:02-0700"
 heroImage: /images/blog/blog-growth-after-infidelity-cfc9d01be3.png
 excerpt: The end of infidelity can mark the beginning of a much better relationship. I have seen hundreds of couples use infidelity as a way to rebuild their relationship into something much better than it was before. When…
+seoTitle: Growth after Infidelity
 ---
 
 ![](/images/site/blog-85e4b3396c.png)

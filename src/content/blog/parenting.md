@@ -4,6 +4,7 @@ description: "We don’t get the sudden ability to manage our own emotionality j
 sourceUrl: "https://jamesmchristensen.com/blog/parenting"
 pubDate: "2023-10-28T11:31:58-0700"
 excerpt: "“So much is asked of parents, and so little is given.” –Virginia Satir Emotional Punishment is the default Most parents use emotional punishment to control their children. The implicit contract is this: if you don’t…"
+seoTitle: Parenting Without Emotional Punishment
 ---
 
 “So much is asked of parents, and so little is given.”

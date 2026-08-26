@@ -8,6 +8,7 @@ excerpt: "Jackie Aston: James Christensen: Jackie Aston is a licensed psychother
 audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/689f7d46bd20811a25b5747a/1755282849467/Jackie+Aston.mp3"
 embeds:
   - "https://www.youtube.com/embed/cGbdqGwC25k?feature=oembed"
+seoTitle: 25. Making Moves in your Marriage with Jackie Aston
 ---
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/cGbdqGwC25k?feature=oembed" title="25. Making Moves in your Marriage with Jackie Aston" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>

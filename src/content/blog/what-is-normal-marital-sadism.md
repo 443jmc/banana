@@ -4,6 +4,7 @@ description: "Normal marital sadism (NMS) is a term coined by Dr. David Schnarch
 sourceUrl: "https://jamesmchristensen.com/blog/what-is-normal-marital-sadism"
 pubDate: "2024-12-17T22:38:04-0800"
 excerpt: "Normal marital sadism (NMS) is a term coined by Dr. David Schnarch to describe the subtle but cruel ways partners can hurt each other emotionally in a marriage. It's a common problem, often hidden because our society…"
+seoTitle: "What is Normal Marital Sadism?"
 ---
 
 **Normal marital sadism (NMS) is a term coined by Dr. David Schnarch** to describe the subtle but cruel ways partners can hurt each other emotionally in a marriage. It's a common problem, often hidden because our society tends to accept some of these behaviors as normal in marriage. NMS goes beyond simple arguments or disagreements; **it's about deriving satisfaction from causing your partner emotional pain**. Although it doesn't involve physical abuse, it can be very damaging.

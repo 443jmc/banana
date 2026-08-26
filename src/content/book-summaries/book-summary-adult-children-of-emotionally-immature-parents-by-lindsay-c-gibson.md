@@ -4,6 +4,7 @@ description: "Chapter-by-chapter summary of Lindsay Gibson's Adult Children of E
 sourceUrl: "https://jamesmchristensen.com/book-summaries/book-summary-adult-children-of-emotionally-immature-parents-by-lindsay-c-gibson"
 pubDate: "2026-02-05T12:52:04-0800"
 excerpt: "If you grew up feeling like you had to be the emotionally mature one in your family, you're not alone. Many adults realize that their parents were emotionally immature — unable to handle strong feelings, lack…"
+seoTitle: "Book Summary: Adult Children of Emotionally Immature Parents by Lindsay C. Gibson"
 ---
 
 If you grew up feeling like you had to be the emotionally mature one in your family, you're not alone. Many adults realize that their parents were emotionally immature — unable to handle strong feelings, lack self-awareness, and struggled to meet their children's emotional needs. This realization can be both liberating and confusing, especially when you're trying to build healthy relationships as an adult.

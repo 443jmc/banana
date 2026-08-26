@@ -4,6 +4,7 @@ description: "The way we breathe changes the way we feel. Each of these exercise
 sourceUrl: "https://jamesmchristensen.com/blog/breathing"
 pubDate: "2023-12-30T19:49:34-0800"
 excerpt: "The way we breathe changes the way we feel. Each of these exercises can help you feel less fear, sadness, and anxiety. General recommendations You can’t fill your lungs if you’re hunched over. Sit up straight or lie…"
+seoTitle: Breathing for Mental Health
 ---
 
 The way we breathe changes the way we feel. Each of these exercises can help you feel less fear, sadness, and anxiety. 

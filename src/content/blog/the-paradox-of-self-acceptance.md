@@ -4,6 +4,7 @@ description: "My therapist says that respect is accepting a person exactly the w
 sourceUrl: "https://jamesmchristensen.com/blog/the-paradox-of-self-acceptance"
 pubDate: "2026-01-30T10:41:39-0800"
 excerpt: "My therapist says that respect is accepting a person exactly the way they are. If that is true, then self-respect means accepting myself exactly the way I am. When I consider that thought, a little red warning flag…"
+seoTitle: The Paradox of Self-Acceptance
 ---
 
 My therapist says that respect is accepting a person exactly the way they are. If that is true, then self-respect means accepting myself exactly the way I am.

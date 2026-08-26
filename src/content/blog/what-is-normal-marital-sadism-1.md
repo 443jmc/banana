@@ -4,6 +4,7 @@ description: "Normal marital sadism (NMS) is the emotional torture partners infl
 sourceUrl: "https://jamesmchristensen.com/blog/what-is-normal-marital-sadism-1"
 pubDate: "2024-12-24T09:11:40-0800"
 excerpt: "Normal marital sadism (NMS) is the emotional torture partners inflict on each other within a marriage. It is a common occurrence in marriage and often plays out in a couple's sex life. It can involve saying hurtful…"
+seoTitle: "What is Normal Marital Sadism?"
 ---
 
 **Normal marital sadism (NMS) is the emotional torture partners inflict on each other within a marriage.** It is a common occurrence in marriage and often plays out in a couple's sex life. It can involve saying hurtful things, withholding important information, or subtly coercing, pressuring, manipulating, or demeaning one’s partner.

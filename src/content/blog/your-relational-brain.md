@@ -1,9 +1,10 @@
 ---
 title: Your Relational Brain
-description: "Your relational brain is the part of your brain that is designed to help you have healthy relationships with other people.     When your relational brain is online, you care about your partner, and you also care about yourself. You’re less likely to do or say something that makes your partner uncomfortable, unless you have a really good reason to do so.     Your relational brain sees your partner as a living, breathing, human being, just like you. It sees their love, their passion, their sadness, their longing. "
+description: "Your relational brain is the part of your brain that is designed to help you have healthy relationships with other people.     When your relational brain is online, you care about your partner, and you also care about yourself. You’re less likely to do or say something that makes your partner uncomfortable, unless you have a really good reason to do so.&nbsp;    Your relational brain sees your partner as a living, breathing, human being, just like you. It sees their love, their passion, their sadness, their longing.&nbsp;"
 sourceUrl: "https://jamesmchristensen.com/blog/your-relational-brain"
 pubDate: "2025-06-05T11:39:51-0700"
 excerpt: "Your relational brain is the part of your brain that is designed to help you have healthy relationships with other people. When your relational brain is online, you care about your partner, and you also care about…"
+seoTitle: Your Relational Brain
 ---
 
 **Your relational brain is the part of your brain that is designed to help you have healthy relationships with other people.**

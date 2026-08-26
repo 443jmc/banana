@@ -3,6 +3,7 @@ title: Couples Therapy for Citrus Heights Residents
 description: Couples therapy for Citrus Heights residents. In-person in nearby Roseville or online from home. Rebuild trust and connection. Free first session.
 sourceUrl: "https://jamesmchristensen.com/couples-therapy-citrus-heights"
 pubDate: 2026-02-02
+seoTitle: "Couples Therapy Citrus Heights | Marriage Counseling Near You"
 ---
 
 # Couples Therapy for Citrus Heights Residents

@@ -8,6 +8,7 @@ excerpt: "In this episode, James Christensen and Catherine Roebuck explore what 
 audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/67ae8baff3b850158bf65287/1739492301396/Coming+Alive.mp3"
 embeds:
   - "https://www.youtube.com/embed/al3keQFEtNU?feature=oembed"
+seoTitle: "Episode 8: Becoming More Alive"
 ---
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/al3keQFEtNU?feature=oembed" title="Becoming More Alive" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>

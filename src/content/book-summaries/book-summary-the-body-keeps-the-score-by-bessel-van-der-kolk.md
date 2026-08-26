@@ -4,6 +4,7 @@ description: "If you've ever felt stuck in a painful relationship pattern—wher
 sourceUrl: "https://jamesmchristensen.com/book-summaries/book-summary-the-body-keeps-the-score-by-bessel-van-der-kolk"
 pubDate: "2026-02-05T13:24:26-0800"
 excerpt: "If you've ever felt stuck in a painful relationship pattern—where you or your partner react intensely to small triggers, disconnect emotionally when stressed, or struggle to feel safe even with someone you…"
+seoTitle: "Book Summary: The Body Keeps the Score by Bessel van der Kolk"
 ---
 
 If you've ever felt stuck in a painful relationship pattern—where you or your partner react intensely to small triggers, disconnect emotionally when stressed, or struggle to feel safe even with someone you love—there's likely something deeper happening. Bessel van der Kolk's groundbreaking book "The Body Keeps the Score" offers a profound explanation: trauma literally reshapes the brain and body, affecting our capacity for trust, presence, and emotional connection.

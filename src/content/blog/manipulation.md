@@ -5,6 +5,7 @@ sourceUrl: "https://jamesmchristensen.com/blog/manipulation"
 pubDate: "2023-10-26T08:10:16-0700"
 heroImage: /images/blog/blog-manipulation-b88034a66a.jpg
 excerpt: "Infants use intense emotional expression (crying) to get their needs met. As adults we often resort to the same strategy: using emotional intensity to manipulate others. This behavior is instinctive and hard to grow…"
+seoTitle: Break Free from Emotional Manipulation
 ---
 
 Infants use intense emotional expression (crying) to get their needs met. As adults we often resort to the same strategy:  using emotional intensity to manipulate others. This behavior is instinctive and hard to grow out of. 

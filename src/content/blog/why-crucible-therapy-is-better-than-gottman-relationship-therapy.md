@@ -4,6 +4,7 @@ description: "David Schnarch created Crucible therapy as a comprehensive approac
 sourceUrl: "https://jamesmchristensen.com/blog/why-crucible-therapy-is-better-than-gottman-relationship-therapy"
 pubDate: "2024-12-16T11:31:37-0800"
 excerpt: "David Schnarch created Crucible therapy as a comprehensive approach to helping married couples with both relationship and sexual issues. At its core is the idea of \"differentiation\" - keeping your own identity and…"
+seoTitle: Why Crucible Therapy is Better than Gottman Relationship Therapy
 ---
 
 **David Schnarch created Crucible therapy** as a comprehensive approach to helping married couples with both relationship and sexual issues. At its core is the idea of "differentiation" - keeping your own identity and beliefs while still maintaining emotional connections with your partner. Unlike traditional therapy that might see relationship problems as things to fix, Crucible therapy views these challenges as chances for both partners to grow stronger.

@@ -4,6 +4,7 @@ description: "The Map Versus the Mountain   In \"The Master and His Emissary,\" 
 sourceUrl: "https://jamesmchristensen.com/blog/your-relational-brain-1"
 pubDate: "2025-06-20T10:41:08-0700"
 excerpt: "The Map Versus the Mountain In \"The Master and His Emissary,\" Iain McGilchrist reveals something profound about how our brains work. The left hemisphere is a specialized engine for narrow focus - categorizing…"
+seoTitle: Your Relational Brain
 ---
 
 ## **The Map Versus the Mountain**

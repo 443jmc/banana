@@ -7,6 +7,7 @@ heroImage: /images/podcast/podcast-13-the-power-of-authenticity-5b17c110a2.png
 excerpt: "James Christensen: Steve Thatcher: Book: Models by Mark Manson Listen to Balance Your Brain on Spotify: Listen to Balance Your Brain on Apple Podcasts: Listen to Balance Your Brain on RSS:"
 embeds:
   - "https://www.youtube.com/embed/UfdxIbB24Uo?feature=oembed"
+seoTitle: "13: The Power of Authenticity"
 ---
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/UfdxIbB24Uo?feature=oembed" title="The Power of Authenticity" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>

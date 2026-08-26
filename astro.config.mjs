@@ -9,7 +9,16 @@ export default defineConfig({
   trailingSlash: "never",
   integrations: [
     sitemap({
-      filter: (page) => !page.includes("/404"),
+      filter: (page) => {
+        const path = new URL(page).pathname.replace(/\.html$/, "").replace(/\/+$/, "") || "/";
+        return path !== "/404" && path !== "/home";
+      },
+      serialize(item) {
+        const url = new URL(item.url);
+        const path = url.pathname.replace(/\.html$/, "").replace(/\/+$/, "") || "";
+        item.url = path ? `${url.origin}${path}` : url.origin;
+        return item;
+      },
     }),
   ],
   redirects: {

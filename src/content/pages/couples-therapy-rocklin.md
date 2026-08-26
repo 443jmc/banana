@@ -3,6 +3,7 @@ title: Couples Therapy for Rocklin Residents
 description: "Looking for couples therapy near Rocklin? Our Roseville office is just minutes away. In-person and video sessions available. First session free."
 sourceUrl: "https://jamesmchristensen.com/couples-therapy-rocklin"
 pubDate: 2026-02-01
+seoTitle: "Couples Therapy for Rocklin Residents | 10 Minutes Away"
 ---
 
 # **Couples Therapy for Rocklin Residents**

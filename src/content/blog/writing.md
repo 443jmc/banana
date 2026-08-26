@@ -4,6 +4,7 @@ description: "During an intense, frightening, or dangerous experience, the brain
 sourceUrl: "https://jamesmchristensen.com/blog/writing"
 pubDate: "2023-12-30T19:54:08-0800"
 excerpt: "During an intense, frightening, or dangerous experience, the brain shuts off higher-level thinking in favor of low-level survival protocols. After the event is past, there is an opportunity to reprocess what happened…"
+seoTitle: Writing for Mental Health
 ---
 
 During an intense, frightening, or dangerous experience, the brain shuts off higher-level thinking in favor of low-level survival protocols. After the event is past, there is an opportunity to reprocess what happened with the brain fully engaged.

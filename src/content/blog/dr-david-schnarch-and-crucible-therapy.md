@@ -1,9 +1,10 @@
 ---
 title: Dr. David Schnarch and Crucible Therapy
-description: "Schnarch pushed couples to face problems directly during therapy sessions. He believed growth comes from dealing with discomfort, not avoiding it.  His ideas about sexual development were also groundbreaking. While most experts thought sexual peak happened when people were younger, Schnarch argued that people could have their best sexual experiences in their 40s, 50s, and 60s. "
+description: "Schnarch pushed couples to face problems directly during therapy sessions. He believed growth comes from dealing with discomfort, not avoiding it.&nbsp; His ideas about sexual development were also groundbreaking. While most experts thought sexual peak happened when people were younger, Schnarch argued that people could have their best sexual experiences in their 40s, 50s, and 60s.&nbsp;"
 sourceUrl: "https://jamesmchristensen.com/blog/dr-david-schnarch-and-crucible-therapy"
 pubDate: "2024-12-16T08:55:44-0800"
 excerpt: "When Dr. David Schnarch created the Crucible Approach and was a leader in combining sexual and marital therapy. Instead of focusing on communication and solving conflicts, he emphasized differentiation: the ability…"
+seoTitle: Dr. David Schnarch and Crucible Therapy
 ---
 
 When Dr. David Schnarch created the Crucible Approach and was a leader in combining sexual and marital therapy. Instead of focusing on communication and solving conflicts, he emphasized **differentiation**: the ability to be true to yourself while staying connected to your partner.  

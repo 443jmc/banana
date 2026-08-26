@@ -4,6 +4,7 @@ description: "Dr. Schnarch encourages us to do two things:  first, admit we are 
 sourceUrl: "https://jamesmchristensen.com/blog/why-you-cant-stop-aruing"
 pubDate: "2024-08-23T06:35:10-0700"
 excerpt: "Close your eyes and imagine the wildlife that surrounds a coral reef in tropical waters. Shimmering fish swim in schools, darting in and out as the gentle currents move plants and animals in a delicate dance, bathed…"
+seoTitle: Why You Can’t Stop Arguing
 ---
 
 **Close your eyes and imagine** the wildlife that surrounds a coral reef in tropical waters. Shimmering fish swim in schools, darting in and out as the gentle currents move plants and animals in a delicate dance, bathed by the warmth of the sun as it filters down through the water. Here, all is alive, warm, colorful, and. There is a delicate interplay of hundreds of species, all coming together to create a beautiful web of life. 

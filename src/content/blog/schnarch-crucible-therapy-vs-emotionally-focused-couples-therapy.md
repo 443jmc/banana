@@ -4,6 +4,7 @@ description: "Emotionally Focused Couples Therapy (also known as EFT or EFCT) is
 sourceUrl: "https://jamesmchristensen.com/blog/schnarch-crucible-therapy-vs-emotionally-focused-couples-therapy"
 pubDate: "2025-02-18T05:52:25-0800"
 excerpt: Emotionally Focused Couples Therapy (also known as EFT or EFCT) is one of the most popular modalities for couples therapy in the United States. David Schnarch’s Crucible Therapy is not nearly as well-known. As a…
+seoTitle: Schnarch Crucible Therapy vs Emotionally Focused Couples Therapy
 ---
 
 Emotionally Focused Couples Therapy (also known as EFT or EFCT) is one of the most popular modalities for couples therapy in the United States. David Schnarch’s Crucible Therapy is not nearly as well-known. As a Crucible Therapist, I often find myself explaining what it is. This post compares Crucible Therapy to EFT. 

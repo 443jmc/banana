@@ -4,6 +4,7 @@ description: "Crucible therapy is different because Crucible training is differe
 sourceUrl: "https://jamesmchristensen.com/blog/how-is-crucible-therapy-different"
 pubDate: "2025-09-14T08:15:16-0700"
 excerpt: Crucible therapy is different because Crucible training is different. Traditional therapy training focuses on learning techniques and procedures. Crucible training focuses on helping the therapist become a better…
+seoTitle: "How is Crucible Therapy Different?"
 ---
 
 **Crucible therapy is different because Crucible training is different.**

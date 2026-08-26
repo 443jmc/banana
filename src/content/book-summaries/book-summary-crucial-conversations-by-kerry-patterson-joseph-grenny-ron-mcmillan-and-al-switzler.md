@@ -4,6 +4,7 @@ description: "Introduction: Why This Book Matters for Your Relationship   If you
 sourceUrl: "https://jamesmchristensen.com/book-summaries/book-summary-crucial-conversations-by-kerry-patterson-joseph-grenny-ron-mcmillan-and-al-switzler"
 pubDate: "2026-02-05T13:28:31-0800"
 excerpt: "Introduction: Why This Book Matters for Your Relationship If you've ever found yourself tip-toeing around a difficult topic with your partner, or maybe you've had a conversation escalate into an argument faster than…"
+seoTitle: "Book Summary: Crucial Conversations by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler"
 ---
 
 ## **Introduction: Why This Book Matters for Your Relationship**

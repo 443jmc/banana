@@ -8,6 +8,7 @@ excerpt: "Healthy Male Sexuality with and Transcript Heather Matthews: I'm reall
 audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/6896192f9afc7a20fe4a6c65/1754667404303/22.+Reframing+Male+Sexuality+with+Heather+Matthews.mp3"
 embeds:
   - "https://www.youtube.com/embed/DiZWoQHn9L8?feature=oembed"
+seoTitle: 22. Healthy Male Sexuality with Heather Matthews
 ---
 
 <audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/6896192f9afc7a20fe4a6c65/1754667404303/22.+Reframing+Male+Sexuality+with+Heather+Matthews.mp3"></audio>

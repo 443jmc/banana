@@ -4,6 +4,7 @@ description: "Dr. Schnarch defines mind mapping as the ability to  understand an
 sourceUrl: "https://jamesmchristensen.com/blog/dr-david-schnarch-on-mind-mapping"
 pubDate: "2024-12-17T22:09:19-0800"
 excerpt: "Dr. Schnarch defines mind mapping as the ability to understand another person's mind and predict their behavior. This involves stepping into their perspective and understanding their motivations, even if they differ…"
+seoTitle: Dr. David Schnarch on Mind Mapping
 ---
 
 Dr. Schnarch defines mind mapping as the ability to **understand another person's mind** and predict their behavior. This involves stepping into their perspective and understanding their motivations, even if they differ from your own. Mind mapping delves deeper than simply guessing someone's thoughts or feelings; it involves understanding their mental model of the world, encompassing their beliefs, values, and experiences. According to Dr. Schnarch, this is an **ongoing process** that occurs automatically during interactions. Our brains continuously work to understand others so we can navigate social situations effectively.

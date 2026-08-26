@@ -6,6 +6,7 @@ pubDate: "2024-12-16T07:55:55-0800"
 excerpt: "1\\. Children Learn From What You Do, Not What You Say Children learn from what I do, not from what I say. As adults, we have more capacity to learn from what people say to us. Children mostly just learn through…"
 embeds:
   - "https://www.youtube.com/embed/lrx4W48u634?feature=oembed"
+seoTitle: Collaborative Parenting
 ---
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/lrx4W48u634?feature=oembed" title="Ten Parenting Tips" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>

@@ -5,6 +5,7 @@ sourceUrl: "https://jamesmchristensen.com/blog/focus-on-your-outbound-impact"
 pubDate: "2026-05-16T08:30:32-0700"
 heroImage: /images/blog/blog-focus-on-your-outbound-impact-362b17def2.png
 excerpt: "When you have a relationship problem, your brain wants to focus on your partner's behavior, not on yours. It wants to think about your partner's impact on you, and it doesn't want to think about your impact on your…"
+seoTitle: "What Impact do you Have on your Partner?"
 ---
 
 ![](/images/blog/blog-focus-on-your-outbound-impact-7f64762deb.png)

@@ -4,6 +4,7 @@ description: "Wellness & Renewal    HER weekend (Healing, Empowerment, Release) 
 sourceUrl: "https://jamesmchristensen.com/blog/womens-retreats-near-sacramento"
 pubDate: "2025-06-05T11:51:52-0700"
 excerpt: "Wellness & Renewal HER weekend (Healing, Empowerment, Release) The HER Weekend is a 2 1/2 day immersive, transformative and healing experience created for women ready to heal traumas and rediscover their power, their…"
+seoTitle: Women’s Retreats Near Sacramento
 ---
 
 ## **Wellness & Renewal**

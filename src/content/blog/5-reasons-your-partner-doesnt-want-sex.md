@@ -5,6 +5,7 @@ sourceUrl: "https://jamesmchristensen.com/blog/5-reasons-your-partner-doesnt-wan
 pubDate: "2023-10-09T15:42:31-0700"
 heroImage: /images/blog/blog-5-reasons-your-partner-doesnt-want-sex-f53951ca6e.jpg
 excerpt: "Reason 1: you’re in a committed relationship. It really is normal to have a higher-desire partner (HDP) and a lower-desire partner (LDP) in a committed sexual relationship. You’re probably the HDP, and you probably…"
+seoTitle: Why you partner might not want sex
 ---
 
 **Reason #1:  you’re in a committed relationship.** 

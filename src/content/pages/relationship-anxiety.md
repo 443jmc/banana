@@ -3,6 +3,7 @@ title: Relationship Anxiety
 description: When worry about your relationship has become the relationship. A Roseville therapist who works with anxious couples. Free first session.
 sourceUrl: "https://jamesmchristensen.com/relationship-anxiety"
 pubDate: 2026-03-10
+seoTitle: Relationship Anxiety
 ---
 
 # Relationship Anxiety

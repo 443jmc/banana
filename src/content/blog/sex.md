@@ -4,6 +4,7 @@ description: "Self-respect is something we build, not something we are born with
 sourceUrl: "https://jamesmchristensen.com/blog/sex"
 pubDate: "2023-10-12T15:37:25-0700"
 excerpt: "Reason 1: because you’re human We live in a culture that expects everyone to have “healthy self-esteem,” but in reality, self-esteem (or self-respect, as I prefer to call it) is something we develop, not something…"
+seoTitle: "What Drives Low Self-Esteem?"
 ---
 
 **Reason #1:  because you’re human**

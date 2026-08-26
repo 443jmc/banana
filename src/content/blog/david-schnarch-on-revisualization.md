@@ -4,6 +4,7 @@ description: "Revisualizations are a core technique in David Schnarch’s Crucib
 sourceUrl: "https://jamesmchristensen.com/blog/david-schnarch-on-revisualization"
 pubDate: "2024-12-24T09:23:27-0800"
 excerpt: Revisualizations are a core technique in David Schnarch’s Crucible Neurobiological Therapy aimed at resolving steady-state regressions—that persistent state of emotional reactivity that keeps you stuck. It involves…
+seoTitle: David Schnarch on Revisualization
 ---
 
 Revisualizations are a core technique in David Schnarch’s Crucible Neurobiological Therapy aimed at resolving steady-state regressions—that persistent state of emotional reactivity that keeps you stuck. It involves **re-experiencing past events visually**, focusing on the sensory details and emotions of the experience rather than simply recalling a narrative or story. It's about tapping into your implicit memory (SAM), where raw sensory information and emotional imprints are stored, and integrating those experiences with your explicit memory (VAM), where you make sense of events and create narratives.

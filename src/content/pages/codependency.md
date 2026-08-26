@@ -3,6 +3,7 @@ title: Couples Therapy for Codependency
 description: "Lost yourself in your relationship? When love looks like losing yourself, the fix isn't boundaries — it's something deeper. Free first session in Roseville, CA."
 sourceUrl: "https://jamesmchristensen.com/codependency"
 pubDate: 2026-03-10
+seoTitle: "Codependency Couples Therapy in Roseville, CA"
 ---
 
 # Couples Therapy for Codependency

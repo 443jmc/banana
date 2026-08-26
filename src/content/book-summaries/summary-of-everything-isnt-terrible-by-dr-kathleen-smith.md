@@ -4,6 +4,7 @@ description: "Chapter 1: Focusing on Yourself   Key Idea:  Anxiety often tricks 
 sourceUrl: "https://jamesmchristensen.com/book-summaries/summary-of-everything-isnt-terrible-by-dr-kathleen-smith"
 pubDate: "2025-06-22T07:50:51-0700"
 excerpt: "Chapter 1: Focusing on Yourself Key Idea: Anxiety often tricks us into obsessing over other people’s behavior and faults (“other-focus”) instead of managing our own. The first step to calm down is to shift attention…"
+seoTitle: "Book Summary: Everything Isn't Terrible by Dr. Kathleen Smith."
 ---
 
 ## Chapter 1: Focusing on Yourself

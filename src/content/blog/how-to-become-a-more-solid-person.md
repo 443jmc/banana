@@ -4,6 +4,7 @@ description: "You build solidness by tolerating discomfort without falling apart
 sourceUrl: "https://jamesmchristensen.com/blog/how-to-become-a-more-solid-person"
 pubDate: "2025-12-24T08:47:07-0800"
 excerpt: "You build solidness by tolerating discomfort without falling apart. That's it. That's the whole game. Every time you stay present in a hard conversation instead of shutting down or blowing up—you get a little more…"
+seoTitle: How to become a more solid person
 ---
 
 **You build solidness by tolerating discomfort without falling apart.**

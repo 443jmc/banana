@@ -1,9 +1,10 @@
 ---
 title: Crucible Relationship Therapy
-description: "Developed Dr. David Schnarch, Crucible Therapy helps couples overcome the most difficult relationship challenges. Crucible therapy focuses developing each person’s capacity to love and value each other. It recognizes the difficulty involved in rebuilding a broken marriage, and provides a reliable framework for personal and relationship growth. "
+description: "Developed Dr. David Schnarch, Crucible Therapy helps couples overcome the most difficult relationship challenges. Crucible therapy focuses developing each person’s capacity to love and value each other. It recognizes the difficulty involved in rebuilding a broken marriage, and provides a reliable framework for personal and relationship growth.&nbsp;"
 sourceUrl: "https://jamesmchristensen.com/blog/crucible"
 pubDate: "2024-05-10T09:27:21-0700"
 excerpt: "Overview Developed Dr. David Schnarch, Crucible Neurobiological Therapy helps couples overcome the most difficult relationship challenges. Crucible therapy focuses developing each person’s capacity to love and value…"
+seoTitle: Crucible Relationship Therapy
 ---
 
 **Overview**

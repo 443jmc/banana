@@ -4,6 +4,7 @@ description: Complete summary of Hold Me Tight by Dr. Sue Johnson. Learn the 7 c
 sourceUrl: "https://jamesmchristensen.com/book-summaries/book-summary-hold-me-tight-by-sue-johnson"
 pubDate: "2025-07-11T11:52:20-0700"
 excerpt: "Chapter 1: Love—A Revolutionary New View Summary: In this opening chapter, Johnson reframes romantic love through the lens of attachment theory. Rather than seeing love as mysterious or purely passion-based, she…"
+seoTitle: "Hold Me Tight by Sue Johnson: Summary & Key Conversations"
 ---
 
 ## Chapter 1: Love—A Revolutionary New View

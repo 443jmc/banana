@@ -5,6 +5,7 @@ sourceUrl: "https://jamesmchristensen.com/blog/personal-power-is-the-foundation-
 pubDate: "2026-04-30T08:31:51-0700"
 heroImage: /images/blog/blog-personal-power-is-the-foundation-of-good-relationships-71753d409f.png
 excerpt: "When you don't feel like you're going to be okay, it's hard to be kind to your partner. Learning how to feel like you're going to be okay is the foundation of a good relationship. I call it a feeling of personal…"
+seoTitle: Personal Power is the Foundation of Good Relationships
 ---
 
 ![](/images/site/blog-70bcc88f62.png)

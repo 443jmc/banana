@@ -8,6 +8,7 @@ excerpt: "Kristin Areglado Hurley: Aron Carlson: Parenting Workshop: Transcript:
 audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68a48d8ccc467f13a343f1fa/1755614719125/Room+recording+-+Aug+17%2C+2025.mp3"
 embeds:
   - "https://www.youtube.com/embed/A9LGwt6uT6c?feature=oembed"
+seoTitle: 27. Powerful Parenting with Aron and Kristin
 ---
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/A9LGwt6uT6c?feature=oembed" title="Powerful Parenting with Aron and Kristin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>

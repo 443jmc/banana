@@ -4,6 +4,7 @@ description: "How to know if codependency is affecting your relationships—and 
 sourceUrl: "https://jamesmchristensen.com/blog/do-you-need-a-therapist-for-codependency"
 pubDate: "2026-02-01T20:45:24-0800"
 excerpt: "You've probably heard the term \"codependent\" thrown around. Maybe someone called you that. Maybe you've started wondering if it applies to you. The word gets used loosely—sometimes as an insult, sometimes as a…"
+seoTitle: "Do You Need a Therapist for Codependency? Signs & Help"
 ---
 
 You've probably heard the term "codependent" thrown around. Maybe someone called you that. Maybe you've started wondering if it applies to you.

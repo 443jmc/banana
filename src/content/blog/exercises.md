@@ -4,6 +4,7 @@ description: "Touch  One partner is the giver and the other is the receiver. We 
 sourceUrl: "https://jamesmchristensen.com/blog/exercises"
 pubDate: "2024-03-25T06:12:43-0700"
 excerpt: "Touch 1. One partner is the giver and the other is the receiver. We will switch roles after few minutes. 2. When I am the giver: take a deep breath and allow my body to settle down. Search my soul for the love I…"
+seoTitle: Exercises for Couples
 ---
 
 ### **Touch**

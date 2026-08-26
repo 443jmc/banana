@@ -8,6 +8,7 @@ excerpt: "James Christensen: Catherine Roebuck: Transcript James: Why is this ca
 audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/689638f8509ac7630a1a0af0/1754675554698/23.+Crucible+Therapy+with+Catherine+Roebuck.mp3"
 embeds:
   - "https://www.youtube.com/embed/e7FJMJxKDKs?feature=oembed"
+seoTitle: 23. Introduction to Crucible Therapy with Catherine Roebuck
 ---
 
 <audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/689638f8509ac7630a1a0af0/1754675554698/23.+Crucible+Therapy+with+Catherine+Roebuck.mp3"></audio>

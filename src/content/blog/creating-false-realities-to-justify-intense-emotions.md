@@ -4,6 +4,7 @@ description: "When you experience intense emotions, you might find yourself crea
 sourceUrl: "https://jamesmchristensen.com/blog/creating-false-realities-to-justify-intense-emotions"
 pubDate: "2025-02-21T07:20:08-0800"
 excerpt: "When you experience intense emotions, you might find yourself creating a false reality to justify that emotion. For example: A child who feel afraid at night might imagine a monster under the bed. The imaginary…"
+seoTitle: Creating False Realities to Justify Intense Emotions
 ---
 
 When you experience intense emotions, you might find yourself creating a false reality to justify that emotion.

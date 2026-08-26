@@ -8,6 +8,7 @@ excerpt: "Transcript: About three years ago, I began to accept that I was unusua
 audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68ee63998212026e82b910dd/1760453696511/Escaping+Narcissism.mp3"
 embeds:
   - "https://www.youtube.com/embed/9T0feAhpK-w?feature=oembed"
+seoTitle: 30. A Therapist’s Escape from Narcissism
 ---
 
 <audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68ee63998212026e82b910dd/1760453696511/Escaping+Narcissism.mp3"></audio>

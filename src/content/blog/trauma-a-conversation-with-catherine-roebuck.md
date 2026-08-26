@@ -6,6 +6,7 @@ pubDate: "2026-03-31T17:01:25-0700"
 excerpt: "A Conversation Between James Christensen and Catherine Roebuck March 30, 2026 James: The way I think about it is the more intense an experience is—well, maybe a better way to define it is the less capable I am of…"
 embeds:
   - "https://www.youtube.com/embed/FLu8fQNovLs?feature=oembed"
+seoTitle: "Trauma: a Conversation with Catherine Roebuck"
 ---
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/FLu8fQNovLs?feature=oembed" title="How to Heal your Trauma" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>

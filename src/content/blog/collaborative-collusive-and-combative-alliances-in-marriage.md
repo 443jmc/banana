@@ -4,6 +4,7 @@ description: "Collaborative, collusive, or combative—which alliance describes 
 sourceUrl: "https://jamesmchristensen.com/blog/collaborative-collusive-and-combative-alliances-in-marriage"
 pubDate: "2024-12-18T09:38:58-0800"
 excerpt: "A collaborative alliance is an agreement between two people to work together toward a common goal, even when it’s hard. It’s about bringing out the best in each other and acting like a true partnership. The “golden…"
+seoTitle: "The Three Types of Marriage Alliances: Which Do You Have?"
 ---
 
 **A collaborative alliance is an agreement between two people to work together toward a common goal, even when it’s hard.** It’s about bringing out the best in each other and acting like a true partnership. The “golden rule” of a collaborative alliance is to **confront yourself first** in any situation. Other rules of a collaborative alliance include telling the whole truth, even when it's difficult, and prioritizing fulfilling your responsibilities over your feelings. A collaborative alliance is considered by most people to be a good relationship.

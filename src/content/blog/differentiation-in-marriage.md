@@ -6,6 +6,7 @@ pubDate: "2025-12-31T10:51:52-0800"
 excerpt: "Falling in love is like two magnets pointed in the right direction—they tug toward each other effortlessly. But after a few years of marriage, it can feel like those magnets have flipped around. Now they're pushing…"
 embeds:
   - "https://www.youtube.com/embed/of485cdy4R4?feature=oembed"
+seoTitle: Differentiation in Marriage
 ---
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/of485cdy4R4?feature=oembed" title="Differentiation in Marriage" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>

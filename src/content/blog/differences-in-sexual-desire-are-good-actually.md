@@ -4,6 +4,7 @@ description: "Differences in sexual desire can help relationships grow because t
 sourceUrl: "https://jamesmchristensen.com/blog/differences-in-sexual-desire-are-good-actually"
 pubDate: "2024-12-17T23:16:03-0800"
 excerpt: "Differences in sexual desire can help relationships grow because they push couples to develop their independence and manage their own anxieties. This is called differentiation, and it’s key to maintaining intimacy…"
+seoTitle: "Differences in Sexual Desire are Good, Actually."
 ---
 
 Differences in sexual desire can help relationships grow because they push couples to develop their independence and manage their own anxieties. This is called **differentiation**, and it’s key to maintaining intimacy and passion in long-term relationships.

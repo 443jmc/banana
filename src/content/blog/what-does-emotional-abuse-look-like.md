@@ -4,6 +4,7 @@ description: "Emotional abuse is intentional.      When we hurt each other's fee
 sourceUrl: "https://jamesmchristensen.com/blog/what-does-emotional-abuse-look-like"
 pubDate: "2026-02-14T13:27:58-0800"
 excerpt: "Emotional abuse is intentional. When we hurt each other's feelings, we're usually doing it on purpose. If I crash my car three times a week, you’re not going to call it an accident. And if I hurt my wife's feelings…"
+seoTitle: "What does Emotional Abuse look like?"
 ---
 
 **Emotional abuse is intentional.** 

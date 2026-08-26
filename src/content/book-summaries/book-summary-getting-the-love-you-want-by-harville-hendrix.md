@@ -4,6 +4,7 @@ description: "Why we choose partners who wound us—and how that's actually the 
 sourceUrl: "https://jamesmchristensen.com/book-summaries/book-summary-getting-the-love-you-want-by-harville-hendrix"
 pubDate: "2026-02-01T20:18:08-0800"
 excerpt: "Harville Hendrix's Getting the Love You Want revolutionized couples therapy when it was published in 1988. Hendrix, a therapist who developed Imago Relationship Therapy, offers a provocative theory: we unconsciously…"
+seoTitle: "Getting the Love You Want by Hendrix: Summary & Guide"
 ---
 
 Harville Hendrix's Getting the Love You Want revolutionized couples therapy when it was published in 1988. Hendrix, a therapist who developed Imago Relationship Therapy, offers a provocative theory: we unconsciously choose partners who resemble our childhood caregivers, then recreate childhood dramas in our adult relationships.

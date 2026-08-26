@@ -4,6 +4,7 @@ description: "Here are the main differences between Gottman and EFT , the two mo
 sourceUrl: "https://jamesmchristensen.com/blog/couples-counseling-gottman-vs-eft"
 pubDate: "2025-01-11T09:36:50-0800"
 excerpt: "Here are the main differences between Gottman and EFT, the two most popular approaches to couples counseling in the United States: What They Focus On Gottman: Works on changing harmful communication patterns and…"
+seoTitle: "Couples Counseling: Gottman vs EFT"
 ---
 
 **Here are the main differences between Gottman and EFT**, the two most popular approaches to couples counseling in the United States:

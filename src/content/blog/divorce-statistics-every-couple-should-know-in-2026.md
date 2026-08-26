@@ -4,6 +4,7 @@ description: "What percentage of marriages actually end in divorce? A couples th
 sourceUrl: "https://jamesmchristensen.com/blog/divorce-statistics-every-couple-should-know-in-2026"
 pubDate: "2026-02-02T20:26:36-0800"
 excerpt: "You've probably heard that half of all marriages end in divorce. It's one of those statistics people throw around at dinner parties like it's settled science. But is it true? And more importantly — if you're reading…"
+seoTitle: Divorce statistics every couple should know in 2026
 ---
 
 **You've probably heard** that half of all marriages end in divorce. It's one of those statistics people throw around at dinner parties like it's settled science. But is it true? And more importantly — if you're reading this as someone in a struggling marriage — what do these numbers actually mean for *you*?

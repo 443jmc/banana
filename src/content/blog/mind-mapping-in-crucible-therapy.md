@@ -4,6 +4,7 @@ description: "Mind mapping  is your brain's ability to create a mental picture o
 sourceUrl: "https://jamesmchristensen.com/blog/mind-mapping-in-crucible-therapy"
 pubDate: "2025-01-16T08:32:52-0800"
 excerpt: "Mind mapping is your brain's ability to create a mental picture of what's going on in someone else's mind. It's like you're building a map of their thoughts, feelings, motivations, knowledge, and beliefs. You use…"
+seoTitle: Mind Mapping in Crucible Therapy
 ---
 
 **Mind mapping** is your brain's ability to create a mental picture of what's going on in someone else's mind. It's like you're building a map of their thoughts, feelings, motivations, knowledge, and beliefs. You use mind mapping to try and predict what someone will do next. You use this ability constantly, but especially in relationships, to try and figure out what your partner wants and whether they want to be with you.

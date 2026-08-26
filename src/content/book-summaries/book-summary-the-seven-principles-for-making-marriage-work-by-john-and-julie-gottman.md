@@ -4,6 +4,7 @@ description: "Chapter-by-chapter therapist breakdown of Gottman's Seven Principl
 sourceUrl: "https://jamesmchristensen.com/book-summaries/book-summary-the-seven-principles-for-making-marriage-work-by-john-and-julie-gottman"
 pubDate: "2025-07-11T11:51:53-0700"
 excerpt: "Chapter 1: Inside the Seattle Love Lab – The Truth About Happy Marriages Gottman debunks several common myths about why marriages fail. For example, it’s not true that “neuroses” or personality problems necessarily…"
+seoTitle: "Seven Principles for Making Marriage Work: Summary"
 ---
 
 ## Chapter 1: Inside the Seattle Love Lab – The Truth About Happy Marriages

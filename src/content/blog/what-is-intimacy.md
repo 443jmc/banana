@@ -5,6 +5,7 @@ sourceUrl: "https://jamesmchristensen.com/blog/what-is-intimacy"
 pubDate: "2026-05-06T22:09:54-0700"
 heroImage: /images/blog/blog-what-is-intimacy-195aa0d742.png
 excerpt: "Intimacy is Into-Me-You-See. You can create intimacy in your relationship by revealing your true self to your partner without needing their validation. True intimacy requires self-acceptance, which is your ability to…"
+seoTitle: "What is Intimacy?"
 ---
 
 ![](/images/blog/blog-what-is-intimacy-3ad170e19c.png)

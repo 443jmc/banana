@@ -5,6 +5,7 @@ sourceUrl: "https://jamesmchristensen.com/blog/what-is-it-like-to-be-married-to-
 pubDate: "2026-04-30T09:32:47-0700"
 heroImage: /images/blog/blog-what-is-it-like-to-be-married-to-you-0b4caf96f5.png
 excerpt: "Your brain wants you to focus on your partner's impact on you. It wants you to feel like your partner has to change for you to be okay. Your brain does this because it's optimized to survive childhood, not to thrive…"
+seoTitle: "What is it Like to be Married to You?"
 ---
 
 ![](/images/site/blog-3cc3eaa4f6.png)

@@ -3,6 +3,7 @@ title: "Narcissism: Couples Therapy in Roseville, CA"
 description: "Is your partner a narcissist? A therapist who's been on both sides of this issue helps couples navigate narcissistic dynamics. Free first session in Roseville, CA."
 sourceUrl: "https://jamesmchristensen.com/narcissism"
 pubDate: 2026-03-10
+seoTitle: Couples Therapy for Narcissistic Relationships
 ---
 
 # **Narcissism: Couples Therapy in Roseville, CA**

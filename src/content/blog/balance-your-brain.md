@@ -4,6 +4,7 @@ description: "The left and right halves of your brain are good at different thin
 sourceUrl: "https://jamesmchristensen.com/blog/balance-your-brain"
 pubDate: "2025-07-11T15:34:56-0700"
 excerpt: "The left and right halves of your brain are good at different things. The right side is good at understanding and appreciating people, while the left side is good at using things. There are also lots of other…"
+seoTitle: Balance your Brain
 ---
 
 The left and right halves of your brain are good at different things. **The right side is good at understanding and appreciating people**, while the left side is good at using things. There are also lots of other differences, but this is the difference that matters most in couples therapy.

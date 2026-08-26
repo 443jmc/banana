@@ -3,6 +3,7 @@ title: Trust and Infidelity
 description: "Recover from infidelity with a therapist who's helped hundreds of couples rebuild trust. Learn what it takes to heal—for both partners. Roseville, CA."
 sourceUrl: "https://jamesmchristensen.com/infidelity"
 pubDate: 2026-03-10
+seoTitle: "Marriage Counseling for Infidelity | Affair Recovery Therapy"
 ---
 
 # Trust and Infidelity

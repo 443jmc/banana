@@ -4,6 +4,7 @@ description: "Eyes-open sex is a pathway to deeper intimacy and connection with 
 sourceUrl: "https://jamesmchristensen.com/blog/eyes-open-sex"
 pubDate: "2024-12-18T10:20:56-0800"
 excerpt: "Eyes-open sex is a pathway to deeper intimacy and connection with your partner. It involves looking into your partner's eyes and allowing them to truly see you, not just your physical body, but also your emotional…"
+seoTitle: Eyes-Open Sex
 ---
 
 **Eyes-open sex is a pathway to deeper intimacy and connection with your partner.** It involves looking into your partner's eyes and allowing them to truly see you, not just your physical body, but also your emotional and psychological self.

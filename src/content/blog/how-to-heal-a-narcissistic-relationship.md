@@ -5,6 +5,7 @@ sourceUrl: "https://jamesmchristensen.com/blog/how-to-heal-a-narcissistic-relati
 pubDate: "2026-05-04T22:53:01-0700"
 heroImage: /images/blog/blog-how-to-heal-a-narcissistic-relationship-93648f8c7b.png
 excerpt: "Every relationship is narcissistic, and some relationships are more narcissistic than others. No matter how narcissistic your relationship is, your life will get better if you deal with the narcissism. This article…"
+seoTitle: How to Heal a Narcissistic Relationship
 ---
 
 ![](/images/site/blog-95d267b0ce.png)

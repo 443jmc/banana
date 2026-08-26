@@ -4,6 +4,7 @@ description: "When you were young, your brain was hard-wired to seek connection 
 sourceUrl: "https://jamesmchristensen.com/blog/the-myth-of-parental-innocence"
 pubDate: "2024-12-26T09:22:56-0800"
 excerpt: "When you were young, your brain was hard-wired to seek connection and care from an adult. For most of us, it was one or both of our parents. As you grew, your brain learned a lot from your parents, or whoever it was…"
+seoTitle: The Myth of Parental Innocence
 ---
 
 When you were young, your brain was hard-wired to seek connection and care from an adult. For most of us, it was one or both of our parents. As you grew, your brain learned a lot from your parents, or whoever it was who filled that role in your life. You learned about what it means to care for a person, how to get what you want, and what to do when you don’t get what you want. These were life-and-death lessons at the time. You needed someone to look after you, because you weren’t equipped to survive on your own. You also needed someone to teach you how to handle adult relationships and responsibilities.

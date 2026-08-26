@@ -3,6 +3,7 @@ title: Couples Therapy for Granite Bay Residents
 description: Couples counseling near Granite Bay. Our Roseville office is a quick drive down Douglas Blvd. In-person and video available. First session free.
 sourceUrl: "https://jamesmchristensen.com/couples-therapy-granite-bay"
 pubDate: 2026-02-01
+seoTitle: "Couples Therapy for Granite Bay | 10 Minutes Away"
 ---
 
 # Couples Therapy for Granite Bay Residents

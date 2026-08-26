@@ -5,6 +5,7 @@ sourceUrl: "https://jamesmchristensen.com/blog/how-to-not-be-like-your-parents"
 pubDate: "2026-04-24T11:12:16-0700"
 heroImage: /images/blog/blog-how-to-not-be-like-your-parents-31d52b0073.png
 excerpt: "Your default programming is to make a fuss when you don't get what you want. That's how you stayed alive as an infant. When you were hungry, you made a fuss. When you were tired, you made a fuss. When you were…"
+seoTitle: How to not be like your parents
 ---
 
 ![](/images/site/blog-182820ef43.png)

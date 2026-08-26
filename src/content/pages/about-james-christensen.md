@@ -1,9 +1,10 @@
 ---
 title: About James Christensen LMFT
-description: ""
+description: "James Christensen, California LMFT 142990, is a Crucible couples therapist in Roseville who opened Roseville Couples Counseling in 2023 after that approach helped save his own marriage."
 sourceUrl: "https://jamesmchristensen.com/about-james-christensen"
 pubDate: 2026-02-09
 heroImage: /images/pages/about-james-christensen-50ebc31f60.jpg
+seoTitle: About James Christensen
 ---
 
 # About  

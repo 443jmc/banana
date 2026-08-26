@@ -4,6 +4,7 @@ description: "When we were children, we were vulnerable to being abandoned or ov
 sourceUrl: "https://jamesmchristensen.com/blog/the-childhood-survival-bond"
 pubDate: "2024-01-06T07:29:13-0800"
 excerpt: "We learn about human relationships in childhood When we were children, we were vulnerable to being abandoned or overwhelmed. We regulated our emotional state by trying to increase connection with our parents if we…"
+seoTitle: The Childhood Survival Bond
 ---
 
 **We learn about human relationships in childhood**

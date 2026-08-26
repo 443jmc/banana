@@ -3,6 +3,7 @@ title: Threats of Divorce
 description: "When every fight ends with \"maybe we should just get divorced.\" A Roseville therapist who helps couples stop using divorce as a weapon. Free first session."
 sourceUrl: "https://jamesmchristensen.com/threats-of-divorce"
 pubDate: 2026-03-10
+seoTitle: Threats of Divorce
 ---
 
 # **Threats of Divorce**

@@ -3,6 +3,7 @@ title: Intensive Couples Therapy in Roseville CA
 description: "Make months of progress in days. Intensive couples therapy sessions are 3-4 hours per day for 1-3 days. Based in Roseville, serving all of California."
 sourceUrl: "https://jamesmchristensen.com/intensive-couples-therapy"
 pubDate: 2026-03-10
+seoTitle: "Intensive Couples Therapy | Roseville, CA"
 ---
 
 # Intensive Couples Therapy in Roseville CA

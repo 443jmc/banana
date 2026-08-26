@@ -4,6 +4,7 @@ description: "When you face an impossible choice in your relationship—and why 
 sourceUrl: "https://jamesmchristensen.com/blog/what-is-a-two-choice-dilemma"
 pubDate: "2024-12-17T22:48:04-0800"
 excerpt: "Dr. David Schnarch often talked about “Two-Choice Dilemmas.” A two-choice dilemma arises when you're stuck between two options, both of which present anxieties or negative consequences. It's the feeling of wanting…"
+seoTitle: "What Is a Two-Choice Dilemma in Relationships?"
 ---
 
 Dr. David Schnarch often talked about “Two-Choice Dilemmas.” A two-choice dilemma arises when you're stuck between two options, both of which present anxieties or negative consequences. It's the feeling of wanting two things but only being able to choose one. These dilemmas are woven into the fabric of life, and especially prevalent in committed relationships like marriage.

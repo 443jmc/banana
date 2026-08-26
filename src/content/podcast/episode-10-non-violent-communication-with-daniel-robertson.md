@@ -8,6 +8,7 @@ excerpt: "joins me to talk about nonviolent communication in relationships. Nonv
 audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/684429531583831c2fdfe2ab/1749297720209/Non+Violent+Communication.mp3"
 embeds:
   - "https://www.youtube.com/embed/T1pIMQ3kAy4?feature=oembed"
+seoTitle: "Episode 10: Non-Violent Communication for Couples With Daniel Robertson"
 ---
 
 <audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/684429531583831c2fdfe2ab/1749297720209/Non+Violent+Communication.mp3"></audio>

@@ -4,6 +4,7 @@ description: "The fact that the lower-desire partner (LDP) has control over sex 
 sourceUrl: "https://jamesmchristensen.com/blog/why-the-lower-desire-partner-always-controls-sex"
 pubDate: "2024-12-17T22:54:22-0800"
 excerpt: "The fact that the lower-desire partner (LDP) has control over sex in a relationship might seem unfair or counterintuitive, but it's a natural consequence of the dynamics of desire. Here's why the LDP holds the reins:…"
+seoTitle: Why the Lower-Desire Partner Always Controls Sex
 ---
 
 The fact that the lower-desire partner (LDP) has control over sex in a relationship might seem unfair or counterintuitive, but it's a natural consequence of the dynamics of desire.

@@ -4,6 +4,7 @@ description: "Chapter 1: A Flame in Our Hearts – The Longing for Intimacy  The
 sourceUrl: "https://jamesmchristensen.com/book-summaries/book-summary-undefended-lovenbspby-jett-psaris-and-marlena-s-lyons"
 pubDate: "2025-07-11T11:56:33-0700"
 excerpt: "Chapter 1: A Flame in Our Hearts – The Longing for Intimacy The book opens by examining our deep longing for true intimacy and why it so often goes unfulfilled. The authors argue that intimacy is more than physical…"
+seoTitle: "Book Summary: Undefended Love by Jett Psaris and Marlena S. Lyons"
 ---
 
 ## Chapter 1: A Flame in Our Hearts – The Longing for Intimacy

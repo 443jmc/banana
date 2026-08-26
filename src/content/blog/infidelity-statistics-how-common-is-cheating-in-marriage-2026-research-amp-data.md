@@ -4,6 +4,7 @@ description: "20% of marriages experience infidelity—but 74% recover with ther
 sourceUrl: "https://jamesmchristensen.com/blog/infidelity-statistics-how-common-is-cheating-in-marriage-2026-research-amp-data"
 pubDate: "2026-02-02T20:38:45-0800"
 excerpt: "Few topics in relationships generate as much anxiety, curiosity, and confusion as infidelity. Whether you're worried about your own marriage, recovering from betrayal, or simply trying to understand the landscape of…"
+seoTitle: "Infidelity Statistics: How Common Is Cheating? (2026 Data)"
 ---
 
 *Few topics in relationships generate as much anxiety, curiosity, and confusion as infidelity. Whether you're worried about your own marriage, recovering from betrayal, or simply trying to understand the landscape of modern relationships, having accurate data matters. This comprehensive guide examines what research actually tells us about cheating in marriage—and what it means for couples today.*

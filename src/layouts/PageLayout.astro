@@ -4,15 +4,16 @@ import OfferCard from "../components/OfferCard.astro";
 
 interface Props {
   title: string;
+  seoTitle?: string;
   description?: string;
   image?: string;
   showOffer?: boolean;
 }
 
-const { title, description, image, showOffer = true } = Astro.props;
+const { title, seoTitle, description, image, showOffer = true } = Astro.props;
 ---
 
-<BaseLayout title={title} description={description} image={image}>
+<BaseLayout title={title} seoTitle={seoTitle} description={description} image={image}>
   <header class="page-hero">
     <div class="wrap">
       <h1>{title}</h1>

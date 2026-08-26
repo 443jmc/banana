@@ -4,6 +4,7 @@ description: "Complete summary of The 5 Love Languages. Discover your love langu
 sourceUrl: "https://jamesmchristensen.com/book-summaries/book-summary-the-five-love-languages-by-gary-chapman"
 pubDate: "2025-07-11T11:53:48-0700"
 excerpt: "Chapter 1: What Happens to Love After the Wedding? Gary Chapman opens by exploring why the intense romantic love of courtship often fades after marriage. He notes that the “in-love” euphoria is temporary (lasting…"
+seoTitle: Five Love Languages book summary
 ---
 
 ## Chapter 1: What Happens to Love After the Wedding?

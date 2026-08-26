@@ -4,6 +4,7 @@ description: "Traumatic mind mapping occurs when you're trying to understand som
 sourceUrl: "https://jamesmchristensen.com/blog/what-is-traumatic-mind-mapping"
 pubDate: "2024-12-17T22:27:30-0800"
 excerpt: "Traumatic mind mapping occurs when you're trying to understand someone else's thoughts and feelings, and what you perceive is so disturbing that it negatively impacts your own mind and brain. It's a type of mental…"
+seoTitle: "What is Traumatic Mind Mapping?"
 ---
 
 Traumatic mind mapping occurs when you're trying to understand someone else's thoughts and feelings, and what you perceive is so disturbing that it negatively impacts your own mind and brain. It's a type of mental and physical impairment that can arise from witnessing or experiencing something terrible.

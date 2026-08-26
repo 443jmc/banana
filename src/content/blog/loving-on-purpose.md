@@ -6,6 +6,7 @@ pubDate: "2025-12-25T17:54:47-0800"
 excerpt: "Childlike Love vs. Adult Love Children can love. But what children do is take warm, pleasant, affectionate feelings and do actions that align with those feelings. When a child feels good toward you, they act good…"
 embeds:
   - "https://www.youtube.com/embed/gvCQBSms6TE?feature=oembed"
+seoTitle: Loving on Purpose
 ---
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/gvCQBSms6TE?feature=oembed" title="Loving on Purpose with Catherine Roebuck" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>

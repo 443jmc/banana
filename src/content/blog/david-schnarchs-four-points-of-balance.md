@@ -4,6 +4,7 @@ description: "Solid Flexible Self:  The ability to maintain a clear sense of sel
 sourceUrl: "https://jamesmchristensen.com/blog/david-schnarchs-four-points-of-balance"
 pubDate: "2024-10-09T08:18:41-0700"
 excerpt: "Dr. David Schnarch's Four Points of Balance describe four quadrants of emotional wealth and independence: You can read more about the four points of balance in Dr. Schnarch’s book Intimacy and Desire. 1. Solid…"
+seoTitle: David Schnarch’s Four Points of Balance
 ---
 
 Dr. David Schnarch's **Four Points of Balance** describe four quadrants of emotional wealth and independence: You can read more about the four points of balance in Dr. Schnarch’s book Intimacy and Desire.

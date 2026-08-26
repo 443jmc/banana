@@ -4,6 +4,7 @@ description: "Couples Therapy can help you improve communication, overcome obsta
 sourceUrl: "https://jamesmchristensen.com/how-couples-therapy-works"
 pubDate: 2025-09-03
 heroImage: /images/pages/how-couples-therapy-works-4305956e99.webp
+seoTitle: How Couples Therapy Works
 ---
 
 ![Couples therapy can help couples find peace in their relationships.](/images/pages/how-couples-therapy-works-4305956e99.webp)

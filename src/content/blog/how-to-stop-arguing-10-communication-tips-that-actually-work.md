@@ -4,6 +4,7 @@ description: "If you're searching for ways to stop arguing with your partner, yo
 sourceUrl: "https://jamesmchristensen.com/blog/how-to-stop-arguing-10-communication-tips-that-actually-work"
 pubDate: "2026-01-28T08:00:01-0800"
 excerpt: "If you're searching for ways to stop arguing with your partner, you've probably already tried a few things that didn't work. Maybe you've tried talking more. Maybe you've tried talking less. Maybe you've tried…"
+seoTitle: "How to Stop Arguing: 10 Communication Tips That Actually Work"
 ---
 
 If you're searching for ways to stop arguing with your partner, you've probably already tried a few things that didn't work. Maybe you've tried talking more. Maybe you've tried talking less. Maybe you've tried explaining your position more clearly, only to find that clarity didn't help at all.

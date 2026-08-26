@@ -6,6 +6,7 @@ pubDate: "2026-01-03T22:14:31-0800"
 excerpt: "These are ten common relationship tips you'll find online, rated from zero to ten. 1\\. Know Your Partner's Love Language — 2/10 Gary Chapman's Five Love Languages (Words of Affirmation, Acts of Service, Receiving…"
 embeds:
   - "https://www.youtube.com/embed/ouAC1b_PJeQ?feature=oembed"
+seoTitle: "A Couples Therapist Rates the Internet's Top Relationship Tips"
 ---
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/ouAC1b_PJeQ?feature=oembed" title="I rate the Internet" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>

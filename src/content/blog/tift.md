@@ -4,6 +4,7 @@ description: "My first operational assignment as an Air Force helicopter pilot w
 sourceUrl: "https://jamesmchristensen.com/blog/tift"
 pubDate: "2023-10-27T07:43:44-0700"
 excerpt: "Bruce Tift’s book changed the way I think about life, love, and therapy. Bruce describes two paths to learning how to feel free in life: the path of Western therapy, and the path of Buddhist philosophy. Bruce talks…"
+seoTitle: Three Things I learned from Bruce Tift
 ---
 
 Bruce Tift’s book [Already Free](https://www.amazon.com/Already-Free-Buddhism-Psychotherapy-Liberation/dp/1622034112/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1698413559&sr=8-1) changed the way I think about life, love, and therapy. Bruce describes two paths to learning how to feel free in life:  the path of Western therapy, and the path of Buddhist philosophy. Bruce talks about how he has used ideas from both of those paths to help thousands of clients during his many decades of working as a therapist. I use Tift’s ideas in every therapy session and recommend the book to all of my clients. 

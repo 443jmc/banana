@@ -6,6 +6,7 @@ pubDate: "2026-01-28T07:19:03-0800"
 excerpt: "About three years ago, I began to accept that I was unusually narcissistic. I say it that way on purpose because I don't like to use the term \"you're a narcissist\" or \"you're not a narcissist.\" Realistically, it's…"
 embeds:
   - "https://www.youtube.com/embed/9T0feAhpK-w?feature=oembed"
+seoTitle: "A therapist's Escape from Narcissism"
 ---
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/9T0feAhpK-w?feature=oembed" title="What it" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>

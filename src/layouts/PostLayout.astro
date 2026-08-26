@@ -5,15 +5,16 @@ import { formatDate } from "../lib/site";
 
 interface Props {
   title: string;
+  seoTitle?: string;
   description?: string;
   image?: string;
   date?: Date;
 }
 
-const { title, description, image, date } = Astro.props;
+const { title, seoTitle, description, image, date } = Astro.props;
 ---
 
-<BaseLayout title={title} description={description} image={image}>
+<BaseLayout title={title} seoTitle={seoTitle} description={description} image={image}>
   <article>
     <header class="page-hero">
       <div class="wrap narrow">

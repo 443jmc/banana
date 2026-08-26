@@ -8,6 +8,7 @@ excerpt: "Catherine Roebuck joins me to discuss Chapter 2 of Bruce Tift’s book
 audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68d97cb51d0db56188c182b5/1759083787185/Attachment+Panic+with+Catherine+Roebuck.mp3"
 embeds:
   - "https://www.youtube.com/embed/FYMV750QS7E?feature=oembed"
+seoTitle: 29. The Buddhist Approach to Attachment Panic
 ---
 
 <audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68d97cb51d0db56188c182b5/1759083787185/Attachment+Panic+with+Catherine+Roebuck.mp3"></audio>

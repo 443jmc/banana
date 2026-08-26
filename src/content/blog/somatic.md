@@ -4,6 +4,7 @@ description: "Somatic acceptance is the practice of noticing, accepting, and fee
 sourceUrl: "https://jamesmchristensen.com/blog/somatic"
 pubDate: "2023-12-30T19:55:18-0800"
 excerpt: "Somatic acceptance is the practice of noticing, accepting, and feeling kindness toward the unpleasant physical sensations that accompany intense emotions. By noticing the physical component of intense emotions, we…"
+seoTitle: Somatic Acceptance
 ---
 
 Somatic acceptance is the practice of noticing, accepting, and feeling kindness toward the unpleasant physical sensations that accompany intense emotions. By noticing the physical component of intense emotions, we can increase our emotional capacity and our ability to tolerate intimacy. The practice of somatic acceptance has helped many of my clients let go of their need to “do something” about intense emotions. 

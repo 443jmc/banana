@@ -5,6 +5,7 @@ sourceUrl: "https://jamesmchristensen.com/blog/want"
 pubDate: "2023-10-25T05:25:50-0700"
 heroImage: /images/blog/blog-want-4eee3c7b59.png
 excerpt: "Most relationship arguments are about differences in preference and perception. If perception is Point A (where I am, where you are, where we are) then preference is Point B (where I want to be, where I want you to…"
+seoTitle: How to Tell your Partner what you Want
 ---
 
 **Most relationship arguments are about differences in preference and perception.** If perception is Point A (where I am, where you are, where we are) then preference is Point B (where I want to be, where I want you to be, where I want us to be.) Point A is what I see, and Point B is what I want. 

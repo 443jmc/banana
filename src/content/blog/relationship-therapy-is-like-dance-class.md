@@ -4,6 +4,7 @@ description: "I measure my effectiveness as a marriage therapist by how much dif
 sourceUrl: "https://jamesmchristensen.com/blog/relationship-therapy-is-like-dance-class"
 pubDate: "2024-07-15T09:32:03-0700"
 excerpt: "My wife and I take dance lessons together. The goal of every lesson is to dance a little bit better than we did at the beginning of the lesson. When we go to marriage therapy together, the goal is the same: to dance…"
+seoTitle: Relationship Therapy is like Dance Class
 ---
 
 My wife and I take dance lessons together. The goal of every lesson is to dance a little bit better than we did at the beginning of the lesson. When we go to marriage therapy together, the goal is the same:  to dance with each other a little better at the end of the session, than we did at the beginning.  That means that we’re more capable of collaborative conflict, effective communication, and compassionate caring than you were when you walked into your therapist’s office. 

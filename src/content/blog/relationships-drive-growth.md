@@ -5,6 +5,7 @@ sourceUrl: "https://jamesmchristensen.com/blog/relationships-drive-growth"
 pubDate: "2026-04-30T08:00:14-0700"
 heroImage: /images/blog/blog-relationships-drive-growth-0c7ff3cf19.png
 excerpt: "Intimate relationships are the primary driver of human growth. You fall in love with someone, but eventually your feelings fade and the reality of who you are starts to take over your relationship. You start to feel…"
+seoTitle: Relationships Drive Growth
 ---
 
 ![](/images/site/blog-0fff72c4b6.png)

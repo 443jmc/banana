@@ -4,6 +4,7 @@ description: Two dominant schools of couples therapy compared. A therapist expla
 sourceUrl: "https://jamesmchristensen.com/blog/differentiation-vs-attachment-in-couples-therapy"
 pubDate: "2025-06-22T09:45:37-0700"
 excerpt: "Couples therapists in the United States often find themselves navigating two major schools of thought: differentiation-based therapy and attachment-based therapy. These approaches offer contrasting philosophies on…"
+seoTitle: Differentiation vs Attachment in Couples Therapy
 ---
 
 Couples therapists in the United States often find themselves navigating two major schools of thought: **differentiation-based therapy** and **attachment-based therapy**. These approaches offer contrasting philosophies on what makes relationships thrive, and their proponents have engaged in a lively debate over which is more effective (or how to best integrate both). Below, we’ll explore the theoretical distinctions between these models, how widely each is used, and how professional organizations (like AAMFT and APA) view or promote these approaches – all to paint a clear picture of the current state of this debate.

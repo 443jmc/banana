@@ -4,6 +4,7 @@ description: "Introduction: The Master and His Emissary  In the introduction, Ia
 sourceUrl: "https://jamesmchristensen.com/book-summaries/book-summary-the-master-and-his-emissary-by-iain-mcgilchrist"
 pubDate: "2025-07-16T16:32:16-0700"
 excerpt: "Introduction: The Master and His Emissary In the introduction, Iain McGilchrist lays out the book’s central metaphor and thesis. He references a fable (attributed to Nietzsche) about a wise master and his overzealous…"
+seoTitle: "Book Summary: The Master and His Emissary by Iain McGilchrist"
 ---
 
 ## Introduction: The Master and His Emissary

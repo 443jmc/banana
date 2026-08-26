@@ -8,6 +8,7 @@ excerpt: "James Christensen: Transcript: James: I was wondering if you'd be will
 audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68a229461d0cfd75684677a5/1755457949408/26.+Crucible+Therapy+with+Dr.+Dave+Jenkins.mp3"
 embeds:
   - "https://www.youtube.com/embed/oXu7F9YngSU?feature=oembed"
+seoTitle: 26. Crucible Therapy with Dr. Dave Jenkins.
 ---
 
 <audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68a229461d0cfd75684677a5/1755457949408/26.+Crucible+Therapy+with+Dr.+Dave+Jenkins.mp3"></audio>

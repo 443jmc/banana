@@ -1,8 +1,9 @@
 ---
 title: Couples Communication Therapy
-description: "Can't stop fighting? When every conversation turns into a battle, the problem isn't communication — it's what's underneath. Couples therapy in Roseville, CA. Free first session."
+description: "Meta Description: Can't stop fighting? When every conversation turns into a battle, the problem isn't communication — it's what's underneath. Couples therapy in Roseville, CA. Free first session."
 sourceUrl: "https://jamesmchristensen.com/communication"
 pubDate: 2026-03-10
+seoTitle: "Couples Communication Therapy | Roseville, CA"
 ---
 
 # **Couples Therapy for Communication in**

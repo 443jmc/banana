@@ -4,6 +4,7 @@ description: "Chapter 1:  The Incest Phenomenon   In the opening chapter, the au
 sourceUrl: "https://jamesmchristensen.com/book-summaries/summary-of-incestuous-families-by-maddock-and-larson"
 pubDate: "2025-06-22T09:28:07-0700"
 excerpt: "Chapter 1: The Incest Phenomenon In the opening chapter, the authors define incest as sexual behavior between closely related family members, emphasizing that it violates one of society’s most deeply held taboos.…"
+seoTitle: "Book Summary: Incestuous Families by Maddock and Larson."
 ---
 
 ## Chapter 1: *The Incest Phenomenon*

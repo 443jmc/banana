@@ -6,6 +6,7 @@ pubDate: "2026-02-14T15:27:34-0800"
 excerpt: "When I want my wife to change, my brain reaches for the same tool every time: emphasize my distress. The logic feels airtight—if she could just see how much this hurts, she'd change. But think about what that…"
 embeds:
   - "https://www.youtube.com/embed/HnzgEdoBqBw?feature=oembed"
+seoTitle: Don’t be a Doormat
 ---
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/HnzgEdoBqBw?feature=oembed" title="How to Ask Your Partner to Change Without Triggering Their Defenses" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>

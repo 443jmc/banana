@@ -4,6 +4,7 @@ description: "Close your eyes and imagine the coral reef scene from “Finding N
 sourceUrl: "https://jamesmchristensen.com/blog/living-at-the-bottom-of-the-ocean"
 pubDate: "2024-11-11T07:13:39-0800"
 excerpt: "Close your eyes and imagine the coral reef scene from “Finding Nemo.” Picture the fish flitting about, the sun filtering down through the waves, and the bright colors everywhere. Now, picture the very different scene…"
+seoTitle: Living at the Bottom of the Ocean
 ---
 
 Close your eyes and imagine the coral reef scene from “Finding Nemo.” Picture the fish flitting about, the sun filtering down through the waves, and the bright colors everywhere. 

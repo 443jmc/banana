@@ -4,6 +4,7 @@ description: "Why desire fades in long-term relationships—and what to do about
 sourceUrl: "https://jamesmchristensen.com/book-summaries/book-summary-intimacy-and-desire-by-david-schnarch"
 pubDate: "2025-07-11T11:48:53-0700"
 excerpt: "Introduction In Intimacy & Desire, Dr. David Schnarch introduces a revolutionary approach to understanding and resolving sexual desire problems in committed relationships. Instead of blaming hormones, aging, or “lack…"
+seoTitle: "Intimacy and Desire by David Schnarch: Summary & Guide"
 ---
 
 ## Introduction

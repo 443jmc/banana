@@ -5,6 +5,7 @@ sourceUrl: "https://jamesmchristensen.com/blog/anxiety"
 pubDate: "2023-10-09T09:14:06-0700"
 heroImage: /images/blog/blog-anxiety-a884797932.jpg
 excerpt: "Popular culture teaches us that relationships are for comfort and pleasure. Real life disagrees. Most committed relationships are full of anxiety. As humans, we have a deep desire to form long-term relationships, but…"
+seoTitle: How to Reduce Relationship Anxiety
 ---
 
 > **Popular culture teaches us that relationships are for comfort and pleasure. Real life disagrees.**

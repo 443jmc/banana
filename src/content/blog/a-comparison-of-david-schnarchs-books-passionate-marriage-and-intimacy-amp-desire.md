@@ -4,6 +4,7 @@ description: "Passionate Marriage  (1997) and  Intimacy & Desire  (2009) are Dav
 sourceUrl: "https://jamesmchristensen.com/blog/a-comparison-of-david-schnarchs-books-passionate-marriage-and-intimacy-amp-desire"
 pubDate: "2026-01-30T11:15:04-0800"
 excerpt: "Passionate Marriage (1997) and Intimacy & Desire (2009) are David Schnarch's two most popular works. This article breaks down what each book offers and how they complement each other. Passionate Marriage introduces…"
+seoTitle: "A Comparison of David Schnarch's books Passionate Marriage and Intimacy & Desire"
 ---
 
 *Passionate Marriage* (1997) and *Intimacy & Desire* (2009) are David Schnarch's two most popular works. This article breaks down what each book offers and how they complement each other.

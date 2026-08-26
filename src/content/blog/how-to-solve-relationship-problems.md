@@ -5,6 +5,7 @@ sourceUrl: "https://jamesmchristensen.com/blog/how-to-solve-relationship-problem
 pubDate: "2026-05-20T06:16:33-0700"
 heroImage: /images/blog/blog-how-to-solve-relationship-problems-1b8134af6b.png
 excerpt: "Your brain has two modes: Problem Mode and Person Mode. In Problem Mode, you see your partner as a problem to be solved. In Person Mode, you see your partner as a person, someone who’s a lot like you. The Problem…"
+seoTitle: How to Solve Relationship Problems
 ---
 
 ![](/images/blog/blog-how-to-solve-relationship-problems-d08ae91a56.png)

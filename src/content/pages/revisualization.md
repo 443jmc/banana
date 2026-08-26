@@ -3,6 +3,7 @@ title: "Revisualization: Healing Childhood Wounds"
 description: "Schnarch's revisualization technique for resolving childhood emotional wounds. How revisiting formative memories with your adult mind heals relationship patterns."
 sourceUrl: "https://jamesmchristensen.com/revisualization"
 pubDate: 2026-02-06
+seoTitle: "Revisualization: Healing Childhood Wounds"
 ---
 
 # **Revisualization**

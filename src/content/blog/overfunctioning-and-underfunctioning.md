@@ -4,6 +4,7 @@ description: "Overfunctioning and underfunctioning are patterns of behavior that
 sourceUrl: "https://jamesmchristensen.com/blog/overfunctioning-and-underfunctioning"
 pubDate: "2024-12-17T22:24:46-0800"
 excerpt: "Overfunctioning and underfunctioning are patterns of behavior that can mess up the balance in your relationship. One partner ends up doing way too much (overfunctioning), while the other doesn't do enough…"
+seoTitle: Overfunctioning and Underfunctioning
 ---
 
 Overfunctioning and underfunctioning are patterns of behavior that can mess up the balance in your relationship. One partner ends up doing way too much (overfunctioning), while the other doesn't do enough (underfunctioning). Think of it like a seesaw that's permanently tilted.

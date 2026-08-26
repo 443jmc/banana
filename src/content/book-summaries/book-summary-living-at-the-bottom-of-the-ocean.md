@@ -4,6 +4,7 @@ description: "Click here to download a free PDF copy of the entire book.   Chapt
 sourceUrl: "https://jamesmchristensen.com/book-summaries/book-summary-living-at-the-bottom-of-the-ocean"
 pubDate: "2025-07-11T11:50:46-0700"
 excerpt: "Chapter 1: You’re Not Having Feelings, You’re Drowning in Them! Core Theme: This chapter reframes extreme emotional reactions as regressions rather than just “having feelings.” Through Elizabeth’s story, we see how…"
+seoTitle: "Book summary: Living at the Bottom of the Ocean by David Schnarch"
 ---
 
 [Click here to download a free PDF copy of the entire book.](https://crucible4points.com/download-dr-schnarchs-last-book-manuscript)

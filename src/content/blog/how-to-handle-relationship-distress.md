@@ -1,9 +1,10 @@
 ---
 title: How to Handle Relationship Distress
-description: "When you were a child, someone else was responsible for your emotional and physical safety. As an adult, that responsible person is you. When you try to make your partner responsible for making you feel safe, you’re inserting a parent/child dynamic into an adult relationship. "
+description: "When you were a child, someone else was responsible for your emotional and physical safety. As an adult, that responsible person is you. When you try to make your partner responsible for making you feel safe, you’re inserting a parent/child dynamic into an adult relationship.&nbsp;"
 sourceUrl: "https://jamesmchristensen.com/blog/how-to-handle-relationship-distress"
 pubDate: "2024-10-05T12:29:27-0700"
 excerpt: "Your Child Brain Your brain is programmed for survival. When you were young, survival meant maintaining a close, emotional connection to your parents or caregivers. You were mostly helpless on your own, so your brain…"
+seoTitle: How to Handle Relationship Distress
 ---
 
 **Your Child Brain**

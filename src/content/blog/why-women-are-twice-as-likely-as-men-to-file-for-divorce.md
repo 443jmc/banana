@@ -4,6 +4,7 @@ description: "Women initiate nearly 70% of all divorces. A couples therapist bre
 sourceUrl: "https://jamesmchristensen.com/blog/why-women-are-twice-as-likely-as-men-to-file-for-divorce"
 pubDate: "2026-02-02T20:35:54-0800"
 excerpt: "Research consistently shows that women initiate approximately 70% of all divorces in the United States. When you narrow the focus to college-educated couples, that number climbs even higher. This isn't a new…"
+seoTitle: "Why Do Women File for Divorce More Often? A Therapist Explains"
 ---
 
 Research consistently shows that women initiate approximately 70% of all divorces in the United States. When you narrow the focus to college-educated couples, that number climbs even higher. This isn't a new trend—it's been documented for decades. But what's driving it?

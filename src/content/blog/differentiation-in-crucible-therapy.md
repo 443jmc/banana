@@ -4,6 +4,7 @@ description: "Differentiation is the ability to remain true to yourself and conn
 sourceUrl: "https://jamesmchristensen.com/blog/differentiation-in-crucible-therapy"
 pubDate: "2025-01-16T08:47:25-0800"
 excerpt: "Differentiation is the ability to remain true to yourself and connected to your partner at the same time. It’s what allows you to have both freedom and connection. Differentiation is not about becoming an island,…"
+seoTitle: Differentiation in Crucible Therapy
 ---
 
 Differentiation is the ability to remain true to yourself and connected to your partner at the same time. It’s what allows you to have both freedom and connection. **Differentiation is not about becoming an island, isolating yourself from your partner, or pushing them away to assert your independence**. **Instead, it's about becoming more solid in yourself so you can be closer to your partner without losing your sense of self**.

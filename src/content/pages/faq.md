@@ -3,6 +3,7 @@ title: Frequently Asked Questions
 description: "Explore couples therapy options in Roseville, CA. Get expert guidance on improving relationships, communication, and personal growth through evidence-based therapy methods."
 sourceUrl: "https://jamesmchristensen.com/faq"
 pubDate: 2026-02-09
+seoTitle: "FAQ | Start Improving Today"
 ---
 
 # Frequently Asked Questions

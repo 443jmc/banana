@@ -4,6 +4,7 @@ description: "In-person marriage therapy and couples counseling in Roseville, Ca
 sourceUrl: "https://jamesmchristensen.com/read"
 pubDate: 2026-03-08
 heroImage: /images/pages/read-50f525c740.jpg
+seoTitle: "In-person couples counseling and marriage therapy in Roseville, California"
 ---
 
 <div class="sqsrte-scaled-text-container"><span class="sqsrte-scaled-text"><h1 style="text-align:center;white-space:pre-wrap;">Reading List</h1></span></div>

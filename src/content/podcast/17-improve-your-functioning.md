@@ -6,6 +6,7 @@ pubDate: "2025-08-02T18:15:00-0700"
 heroImage: /images/podcast/podcast-17-improve-your-functioning-0612b2a53c.png
 excerpt: "Transcript James: So if I improved my functioning significantly, how would, you know? So like, say you and I meet up a year from now and you're like, wow, James, your functioning is way up. But what would tell you…"
 audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/6893e5eabe6b5a1a77924748/1754523211265/17.+Improve+your+Functioning.mp3"
+seoTitle: 17. Improve Your Functioning
 ---
 
 <audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/6893e5eabe6b5a1a77924748/1754523211265/17.+Improve+your+Functioning.mp3"></audio>

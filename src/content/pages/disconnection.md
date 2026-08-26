@@ -1,8 +1,9 @@
 ---
 title: Marriage Counseling for Roommate Syndrom
-description: "Feel like roommates? When the spark is gone and you're living parallel lives, the fix isn't date nights — it's something deeper. Free first session in Roseville, CA."
+description: "Meta Description: Feel like roommates? When the spark is gone and you're living parallel lives, the fix isn't date nights — it's something deeper. Free first session in Roseville, CA."
 sourceUrl: "https://jamesmchristensen.com/disconnection"
 pubDate: 2026-03-10
+seoTitle: "Feeling Disconnected from Your Partner? | Couples Therapy"
 ---
 
 # **Marriage Counseling for Roommate Syndrom**

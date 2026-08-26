@@ -8,6 +8,7 @@ excerpt: "James: Loving from the heart and loving unilaterally is fundamentally 
 audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/694ddf27331f57266b73bc4e/1766711169418/Adult+Love.mp3"
 embeds:
   - "https://www.youtube.com/embed/gvCQBSms6TE?feature=oembed"
+seoTitle: "Loving on Purpose: A Conversation with Catherine Roebuck"
 ---
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/gvCQBSms6TE?feature=oembed" title="Loving on Purpose with Catherine Roebuck" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>

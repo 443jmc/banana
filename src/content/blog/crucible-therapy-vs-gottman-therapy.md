@@ -4,6 +4,7 @@ description: "I became a Crucible therapist because it saved my own marriage. I 
 sourceUrl: "https://jamesmchristensen.com/blog/crucible-therapy-vs-gottman-therapy"
 pubDate: "2024-10-05T12:23:14-0700"
 excerpt: "Gottman Therapy: The Traditional Approach The Gottman Method, developed by Dr. John Gottman and Dr. Julie Gottman, is what most people expect from couples therapy. It's based on extensive research, observing…"
+seoTitle: Crucible Therapy vs Gottman Therapy
 ---
 
 **Gottman Therapy: The Traditional Approach**

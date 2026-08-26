@@ -4,6 +4,7 @@ description: "Healthy conflict is good for relationships, and most relationships
 sourceUrl: "https://jamesmchristensen.com/blog/conflict"
 pubDate: "2023-10-13T08:32:41-0700"
 excerpt: "7 examples of healthy relationship conflict Healthy conflict is good for relationships, and most relationships actually need more conflict, not less. We avoid conflict because we are afraid of upsetting each other,…"
+seoTitle: Healthy Relationship Conflict
 ---
 
 **7 examples of healthy relationship conflict**

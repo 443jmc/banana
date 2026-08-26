@@ -4,6 +4,7 @@ description: "Chapter 1: What Is Mind Mapping?   Chapter 1  introduces the conce
 sourceUrl: "https://jamesmchristensen.com/book-summaries/book-summary-brain-talk-by-david-schnarch"
 pubDate: "2025-07-11T11:47:34-0700"
 excerpt: "Chapter 1: What Is Mind Mapping? Chapter 1 introduces the concept of mind mapping and why it matters so much in our lives. Schnarch defines mind mapping as the brain’s built-in skill for picturing what’s going on in…"
+seoTitle: "Book Summary: Brain Talk by David Schnarch"
 ---
 
 ## Chapter 1: What Is Mind Mapping?

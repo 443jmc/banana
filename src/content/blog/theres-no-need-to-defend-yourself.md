@@ -4,6 +4,7 @@ description: "Defensiveness destroys intimacy. Learn why you don't need to defen
 sourceUrl: "https://jamesmchristensen.com/blog/theres-no-need-to-defend-yourself"
 pubDate: "2024-10-09T15:54:12-0700"
 excerpt: "One of the first things I talk to couples about when they come into my office for marriage therapy is that you don't need to defend yourself when your partner criticizes you. Why? Because you don't actually need your…"
+seoTitle: Why Defending Yourself Hurts Your Relationship
 ---
 
 **One of the first things I talk to couples about** when they come into my office for marriage therapy is that you don't need to defend yourself when your partner criticizes you. Why? Because you don't actually need your partner to see you in a positive light all the time. Sounds crazy, right? But understanding this can completely transform your relationship.

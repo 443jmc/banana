@@ -6,6 +6,7 @@ pubDate: "2025-12-23T13:27:32-0800"
 excerpt: "How to Love a Difficult Person My wife and I would both qualify as people who are hard to love. We've been married for 24 years, and as you might expect, it's been difficult. But I've learned a few things along the…"
 embeds:
   - "https://www.youtube.com/embed/0jVL_EZ_dm0?feature=oembed"
+seoTitle: How to Love a Difficult person
 ---
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/0jVL_EZ_dm0?feature=oembed" title="How to Love a Difficult Person" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>

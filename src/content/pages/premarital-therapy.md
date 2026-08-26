@@ -4,6 +4,7 @@ description: "Build skills before problems start. Premarital counseling for enga
 sourceUrl: "https://jamesmchristensen.com/premarital-therapy"
 pubDate: 2026-02-01
 heroImage: /images/pages/premarital-therapy-a3a3e6d84e.jpeg
+seoTitle: "Premarital Counseling in Roseville, CA | Start Your Marriage Strong"
 ---
 
 ![A young couple dancing together on a wooded path during sunset, holding hands and smiling.](/images/pages/premarital-therapy-a3a3e6d84e.jpeg)

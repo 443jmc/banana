@@ -4,6 +4,7 @@ description: "Relationship therapy can help you resolve these immaturities.  Whe
 sourceUrl: "https://jamesmchristensen.com/blog/sex-money-parenting-and-the-in-laws"
 pubDate: "2024-09-09T21:54:16-0700"
 excerpt: "These are the four that tear couples apart: 1\\. Sex 2\\. Money 3\\. Parenting 4\\. The in-laws The first three are all issues where compromise is difficult, and where each partner has a lot of power to affect the other…"
+seoTitle: "Sex, Money, Parenting, and the In-Laws"
 ---
 
 **These are the four that tear couples apart:**

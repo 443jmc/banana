@@ -3,6 +3,7 @@ title: Sacramento Couples Therapy
 description: Marriage counseling for Sacramento couples. Meet in our Roseville office (20 min from downtown) or via secure video. First session free.
 sourceUrl: "https://jamesmchristensen.com/couples-therapy-sacramento"
 pubDate: 2026-02-01
+seoTitle: "Couples Therapy for Sacramento | In-Person or Video"
 ---
 
 # **Sacramento Couples Therapy**

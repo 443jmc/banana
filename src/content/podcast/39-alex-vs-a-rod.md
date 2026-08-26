@@ -8,6 +8,7 @@ excerpt: "Professional baseball player Alex Rodriguez credits Dr. David Schnarch
 audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/6a5ac0656ae549007d976774/1784332392872/A-Rod.mp3"
 embeds:
   - "https://www.youtube.com/embed/sPZRIi6ppmk?feature=oembed"
+seoTitle: 39. Alex Vs A-Rod
 ---
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/sPZRIi6ppmk?feature=oembed" title="What Happened when Alex Rodriguez went to Therapy?" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>

@@ -4,6 +4,7 @@ description: "Most marriages incorporate a dynamic where one partner tries to so
 sourceUrl: "https://jamesmchristensen.com/blog/avoidant"
 pubDate: "2023-11-03T07:27:59-0700"
 excerpt: "\"We are never so defenseless against suffering as when we love.\" — Sigmund Freud Defining the Trap Most marriages incorporate a dynamic where one partner tries to soothe anxiety by seeking emotional and physical…"
+seoTitle: Escaping the Anxious/Avoidant Trap
 ---
 
 > *"We are never so defenseless against suffering as when we love." — Sigmund Freud*

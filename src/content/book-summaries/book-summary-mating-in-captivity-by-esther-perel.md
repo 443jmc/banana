@@ -4,6 +4,7 @@ description: "Why desire fades in long-term relationships—and how to bring it 
 sourceUrl: "https://jamesmchristensen.com/book-summaries/book-summary-mating-in-captivity-by-esther-perel"
 pubDate: "2026-02-01T20:25:36-0800"
 excerpt: "Esther Perel tackles one of the most confusing paradoxes in modern relationships: why does sexual desire fade in loving, committed partnerships? In Mating in Captivity, she argues that the very things that make…"
+seoTitle: "Mating in Captivity by Esther Perel: Summary & Key Ideas"
 ---
 
 Esther Perel tackles one of the most confusing paradoxes in modern relationships: why does sexual desire fade in loving, committed partnerships? In Mating in Captivity, she argues that the very things that make relationships secure—familiarity, closeness, predictability—can extinguish the erotic spark.

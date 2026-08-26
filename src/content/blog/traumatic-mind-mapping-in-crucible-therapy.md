@@ -4,6 +4,7 @@ description: "Traumatic Mind Mapping   You have an innate ability to understand 
 sourceUrl: "https://jamesmchristensen.com/blog/traumatic-mind-mapping-in-crucible-therapy"
 pubDate: "2025-01-16T08:40:48-0800"
 excerpt: "Traumatic Mind Mapping You have an innate ability to understand what’s happening in other people’s minds, what Dr. David Schnarch called mind mapping. You use it to navigate social situations, build relationships,…"
+seoTitle: Traumatic Mind Mapping in Crucible Therapy
 ---
 
 **Traumatic Mind Mapping**

@@ -3,6 +3,7 @@ title: Couples Therapy in California
 description: Expert couples therapy available anywhere in California via secure video. Specializing in intensive formats for faster progress. First session free.
 sourceUrl: "https://jamesmchristensen.com/couples-therapy-california"
 pubDate: 2026-02-02
+seoTitle: "Couples Counseling in California | Online Therapy Statewide"
 ---
 
 # **Couples Therapy in California**

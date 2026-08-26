@@ -175,3 +175,10 @@ export function formatDate(date: Date) {
     timeZone: "America/Los_Angeles",
   });
 }
+
+export function canonicalHref(path: string, site: string | URL) {
+  const origin = new URL(site).origin;
+  const clean = (path || "/").replace(/\.html$/, "").replace(/\/+$/, "") || "/";
+  if (clean === "/") return origin;
+  return `${origin}${clean.startsWith("/") ? clean : `/${clean}`}`;
+}

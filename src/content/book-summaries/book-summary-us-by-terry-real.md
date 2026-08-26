@@ -4,6 +4,7 @@ description: "Therapist's summary of Terry Real's Us. Learn how to move from \"y
 sourceUrl: "https://jamesmchristensen.com/book-summaries/book-summary-us-by-terry-real"
 pubDate: "2025-07-11T11:53:15-0700"
 excerpt: "1. Chapter 1: Which Version of You Shows Up to Your Relationship? Terry Real opens by observing that nothing triggers us like our intimate relationships – some couples become a “hailstorm and tortoise” pair where one…"
+seoTitle: "Us by Terry Real: Book Summary for Couples"
 ---
 
 1.  **Chapter 1: Which Version of You Shows Up to Your Relationship?**  

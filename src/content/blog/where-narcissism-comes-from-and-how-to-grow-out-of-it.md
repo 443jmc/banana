@@ -6,6 +6,7 @@ pubDate: "2026-06-12T10:12:10-0700"
 excerpt: "Narcissism has four main components: Superiority (the belief that I'm better than everyone else) Indifference (a lack of concern for other people) Fragility (the inability to tolerate feedback or criticism)…"
 embeds:
   - "https://www.youtube.com/embed/LOcBFFR02QI?feature=oembed"
+seoTitle: "Where Narcissism Comes From, and How to Grow Out of It"
 ---
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/LOcBFFR02QI?feature=oembed" title="How to Fix Narcissism" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>

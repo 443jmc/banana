@@ -4,6 +4,7 @@ description: "A couples retreat designed for just the two of you. Three hours of
 sourceUrl: "https://jamesmchristensen.com/private-couples-retreats"
 pubDate: 2026-03-10
 heroImage: /images/pages/private-couples-retreats-91d4b0e5eb.jpg
+seoTitle: "Private Couples Retreat in California | One Couple at a Time"
 ---
 
 ![Expert Couples Therapy in Roseville, CA.](/images/pages/private-couples-retreats-91d4b0e5eb.jpg)

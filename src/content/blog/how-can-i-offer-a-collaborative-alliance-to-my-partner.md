@@ -1,9 +1,10 @@
 ---
 title: "How can I Offer a Collaborative Alliance to my Partner?"
-description: "Unilaterally offering a collaborative alliance doesn't mean being a doormat or letting your partner walk all over you.  It's about taking a leadership role in the relationship by modeling the behavior you want to see. By consistently acting with integrity and good faith, you can create a positive emotional environment that makes it more likely for your partner to eventually join you in a true collaborative alliance."
+description: "Unilaterally offering a collaborative alliance doesn't mean being a doormat or letting your partner walk all over you. &nbsp;It's about taking a leadership role in the relationship by modeling the behavior you want to see. By consistently acting with integrity and good faith, you can create a positive emotional environment that makes it more likely for your partner to eventually join you in a true collaborative alliance."
 sourceUrl: "https://jamesmchristensen.com/blog/how-can-i-offer-a-collaborative-alliance-to-my-partner"
 pubDate: "2024-12-18T09:37:37-0800"
 excerpt: "While a collaborative alliance ideally involves both partners, it's possible for one person to make the first move, even if their partner isn't initially receptive. This is because responsibility in a collaborative…"
+seoTitle: "How can I Offer a Collaborative Alliance to my Partner?"
 ---
 
 **While a collaborative alliance ideally involves both partners, it's possible for one person to make the first move, even if their partner isn't initially receptive.** This is because **responsibility in a collaborative alliance is unilateral**, meaning that each person is accountable for upholding their end of the bargain, regardless of whether the other person is doing the same. In other words, you can act in a way that invites collaboration, even if your partner is currently behaving in a way that discourages it.

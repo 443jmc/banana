@@ -5,6 +5,7 @@ sourceUrl: "https://jamesmchristensen.com/blog/how-to-find-out-who-you-really-ar
 pubDate: "2026-05-02T10:41:20-0700"
 heroImage: /images/blog/blog-how-to-find-out-who-you-really-are-8c1a02ee2d.png
 excerpt: "If you want to know who I am, ask my wife what it's like to be married to me. Ask her what it was like two years ago compared to what it's like today. If you want to know who you are, ask the person you're closest to…"
+seoTitle: How to find out who you really are
 ---
 
 ![](/images/site/blog-cb35c09675.png)

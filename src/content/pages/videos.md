@@ -16,6 +16,7 @@ embeds:
   - "https://www.youtube.com/embed/G2Q7yyYosnk?feature=oembed"
   - "https://www.youtube.com/embed/nDWBVXYZujo?feature=oembed"
   - "https://www.youtube.com/embed/1ku-6RLJnsQ?feature=oembed"
+seoTitle: "Videos | Explore & Connect"
 ---
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/tFdnftZlJw4?feature=oembed" title="Strong Focus vs Weak Focus" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>

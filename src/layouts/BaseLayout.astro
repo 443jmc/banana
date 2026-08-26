@@ -2,10 +2,11 @@
 import "../styles/global.css";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
-import { DEFAULT_DESCRIPTION, SITE_NAME } from "../lib/site";
+import { DEFAULT_DESCRIPTION, canonicalHref } from "../lib/site";
 
 interface Props {
   title: string;
+  seoTitle?: string;
   description?: string;
   image?: string;
   canonicalPath?: string;
@@ -13,14 +14,15 @@ interface Props {
 
 const {
   title,
+  seoTitle,
   description = DEFAULT_DESCRIPTION,
   image = "/images/site/og-default.png",
   canonicalPath,
 } = Astro.props;
 
-const pageTitle = title.includes(SITE_NAME) ? title : `${title} | ${SITE_NAME}`;
+const pageTitle = seoTitle || title;
 const rawPath = canonicalPath || Astro.url.pathname.replace(/\.html$/, "").replace(/\/$/, "") || "/";
-const canonical = new URL(rawPath, Astro.site);
+const canonical = canonicalHref(rawPath, Astro.site!);
 const ogImage = image.startsWith("http") ? image : new URL(image, Astro.site).href;
 ---
 
@@ -31,12 +33,12 @@ const ogImage = image.startsWith("http") ? image : new URL(image, Astro.site).hr
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{pageTitle}</title>
     <meta name="description" content={description} />
-    <link rel="canonical" href={canonical.href} />
+    <link rel="canonical" href={canonical} />
     <link rel="icon" href="/favicon.ico" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content={pageTitle} />
     <meta property="og:description" content={description} />
-    <meta property="og:url" content={canonical.href} />
+    <meta property="og:url" content={canonical} />
     <meta property="og:image" content={ogImage} />
     <meta name="twitter:card" content="summary_large_image" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />

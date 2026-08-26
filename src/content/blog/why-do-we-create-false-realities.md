@@ -4,6 +4,7 @@ description: "We use false realities to justify bad behavior, intense feelings, 
 sourceUrl: "https://jamesmchristensen.com/blog/why-do-we-create-false-realities"
 pubDate: "2025-03-16T11:14:31-0700"
 excerpt: "We use false realities to justify bad behavior, intense feelings, and lack of action. We create false realities when we don’t want to face what’s actually true about ourselves. After creating a false reality, we…"
+seoTitle: "Why do we Create False Realities?"
 ---
 
 **We use false realities to justify bad behavior, intense feelings, and lack of action.**

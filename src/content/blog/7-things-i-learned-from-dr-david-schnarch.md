@@ -4,6 +4,7 @@ description: "Nobody's ready for marriage; marriage makes you ready for marriage
 sourceUrl: "https://jamesmchristensen.com/blog/7-things-i-learned-from-dr-david-schnarch"
 pubDate: "2024-12-17T21:08:51-0800"
 excerpt: "Dr. David Schnarch created Crucible Therapy and is one of my heroes. His writing has helped me save my own marriage, and help other couples do the same. 1. Nobody's ready for marriage; marriage makes you ready for…"
+seoTitle: 7 Things I learned from Dr. David Schnarch
 ---
 
 Dr. David Schnarch created Crucible Therapy and is one of my heroes. His writing has helped me save my own marriage, and help other couples do the same.

@@ -8,6 +8,7 @@ excerpt: "Transcript: If you recently found out that your partner has cheated on
 audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68f13daec3140856e47c6bd8/1760640450282/How+to+Rebuild+Trust+after+Infidelity.mp3"
 embeds:
   - "https://www.youtube.com/embed/ESX7RiFnFX4?feature=oembed"
+seoTitle: 31. How to Rebuild Trust after Infidelity
 ---
 
 <audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68f13daec3140856e47c6bd8/1760640450282/How+to+Rebuild+Trust+after+Infidelity.mp3"></audio>

@@ -18,6 +18,7 @@ const isContact = page.id === "contact" || page.id === "newsletter";
 
 <PageLayout
   title={page.data.title}
+  seoTitle={page.data.seoTitle}
   description={page.data.description}
   image={page.data.heroImage}
   showOffer={!isContact}

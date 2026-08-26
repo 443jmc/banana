@@ -4,6 +4,7 @@ description: "Romantic relationships almost always happen between two people at 
 sourceUrl: "https://jamesmchristensen.com/blog/marriage"
 pubDate: "2023-10-29T17:09:20-0700"
 excerpt: "You’re trying to manage the minds of lots of people, for you to be okay. And that’s a thankless job. It’s exhausting. - Jennifer Finlayson-Fife Resentful Accommodation is neither kind or loving I entered my marriage…"
+seoTitle: What I wish I Knew Before Marriage
 ---
 
 > ***You’re trying to manage the minds of lots of people, for you to be okay. And that’s a thankless job. It’s exhausting. - Jennifer Finlayson-Fife***

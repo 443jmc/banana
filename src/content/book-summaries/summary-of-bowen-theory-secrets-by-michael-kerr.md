@@ -4,6 +4,7 @@ description: "A therapist's guide to Bowen Family Systems Theory. Learn about di
 sourceUrl: "https://jamesmchristensen.com/book-summaries/summary-of-bowen-theory-secrets-by-michael-kerr"
 pubDate: "2025-06-22T09:36:44-0700"
 excerpt: "Chapter 1: Introduction to Family Systems Theory Summary: The book opens by introducing Bowen family systems theory and the idea that a family operates as an emotional unit with its own hidden dynamics. Kerr explains…"
+seoTitle: "Bowen Family Systems Theory: Summary of Michael Kerr's Work"
 ---
 
 ## Chapter 1: Introduction to Family Systems Theory

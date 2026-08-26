@@ -5,6 +5,7 @@ sourceUrl: "https://jamesmchristensen.com/blog/why-does-my-therapist-want-to-tal
 pubDate: "2026-04-30T10:31:12-0700"
 heroImage: /images/blog/blog-why-does-my-therapist-want-to-talk-about-my-parents-65b66eeeb4.png
 excerpt: "Your therapist wants to talk to you about your parents because your parents had a significant impact on how your brain developed. This article has three parts: 1. Your parents affected the way your brain developed 2.…"
+seoTitle: "Why does my therapist want to talk about my parents?"
 ---
 
 ![](/images/site/blog-dac4184aa1.png)

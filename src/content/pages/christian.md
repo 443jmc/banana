@@ -4,6 +4,7 @@ description: "Explore therapy services for Christian couples with James Christen
 sourceUrl: "https://jamesmchristensen.com/christian"
 pubDate: 2026-01-22
 heroImage: /images/pages/christian-f13db38274.jpg
+seoTitle: "Christian Couples | Strengthen Your Bond"
 ---
 
 ![A man and woman are enjoying a conversation outdoors in a park, leaning against large tree trunks while sitting in the hollow of a tree. The woman is sitting on the left, wearing a white blouse and blue jeans, and the man is on the right, wearing a tan jacket and beige pants. They are smiling at each other with autumn-colored trees in the background.](/images/pages/christian-f13db38274.jpg)

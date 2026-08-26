@@ -1,9 +1,10 @@
 ---
 title: Crucible Therapy vs Emotionally-Focused Therapy (EFT)
-description: "In summary:  EFT focuses on the ways in which we act like children in adult relationships, while Crucible therapy focuses on how to grow up and actually learn how to love each other. Crucible may sound harsh in comparison, but the actual practice of Crucible therapy is full of love and compassion. "
+description: "In summary:&nbsp; EFT focuses on the ways in which we act like children in adult relationships, while Crucible therapy focuses on how to grow up and actually learn how to love each other. Crucible may sound harsh in comparison, but the actual practice of Crucible therapy is full of love and compassion.&nbsp;"
 sourceUrl: "https://jamesmchristensen.com/blog/crucible-therapy-vs-emotionally-focuse-therapy-eft"
 pubDate: "2024-10-05T12:05:37-0700"
 excerpt: "This article compares Dr. David Schnarch's Crucible Therapy with Dr. Sue Johnson's Emotionally Focused Therapy (EFT). While both aim to improve relationships, they differ significantly in their core philosophies and…"
+seoTitle: Crucible Therapy vs Emotionally-Focused Therapy (EFT)
 ---
 
 **This article compares Dr. David Schnarch's Crucible Therapy with Dr. Sue Johnson's Emotionally Focused Therapy (EFT).** While both aim to improve relationships, they differ significantly in their core philosophies and methods.

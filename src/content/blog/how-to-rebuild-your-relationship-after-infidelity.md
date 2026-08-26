@@ -6,6 +6,7 @@ pubDate: "2026-01-28T07:32:33-0800"
 excerpt: "For the faithful partner: 1. Accept reality 2. Focus on the present 3. Don't be mean 4. Don't control 5. Don't ask too many questions 6. Try to see your partner as an equal ⠀1. Accept Reality The first step to…"
 embeds:
   - "https://www.youtube.com/embed/GnJSRQ53XSs?feature=oembed"
+seoTitle: How to rebuild your Relationship after Infidelity
 ---
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/GnJSRQ53XSs?feature=oembed" title="Rebuilding after Infidelity" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>

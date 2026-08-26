@@ -4,6 +4,7 @@ description: How differentiation transforms relationships. A therapist explains 
 sourceUrl: "https://jamesmchristensen.com/blog/differentiation-based-couples-therapy"
 pubDate: "2025-06-22T09:42:05-0700"
 excerpt: "Understanding Differentiation in Couples Therapy In couples therapy, differentiation refers to each partner’s ability to maintain a solid sense of self while staying emotionally connected to one another. Rather than…"
+seoTitle: "What Is Differentiation-Based Couples Therapy?"
 ---
 
 ## Understanding Differentiation in Couples Therapy

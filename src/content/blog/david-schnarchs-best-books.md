@@ -4,6 +4,7 @@ description: "If you’ve ever felt overwhelmed by your emotions, like you’re 
 sourceUrl: "https://jamesmchristensen.com/blog/david-schnarchs-best-books"
 pubDate: "2024-12-10T14:48:57-0800"
 excerpt: "Here is a list of my favorite David Schnarch books: 1\\. What the book is about: If you’ve ever felt overwhelmed by your emotions, like you’re sinking and can’t come up for air, this book is for you. Schnarch explains…"
+seoTitle: David Schnarch’s Best Books
 ---
 
 Here is a list of my favorite **David Schnarch** books:

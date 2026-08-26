@@ -6,6 +6,7 @@ pubDate: "2025-10-18T21:55:24-0700"
 heroImage: /images/podcast/podcast-32-how-i-run-my-couples-therapy-practice-in-roseville-california-40af685e5c.png
 excerpt: "I recorded this interview at Salem Media in Sacramento. Matt: On today's show, we have James Christensen with Roseville Couples Counseling. He provides therapy for couples—husbands and wives, marriage counseling.1 So…"
 audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68f4699e3fb6c01cc01d3b06/1760848762195/Salem+Media.mp3"
+seoTitle: "32. How I run my couples therapy practice in Roseville, California."
 ---
 
 <audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68f4699e3fb6c01cc01d3b06/1760848762195/Salem+Media.mp3"></audio>

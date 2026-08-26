@@ -6,6 +6,7 @@ pubDate: "2025-08-04T14:55:56-0700"
 heroImage: /images/podcast/podcast-20-parental-blindness-7b513f6507.png
 excerpt: "joins me to talk about parental blindness and how to fix it. Transcript Catherine: One of the things that some of my clients are reluctant to talk about is their parents. One of the reasons people can be wary of…"
 audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/6891278eef7c0976a8908004/1754343472798/20.+Parental+Blindness.mp3"
+seoTitle: 20. Parental Blindness
 ---
 
 <audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/6891278eef7c0976a8908004/1754343472798/20.+Parental+Blindness.mp3"></audio>

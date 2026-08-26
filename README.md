@@ -74,15 +74,11 @@ The importer (`scripts/scrape.mjs`):
 
 Podcast episode audio files are linked from the public Squarespace CDN (they are ~15–20 MB each and exceed a comfortable git / Cloudflare file budget). YouTube embeds on `/videos` and episode pages are preserved.
 
-Intentionally skipped live routes:
+Public URL paths match the live Squarespace sitemap so the custom domain can cut over without 404s. That includes `/course-communication` and `/workshop-old` as real pages (not redirects). `/home` still redirects to `/`. `/cart` is omitted (commerce). The built 404 page is not a published sitemap URL.
 
-- `/cart` (commerce)
-- `/workshop-old`
-- `/home` (redirects to `/`)
-- `/404` (this site has its own 404 page)
-- `/course-communication` (legacy course page, not in the nav)
+`scripts/sync-seo.mjs` pulls live `<title>` tags into `seoTitle` and live meta descriptions into `description` when they exist.
 
-The last import wrote **138 blog posts**, **39 podcast episodes**, **32 book summaries**, and the static service/resource pages. No page fetches failed. `scripts/scrape-report.json` is generated locally when you re-run the importer.
+The last import wrote **138 blog posts**, **39 podcast episodes**, **32 book summaries**, and the static service/resource pages, plus the two sitemap pages above. No page fetches failed. `scripts/scrape-report.json` is generated locally when you re-run the importer.
 
 The live FAQ currently says additional 50-minute sessions are **$250**; the live homepage says additional sessions are **$300**. Both lines were copied as published. Confirm the current fee before launch.
 
@@ -98,6 +94,6 @@ The look is taken from the live Squarespace 7.1 theme:
 
 Photography on the homepage (`K+Cadet.jpg`, `K9.jpg`, `tree+1.jpg`) and the favicon are downloaded locally so the clone does not hotlink the Squarespace CDN.
 
-## Trailing slashes
+## Trailing slashes and SEO
 
-Astro is configured with `trailingSlash: 'never'` and `build.format: 'file'`. `public/_redirects` sends `/home` → `/` and strips trailing slashes on Cloudflare Pages.
+Astro is configured with `trailingSlash: 'never'` and `build.format: 'file'`. Canonicals and the generated sitemap use `https://jamesmchristensen.com{path}` with no trailing slash (homepage is `https://jamesmchristensen.com`). `public/_redirects` sends `/home` → `/` and strips trailing slashes on Cloudflare Pages. `robots.txt` allows crawling and points at `https://jamesmchristensen.com/sitemap-index.xml`.

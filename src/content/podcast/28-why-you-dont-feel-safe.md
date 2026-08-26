@@ -6,6 +6,7 @@ pubDate: "2025-08-28T20:39:34-0700"
 heroImage: /images/podcast/podcast-28-why-you-dont-feel-safe-0612b2a53c.png
 excerpt: "joins me to discuss Chapter 1 of Bruce Tift’s book “Already Free.” Transcript James: Let's start with a quote from Already Free by Bruce Tiff. \"Most of us are, in a variety of ways, living in the present as if it…"
 audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68b11eca0bb988125349b145/1756438280500/28.+Why+you+don_t+Feel+Safe.mp3"
+seoTitle: 28. Why you Don’t Feel Safe
 ---
 
 <audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68b11eca0bb988125349b145/1756438280500/28.+Why+you+don_t+Feel+Safe.mp3"></audio>

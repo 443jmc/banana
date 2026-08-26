@@ -5,6 +5,7 @@ sourceUrl: "https://jamesmchristensen.com/blog/anxiousavoidant-attachment-in-rel
 pubDate: "2025-06-11T05:12:15-0700"
 heroImage: /images/blog/blog-anxiousavoidant-attachment-in-relationships-b863bff4f8.png
 excerpt: "Most relationships have an anxious/avoidant dynamic. The anxious partner responds to anxiety by seeking connection, while the avoidant partner responds to anxiety by seeking distance. These are two sides of the same…"
+seoTitle: Anxious/Avoidant Attachment in Relationships
 ---
 
 **Most relationships have an anxious/avoidant dynamic.** The anxious partner responds to anxiety by seeking connection, while the avoidant partner responds to anxiety by seeking distance. These are two sides of the same coin, and for the relationship to get better, both partners need to learn to take care of their anxiety without using the relationship to solve it. Both partners actually have similar levels of anxiety, so the avoidant partner is just as "anxious" as the anxious partner. 

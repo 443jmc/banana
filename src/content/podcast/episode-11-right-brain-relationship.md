@@ -8,6 +8,7 @@ excerpt: "Listen on Spotify: Listen on Apple Podcasts: In this episode, and team
 audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68558b3f31da3d765fcd7ecd/1750436830966/Steve+1+1.mp3"
 embeds:
   - "https://www.youtube.com/embed/c1cetbav57s?feature=oembed"
+seoTitle: How to use your right brain to have a better relationship.
 ---
 
 <audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68558b3f31da3d765fcd7ecd/1750436830966/Steve+1+1.mp3"></audio>

@@ -4,6 +4,7 @@ description: "Get in touch with James Christensen, LMFT, for couples therapy sol
 sourceUrl: "https://jamesmchristensen.com/contact"
 pubDate: 2025-06-06
 heroImage: /images/pages/contact-bc0d391d16.jpg
+seoTitle: "Contact | Reach Out Today"
 ---
 
 ## **Use this form to send me an email.  

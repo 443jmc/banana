@@ -6,6 +6,7 @@ pubDate: "2026-04-08T12:14:07-0700"
 excerpt: "James: Is there ever a good reason to yell at your kids? : Maybe if they're actively running into traffic. James: That's exactly what I thought. If a child is about to run in front of a car, yelling can get their…"
 embeds:
   - "https://www.youtube.com/embed/qE7n9_26B2Q?feature=oembed"
+seoTitle: "Is there ever a good reason to yell at your kids?"
 ---
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/qE7n9_26B2Q?feature=oembed" title="Room recording - Apr 7, 2026" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>

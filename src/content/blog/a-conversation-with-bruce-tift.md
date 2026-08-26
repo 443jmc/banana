@@ -4,6 +4,7 @@ description: "once you're an adult, once you've done some personal work, is if y
 sourceUrl: "https://jamesmchristensen.com/blog/a-conversation-with-bruce-tift"
 pubDate: "2025-10-15T13:52:39-0700"
 excerpt: "Bruce Tift is the author of my favorite book, James Christensen: In reading your book, there are two splits you talk about. You talk about the internal split from the developmental view. There's an internal split…"
+seoTitle: A Conversation with Bruce Tift
 ---
 
 **Bruce Tift is the author of my favorite book,** [**Already Free.**](https://www.amazon.com/Already-Free-Bruce-Tift-MA-audiobook/dp/B00NUD5O6Y/ref=sr_1_1?dib=eyJ2IjoiMSJ9.XdII6qZ_6TB-pG0EIhwAv0KVK2M9pQA0YUSdU8B9fjKUP94kUlcY4YzapzQSbrPe84J5wcEH56OkNcWVwbCt9TNMN7H4NgT_WQJq9hkVr_bWQe-GF-quqyHb0o7pABndLFlBvujMpcIBTnMMlhunfTxGXfJwjd9ZHtHNtTlzAPawgezXPaUMfCz7C0ANnlJBVMokij320GCj1J18D-JJ2ZERHEZsjcv--jLilgOrnIQ.Gh6KYM9vhdpa2vmHNYrAesTWCHOvxNwUgPEv1Jgn1Gw&dib_tag=se&keywords=already+free&qid=1760561448&sr=8-1)

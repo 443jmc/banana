@@ -4,6 +4,7 @@ description: "Four leading couples therapists on differentiation. A comparison o
 sourceUrl: "https://jamesmchristensen.com/blog/bader-schnarch-real-perel-differentiation-in-couples-therapy"
 pubDate: "2025-06-22T10:20:20-0700"
 excerpt: "This post covers the ideas of Terry Real, Ellyn Bader, David Schnarch, and Esther Perel – four experts who emphasize differentiation in their own unique way. All four agree that maintaining your individuality is…"
+seoTitle: "Comparing Bader, Schnarch, Real & Perel: Differentiation Approaches"
 ---
 
 This post covers the ideas of **Terry Real**, **Ellyn Bader**, **David Schnarch**, and **Esther Perel** – four experts who emphasize differentiation in their own unique way. All four agree that **maintaining your individuality is crucial for love to thrive**, but they differ in *how* they help couples achieve that balance. Some focus on tough love and accountability, others on developmental stages or rekindling desire. Our goal is to **highlight how each thinker conceptualizes “differentiation” in relationships**, how it shapes their advice to couples, and what makes each approach stand out. By understanding these different perspectives, you and your partner might discover insights to apply in your own journey. Let’s dive in!

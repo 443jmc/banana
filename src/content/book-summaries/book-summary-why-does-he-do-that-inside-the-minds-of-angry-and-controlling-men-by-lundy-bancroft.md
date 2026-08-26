@@ -4,6 +4,7 @@ description: "If you're sitting in a therapy office wondering why your relations
 sourceUrl: "https://jamesmchristensen.com/book-summaries/book-summary-why-does-he-do-that-inside-the-minds-of-angry-and-controlling-men-by-lundy-bancroft"
 pubDate: "2026-02-05T13:23:35-0800"
 excerpt: "If you're sitting in a therapy office wondering why your relationship feels like a constant battle for control—or if you're supporting someone who is—this book offers something rare: a clear-eyed, compassionate…"
+seoTitle: "Book Summary: Why Does He Do That? Inside the Minds of Angry and Controlling Men by Lundy Bancroft"
 ---
 
 If you're sitting in a therapy office wondering why your relationship feels like a constant battle for control—or if you're supporting someone who is—this book offers something rare: a clear-eyed, compassionate explanation of what's actually happening behind closed doors. Lundy Bancroft spent decades working with abusive men in counseling programs, and he brings that hard-won expertise to help you understand patterns that might otherwise feel completely baffling.

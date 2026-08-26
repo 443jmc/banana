@@ -4,6 +4,7 @@ description: "Before launching into a conversation, ask yourself: What do I hope
 sourceUrl: "https://jamesmchristensen.com/blog/8-ways-to-improve-relationship-communication"
 pubDate: "2024-12-24T08:50:18-0800"
 excerpt: "1\\. Hit the Pause Button (10 Seconds or 10 Minutes) Before reacting to your partner, take a beat. There's magic in a well-timed pause. I like to think of two types: The 10-Second Pause: This is your quick breather.…"
+seoTitle: 8 Ways to Improve Relationship Communication
 ---
 
 **1\. Hit the Pause Button (10 Seconds or 10 Minutes)**

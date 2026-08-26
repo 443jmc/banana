@@ -3,6 +3,7 @@ title: Worldwide Relationship Coaching
 description: "Relationship coaching for couples and individuals worldwide. Not therapy—focused on growth, communication, and building the relationship you want. Book a session"
 sourceUrl: "https://jamesmchristensen.com/worldwide-relationship-coaching"
 pubDate: 2026-02-02
+seoTitle: "Online Relationship Coaching | Worldwide Video Sessions"
 ---
 
 # Worldwide  

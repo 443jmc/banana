@@ -4,6 +4,7 @@ description: "1.    WILD HEART Men's Camp — Mendocino, CA   An immersive 4-day
 sourceUrl: "https://jamesmchristensen.com/blog/mens-retreats-near-sacramento"
 pubDate: "2025-06-05T11:50:47-0700"
 excerpt: "1. An immersive 4-day retreat in old-growth redwoods, combining breathwork, meditation, hiking, and fire rituals. Ideal for emotional healing and authentic masculinity work. Duration: 4 days Cost: $800–$1,000 2. A…"
+seoTitle: Men’s Retreats near Sacramento
 ---
 
 **1.** [**WILD HEART Men's Camp — Mendocino, CA**](https://www.spirit.camp/mens-breathwork-retreat-northern-california)  

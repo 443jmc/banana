@@ -4,6 +4,7 @@ description: "Discover transformative couples therapy with Crucible Therapy by J
 sourceUrl: "https://jamesmchristensen.com/crucible"
 pubDate: 2026-01-27
 heroImage: /images/pages/crucible-ecf50e30a6.jpg
+seoTitle: "Crucible Therapy | Enhance Your Relationship"
 ---
 
 # **What is Crucible Therapy?**

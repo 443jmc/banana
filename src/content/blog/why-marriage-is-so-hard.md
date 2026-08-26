@@ -1,9 +1,10 @@
 ---
 title: Why Marriage is So Hard
-description: "Marriage exists at the edge of human capability. No one is born ready to create a happy, thriving marriage; we have to develop that capacity. It’s like playing the piano or climbing a mountain or ballroom dancing:  possible, but not easy. "
+description: "Marriage exists at the edge of human capability. No one is born ready to create a happy, thriving marriage; we have to develop that capacity. It’s like playing the piano or climbing a mountain or ballroom dancing:&nbsp; possible, but not easy.&nbsp;"
 sourceUrl: "https://jamesmchristensen.com/blog/why-marriage-is-so-hard"
 pubDate: "2024-09-16T07:58:17-0700"
 excerpt: "Marriage exists at the edge of human capability. No one is born ready to create a happy, thriving marriage; we have to develop that capacity. It’s like playing the piano or climbing a mountain or ballroom dancing:…"
+seoTitle: Why Marriage is So Hard
 ---
 
 Marriage exists at the edge of human capability. No one is born ready to create a happy, thriving marriage; we have to develop that capacity. It’s like playing the piano or climbing a mountain or ballroom dancing:  possible, but not easy. 

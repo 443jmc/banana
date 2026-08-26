@@ -1,9 +1,10 @@
 ---
 title: How to Raise a Narcissist in Four Easy Steps
-description: "Narcissists often achieve professional success, but they usually lack close friends and are incapable of love. Once learned, narcissism is quite difficult to reverse, so your child will probably be a narcissist for life. This may increase their odds of professional success at the expense of having a satisfying personal life. "
+description: "Narcissists often achieve professional success, but they usually lack close friends and are incapable of love. Once learned, narcissism is quite difficult to reverse, so your child will probably be a narcissist for life. This may increase their odds of professional success at the expense of having a satisfying personal life.&nbsp;"
 sourceUrl: "https://jamesmchristensen.com/blog/how-to-raise-a-narcissist"
 pubDate: "2024-09-12T14:16:46-0700"
 excerpt: "Do you want your kid to be president? Start by helping them develop these nine narcissistic traits: 1. A grandiose sense of self-importance 2. Preoccupation with fantasies of success, power, brilliance, beauty, or…"
+seoTitle: How to Raise a Narcissist in Four Easy Steps
 ---
 
 **Do you want your kid to be president? Start by helping them develop these nine narcissistic traits:**

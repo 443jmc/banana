@@ -1,9 +1,10 @@
 ---
 title: Parental Blindness
-description: "A child’s brain has a safety filter that prevents the child from clearly seeing the worst things the parents parents are doing  We still learn to replicate those things, but we remain blind to them unless we do something about the filter. "
+description: "A child’s brain has a safety filter that prevents the child from clearly seeing the worst things the parents parents are doing  We still learn to replicate those things, but we remain blind to them unless we do something about the filter.&nbsp;"
 sourceUrl: "https://jamesmchristensen.com/blog/parental-blindness"
 pubDate: "2025-03-25T15:22:18-0700"
 excerpt: "A child’s brain has a safety filter that prevents the child from clearly seeing the worst things the parents parents are doing We still learn to replicate those things, but we remain blind to them unless we do…"
+seoTitle: Parental Blindness
 ---
 
 A child’s brain has a safety filter that prevents the child from clearly seeing the worst things the parents parents are doing

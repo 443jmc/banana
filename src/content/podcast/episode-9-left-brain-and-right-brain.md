@@ -8,6 +8,7 @@ excerpt: "joins for a discussion of how to balance your brain. Key points: The l
 audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/682f3ef501ce5e60b4459679/1747926848409/Balanced+Brain+Episode+9.mp3"
 embeds:
   - "https://www.youtube.com/embed/3bMaxJ5JKlg?feature=oembed"
+seoTitle: "Episode 9: Left Brain and Right Brain"
 ---
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/3bMaxJ5JKlg?feature=oembed" title="Use your Right Brain to Fix your Relationship" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>

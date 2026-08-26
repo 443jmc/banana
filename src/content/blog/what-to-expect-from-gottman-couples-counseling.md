@@ -4,6 +4,7 @@ description: "Here's what you can expect from Gottman Couples Counseling:   Gott
 sourceUrl: "https://jamesmchristensen.com/blog/what-to-expect-from-gottman-couples-counseling"
 pubDate: "2025-01-11T09:06:48-0800"
 excerpt: "Here's what you can expect from Gottman Couples Counseling: Gottman Relationship Therapy starts with a \"getting to know you\" phase. First, you and your partner will meet with your therapist together to talk openly…"
+seoTitle: What to expect from Gottman Couples Counseling
 ---
 
 **Here's what you can expect from Gottman Couples Counseling:**

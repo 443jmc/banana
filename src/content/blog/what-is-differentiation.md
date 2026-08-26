@@ -4,6 +4,7 @@ description: "Differentiation of self — developed by Murray Bowen and applied 
 sourceUrl: "https://jamesmchristensen.com/blog/what-is-differentiation"
 pubDate: "2026-02-06T09:28:21-0800"
 excerpt: "You've probably had the experience. Your partner says something — maybe it's a passing comment about how you loaded the dishwasher, or a heavier remark about your relationship with your mother — and suddenly you're…"
+seoTitle: "What is Differentiation? The Relationship Concept Every Couple Should Know"
 ---
 
 You've probably had the experience. Your partner says something — maybe it's a passing comment about how you loaded the dishwasher, or a heavier remark about your relationship with your mother — and suddenly you're flooded. Your chest tightens. You snap back, or you go quiet and withdraw. Later, when the storm passes, you wonder: *Why did that get to me so much?*

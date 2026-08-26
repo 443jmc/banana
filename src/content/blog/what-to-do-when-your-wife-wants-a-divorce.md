@@ -6,6 +6,7 @@ pubDate: "2025-12-23T13:09:59-0800"
 excerpt: "If your wife wants a divorce and you don't, this post is for you. There are three things you need to understand. First, she's probably right about you and wrong about herself. Second, you need to figure out her core…"
 embeds:
   - "https://www.youtube.com/embed/wHAV4dVDZfg?feature=oembed"
+seoTitle: What to Do When Your Wife Wants a Divorce
 ---
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/wHAV4dVDZfg?feature=oembed" title="What to Do when your Wife wants a Divorce" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>

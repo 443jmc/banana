@@ -5,6 +5,7 @@ sourceUrl: "https://jamesmchristensen.com/blog/become-a-better-partner-if-you-wa
 pubDate: "2026-04-24T10:54:24-0700"
 heroImage: /images/blog/blog-become-a-better-partner-if-you-want-to-have-a-better-partner-b2f34600ef.png
 excerpt: "One of the biggest lies we're told in society is that the key to a good relationship is to find a better partner. The truth is that you will not be able to have a relationship with a better partner until you become a…"
+seoTitle: Become a better partner if you want to have a better partner.
 ---
 
 ![](/images/site/blog-87207cb689.png)

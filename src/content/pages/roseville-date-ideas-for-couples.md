@@ -4,6 +4,7 @@ description: "Explore exciting date ideas in Roseville, CA with dance lessons, a
 sourceUrl: "https://jamesmchristensen.com/roseville-date-ideas-for-couples"
 pubDate: 2025-07-09
 heroImage: /images/pages/roseville-date-ideas-for-couples-a3a3e6d84e.jpeg
+seoTitle: "Roseville Date Ideas | Discover Unique Adventures"
 ---
 
 ![Roseville, CA Date Ideas for couples](/images/pages/roseville-date-ideas-for-couples-a3a3e6d84e.jpeg)

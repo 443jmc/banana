@@ -5,6 +5,7 @@ sourceUrl: "https://jamesmchristensen.com/blog/how-to-improve-communication-in-y
 pubDate: "2026-05-01T11:41:01-0700"
 heroImage: /images/blog/blog-how-to-improve-communication-in-your-relationship-05941a5208.png
 excerpt: Here are three ways to improve communication in your relationship” 1. Say what you really think in the kindest way possible 2. Embrace disagreement and disapproval. 3. More silence than speaking. 1\. Say what you…
+seoTitle: How to Improve Communication in your Relationship
 ---
 
 ![](/images/site/blog-a67d6e6801.png)

@@ -4,6 +4,7 @@ description: "Introduction   If you find yourself constantly worrying about your
 sourceUrl: "https://jamesmchristensen.com/book-summaries/book-summary-codependent-no-more-by-melody-beattie"
 pubDate: "2026-02-05T13:30:21-0800"
 excerpt: "Introduction If you find yourself constantly worrying about your partner's feelings, managing their emotions, or sacrificing your own needs to keep the peace in your relationship—this book is for you. Codependent No…"
+seoTitle: "Book Summary: Codependent No More by Melody Beattie"
 ---
 
 ## **Introduction**

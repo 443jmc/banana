@@ -4,6 +4,7 @@ description: "My favorite way of working through anxiety is to focus my attentio
 sourceUrl: "https://jamesmchristensen.com/blog/focusing-on-the-physical-world"
 pubDate: "2024-01-27T11:12:50-0800"
 excerpt: "When I’m anxious, I tend to get sucked into imaginary worlds. I might start thinking about what my wife is feeling, or what some other person thinks of me. None of these things are very real, they are just creations…"
+seoTitle: Focusing on the Physical World
 ---
 
 When I’m anxious, I tend to get sucked into imaginary worlds. I might start thinking about what my wife is feeling, or what some other person thinks of me. None of these things are very real, they are just creations of my own imagination.

@@ -8,6 +8,7 @@ excerpt: "Transcript: Welcome to episode three of the James Christians podcast. 
 audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/66a17157af3d9c7812b17256/1721857039437/Podcast+Episode+3.mp3"
 embeds:
   - "https://www.youtube.com/embed/bwTfenQUN14?feature=oembed"
+seoTitle: "Episode 3: Chad Fraga on Relationship Growth"
 ---
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/bwTfenQUN14?feature=oembed" title="Episode 3:  Emotional Flashbacks in Relationship" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>

@@ -1,6 +1,6 @@
 ---
 title: "12: Narcissism 101"
-description: ""
+description: "Why calling someone a narcissist misses the point, and how judging someone as narcissistic can itself be hypocritical."
 sourceUrl: "https://jamesmchristensen.com/podcast/episode-12-narcissism-101"
 pubDate: "2025-06-30T11:00:12-0700"
 heroImage: /images/podcast/podcast-episode-12-narcissism-101-0612b2a53c.png
@@ -8,6 +8,7 @@ excerpt: "Why Calling Someone a “Narcissist” Misses the Point Most people ta
 audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68640d9b3d459c4696aba81f/1751387742699/Episode+12.mp3"
 embeds:
   - "https://www.youtube.com/embed/GUbFsclziaY?feature=oembed"
+seoTitle: "12: Narcissism 101"
 ---
 
 <audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/68640d9b3d459c4696aba81f/1751387742699/Episode+12.mp3"></audio>

@@ -4,6 +4,7 @@ description: "If you're feeling drained, resentful, or trapped in patterns that 
 sourceUrl: "https://jamesmchristensen.com/book-summaries/book-summary-set-boundaries-find-peace-by-nedra-glover-tawwab"
 pubDate: "2026-02-05T13:25:25-0800"
 excerpt: "If you're feeling drained, resentful, or trapped in patterns that don't serve you—whether with your partner, family, or friends—you're not alone. Many people walk through life saying \"yes\" when they mean \"no,\"…"
+seoTitle: "Book Summary: Set Boundaries, Find Peace by Nedra Glover Tawwab"
 ---
 
 If you're feeling drained, resentful, or trapped in patterns that don't serve you—whether with your partner, family, or friends—you're not alone. Many people walk through life saying "yes" when they mean "no," prioritizing others' needs while their own go unmet. This is where Nedra Glover Tawwab's *Set Boundaries, Find Peace* becomes a lifeline. This book is a practical, compassionate guide that teaches you how to identify what you need, communicate it clearly, and protect your peace without guilt or apology.

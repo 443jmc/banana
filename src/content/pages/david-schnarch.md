@@ -1,8 +1,9 @@
 ---
 title: About Dr. David Schnarch
-description: ""
+description: "Dr. David Schnarch created Crucible Therapy, the approach used here in couples therapy, with links to writing about his books and core concepts."
 sourceUrl: "https://jamesmchristensen.com/david-schnarch"
 pubDate: 2026-03-10
+seoTitle: About David Schnarch
 ---
 
 # About Dr. David Schnarch

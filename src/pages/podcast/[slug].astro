@@ -16,6 +16,7 @@ const { Content } = await render(episode);
 
 <PostLayout
   title={episode.data.title}
+  seoTitle={episode.data.seoTitle}
   description={episode.data.description || episode.data.excerpt}
   image={episode.data.heroImage || "/images/site/podcast-cover.png"}
   date={episode.data.pubDate}

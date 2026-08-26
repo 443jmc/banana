@@ -1,9 +1,10 @@
 ---
 title: "What is a Collaborative Alliance?"
-description: "Dr. David Schnarch listed eight key points that describe a collaborative alliance in chapter 11 of his book  Intimacy & Desire.  Here they are:"
+description: "Dr. David Schnarch listed eight key points that describe a collaborative alliance in chapter 11 of his book  Intimacy &amp; Desire.  Here they are:"
 sourceUrl: "https://jamesmchristensen.com/blog/what-is-a-collaborative-alliance"
 pubDate: "2024-11-27T13:41:55-0800"
 excerpt: "Creating a more collaborative alliance is the key to relationship repair. Dr. David Schnarch lists these eight key points about collaborative alliances in Chapter 11 of his book Intimacy and Desire: 1\\. First and…"
+seoTitle: "What is a Collaborative Alliance?"
 ---
 
 **Creating a more collaborative alliance** is the key to relationship repair. Dr. David Schnarch lists these eight key points about collaborative alliances in Chapter 11 of his book *Intimacy and Desire:*

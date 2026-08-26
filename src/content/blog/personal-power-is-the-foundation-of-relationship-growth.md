@@ -5,6 +5,7 @@ sourceUrl: "https://jamesmchristensen.com/blog/personal-power-is-the-foundation-
 pubDate: "2026-05-16T07:58:09-0700"
 heroImage: /images/blog/blog-personal-power-is-the-foundation-of-relationship-growth-ce6713b0fa.png
 excerpt: "A good relationship is full of compassion, caring, love and investment, but none of those things are the foundation of a good relationship. The foundation of a good relationship is a sense of personal power and…"
+seoTitle: Personal Power is the Foundation of Relationship Growth
 ---
 
 ![](/images/blog/blog-personal-power-is-the-foundation-of-relationship-growth-7c52be96ca.png)

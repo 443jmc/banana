@@ -4,6 +4,7 @@ description: "A therapist's summary of Robert Glover's No More Mr Nice Guy. Why 
 sourceUrl: "https://jamesmchristensen.com/book-summaries/book-summary-no-more-mr-nice-guy-by-robert-glover"
 pubDate: "2025-07-11T11:54:20-0700"
 excerpt: "Chapter 1: The Nice Guy Syndrome Glover defines the “Nice Guy Syndrome” as a pervasive people-pleasing mindset. A Nice Guy believes that hiding his flaws, suppressing his needs, and doing whatever he thinks others…"
+seoTitle: "No More Mr Nice Guy: Book Summary & Key Insights"
 ---
 
 ## Chapter 1: The Nice Guy Syndrome

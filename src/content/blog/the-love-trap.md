@@ -5,6 +5,7 @@ sourceUrl: "https://jamesmchristensen.com/blog/the-love-trap"
 pubDate: "2026-01-05T12:45:44-0800"
 heroImage: /images/blog/blog-the-love-trap-227cfd630a.png
 excerpt: "When you’re falling in love, you have intense feelings that make it easy to treat each other well. But when those feelings fade, you don't treat each other as well as you're used to. That's how you get caught in the…"
+seoTitle: The Love Trap
 ---
 
 ![](/images/blog/blog-the-love-trap-5800e5dc89.png)

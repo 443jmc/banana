@@ -6,6 +6,7 @@ pubDate: "2026-04-05T18:02:35-0700"
 excerpt: "James Christensen & Catherine Roebuck James: There's a thing I tell clients who are trying to regain their partner's trust after cheating. One way to regain your partner's trust is to reveal things that are in your…"
 embeds:
   - "https://www.youtube.com/embed/90MXFG4khi4?feature=oembed"
+seoTitle: Take off the Mask in your Marriage
 ---
 
 <div class="embed-frame"><iframe src="https://www.youtube.com/embed/90MXFG4khi4?feature=oembed" title="Taking Off the Mask in Your Marriage" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>

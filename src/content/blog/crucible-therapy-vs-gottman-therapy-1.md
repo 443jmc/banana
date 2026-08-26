@@ -4,6 +4,7 @@ description: "Overview      Crucible Approach (Schnarch) : Rooted in differentia
 sourceUrl: "https://jamesmchristensen.com/blog/crucible-therapy-vs-gottman-therapy-1"
 pubDate: "2025-07-11T11:58:47-0700"
 excerpt: "Overview Crucible Approach (Schnarch): Rooted in differentiation theory (inspired by Murray Bowen), this approach views relationships as a testing ground for personal growth. Schnarch emphasizes individuality within…"
+seoTitle: Crucible Therapy vs Gottman Therapy
 ---
 
 **Overview**

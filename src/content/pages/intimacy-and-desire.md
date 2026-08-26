@@ -3,6 +3,7 @@ title: "Sexless Marriage & Dead Bedroom"
 description: "Trapped in a sexless marriage? Your dead bedroom is the most honest thing your relationship is telling you. Sex therapy & couples therapy in Roseville, CA. Free first session."
 sourceUrl: "https://jamesmchristensen.com/intimacy-and-desire"
 pubDate: 2026-03-10
+seoTitle: Dead Bedroom
 ---
 
 # **Sexless Marriage & Dead Bedroom**

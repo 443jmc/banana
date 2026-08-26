@@ -6,6 +6,7 @@ pubDate: "2025-08-02T16:51:17-0700"
 heroImage: /images/podcast/podcast-16-the-coldplay-affair-0612b2a53c.png
 excerpt: "James Christensen: Catherine Roebuck: Transcript James: What is your advice for the spouses of the people from the Coldplay concert who were caught cheating? Catherine: One of the most difficult parts of being…"
 audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/688ea37fb845a76eb5d6f2f8/1754178527203/Abramor+2.mp3"
+seoTitle: "16. Infidelity: The Coldplay Affair"
 ---
 
 <audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/688ea37fb845a76eb5d6f2f8/1754178527203/Abramor+2.mp3"></audio>

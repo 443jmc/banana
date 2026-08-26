@@ -4,6 +4,7 @@ description: "Introduction: Why This Book Matters for Your Relationship   If you
 sourceUrl: "https://jamesmchristensen.com/book-summaries/book-summary-nonviolent-communication-by-marshall-b-rosenberg"
 pubDate: "2026-02-05T13:25:55-0800"
 excerpt: "Introduction: Why This Book Matters for Your Relationship If you've ever found yourself in a conversation with your partner that spiraled into blame, defensiveness, or cold silence, you're experiencing what happens…"
+seoTitle: "Book Summary: Nonviolent Communication by Marshall B. Rosenberg"
 ---
 
 ## **Introduction: Why This Book Matters for Your Relationship**

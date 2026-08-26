@@ -4,6 +4,7 @@ description: "The goal of these dialogues is  not to win an argument, change the
 sourceUrl: "https://jamesmchristensen.com/blog/david-schnarch-on-written-mental-dialogues"
 pubDate: "2024-12-24T09:15:57-0800"
 excerpt: Written mental dialogues are a key technique in David Schnarch’s Crucible Neurobiological Therapy (CNT). Imagine writing a conversation resembling a play script where you engage in a back-and-forth with a person who…
+seoTitle: David Schnarch on Written Mental Dialogues
 ---
 
 Written mental dialogues are a key technique in David Schnarch’s Crucible Neurobiological Therapy (CNT). Imagine writing a conversation resembling a play script where you engage in a back-and-forth with a person who has caused you significant emotional distress, such as a parent, spouse, sibling, or coworker. This method, primarily a right-brain activity, helps integrate implicit memories with explicit memories, fostering self-awareness and resolving **steady-state regressions** — a persistent state of emotional reactivity that keeps you stuck in unhealthy behavioral patterns.

@@ -4,6 +4,7 @@ description: "Everyone has an inner critic, that voice in your head that says yo
 sourceUrl: "https://jamesmchristensen.com/blog/how-to-calm-your-inner-critic"
 pubDate: "2024-07-17T21:29:15-0700"
 excerpt: "Everyone has an inner critic, that voice in your head that says you’re just not good enough, you need to try harder, focus more, and get more done. We learn to talk to ourselves this way in inner adolescence, when…"
+seoTitle: How to Calm your Inner Critic
 ---
 
 Everyone has an inner critic, that voice in your head that says you’re just not good enough, you need to try harder, focus more, and get more done. We learn to talk to ourselves this way in inner adolescence, when we’re making the transition from being told what to do all the time to making our own decisions about what to do.

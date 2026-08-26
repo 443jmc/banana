@@ -1,9 +1,10 @@
 ---
 title: How Couples Counseling Works
-description: "A relationship is made up of two people who want to love each other, but don’t necessarily know how to do that. How often did you see your parents confronting each other in a calm, collaborative way when you were growing up? My job as relationship therapist is to figure out who, between the two of you, is more ready to take the first step forward into a new, more collaborative relationship. "
+description: "A relationship is made up of two people who want to love each other, but don’t necessarily know how to do that. How often did you see your parents confronting each other in a calm, collaborative way when you were growing up? My job as relationship therapist is to figure out who, between the two of you, is more ready to take the first step forward into a new, more collaborative relationship.&nbsp;"
 sourceUrl: "https://jamesmchristensen.com/blog/how-couples-counseling-works"
 pubDate: "2024-09-18T17:13:04-0700"
 excerpt: "Here’s what you can expect in your first couples counseling session: after a few minutes of state-mandated disclosures, we will dive right into what needs to change in your relationship. You will each tell me what…"
+seoTitle: How Couples Counseling Works
 ---
 
 Here’s what you can expect in your first couples counseling session:  after a few minutes of state-mandated disclosures, we will dive right into what needs to change in your relationship. You will each tell me what you want to be different, and then we will get to work changing those things. 

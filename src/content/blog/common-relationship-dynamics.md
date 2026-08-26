@@ -1,9 +1,10 @@
 ---
 title: Common Relationship Dynamics
-description: "Relationships are full of self-reinforcing dynamics. Each partner shows up in a way that makes it easy for the other to show up in the complementary way.   You get to choose how far you move into each dynamic. When you move toward the center, you make it easier for your partner to do  the same. When you move away from the center, you make it easier for your partner to do the same.  The solution to these dynamics is for one person to take a step away from their instinctive behavior, and toward the center.   Most of these dynamics show up, to varying degrees, in most relationships. "
+description: "Relationships are full of self-reinforcing dynamics. Each partner shows up in a way that makes it easy for the other to show up in the complementary way.&nbsp;  You get to choose how far you move into each dynamic. When you move toward the center, you make it easier for your partner to do&nbsp; the same. When you move away from the center, you make it easier for your partner to do the same.  The solution to these dynamics is for one person to take a step away from their instinctive behavior, and toward the center.&nbsp;  Most of these dynamics show up, to varying degrees, in most relationships.&nbsp;"
 sourceUrl: "https://jamesmchristensen.com/blog/common-relationship-dynamics"
 pubDate: "2025-04-02T17:45:28-0700"
 excerpt: Relationships are full of self-reinforcing dynamics. Each partner shows up in a way that makes it easy for the other to show up in the complementary way. You get to choose how far you move into each dynamic. When you…
+seoTitle: Common Relationship Dynamics
 ---
 
 Relationships are full of self-reinforcing dynamics. Each partner shows up in a way that makes it easy for the other to show up in the complementary way. 

@@ -4,6 +4,7 @@ description: "The two halves of the human brain  are physically separate from ea
 sourceUrl: "https://jamesmchristensen.com/blog/right-mind-relationships"
 pubDate: "2025-04-20T11:24:21-0700"
 excerpt: "The two halves of the human brain are physically separate from each other, except for a connecting organ that is about one inch in diameter. Each half responds to the world in its own way: Right mind Sustained…"
+seoTitle: Right Mind Relationships
 ---
 
 **The two halves of the human brain** are physically separate from each other, except for a connecting organ that is about one inch in diameter. Each half responds to the world in its own way:

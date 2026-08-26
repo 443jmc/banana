@@ -3,6 +3,7 @@ title: Couples Therapy for Lincoln Residents
 description: Couples therapy for Lincoln residents. In-person in nearby Roseville or online from home. Rebuild trust and connection. Free first session.
 sourceUrl: "https://jamesmchristensen.com/couples-therapy-lincoln"
 pubDate: 2026-02-02
+seoTitle: "Couples Therapy Lincoln, CA | 15 minutes away"
 ---
 
 # Couples Therapy for Lincoln Residents

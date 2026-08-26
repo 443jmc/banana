@@ -4,6 +4,7 @@ description: "Schnarch argues that the real issue isn't the difference in desire
 sourceUrl: "https://jamesmchristensen.com/blog/dr-david-schnarchs-approach-to-improving-sexual-relationships"
 pubDate: "2024-10-04T13:45:49-0700"
 excerpt: "Dr. David Schnarch, a renowned psychologist and sex therapist, spent decades challenging this conventional wisdom on how to improve committed sexual relationships. His approach, outlined in books like \"Passionate…"
+seoTitle: Dr. David Schnarch’s Approach to Improving Sexual Relationships
 ---
 
 Dr. David Schnarch, a renowned psychologist and sex therapist, spent decades challenging this conventional wisdom on how to improve committed sexual relationships. His approach, outlined in books like "Passionate Marriage" and "Intimacy and Desire," is counterintuitive, often uncomfortable, but profoundly effective. It's the kind of idea that, once you understand it, makes you wonder how you ever thought differently.

@@ -27,10 +27,8 @@ const UA =
 
 const SKIP_PATHS = new Set([
   "/cart",
-  "/workshop-old",
   "/404",
   "/home",
-  "/course-communication",
 ]);
 
 const INDEX_PATHS = new Set(["/blog", "/podcast", "/book-summaries"]);
@@ -387,7 +385,8 @@ async function scrapePage(url, sitemapMeta) {
   const $ = cheerio.load(html);
 
   const ld = collectJsonLd($);
-  const docTitle = decodeHtml($("title").first().text().split("|")[0].trim());
+  const liveTitle = decodeHtml($("title").first().text().replace(/\s+/g, " ").trim());
+  const docTitle = liveTitle.split("|")[0].trim();
   const rawTitle =
     $("h1")
       .slice(0, 3)
@@ -406,7 +405,6 @@ async function scrapePage(url, sitemapMeta) {
       $("meta[property='og:description']").attr("content")?.trim() ||
       ""
   ).replace(/&nbsp;/g, " ");
-  description = description.replace(/^Meta Description:\s*/i, "");
   const ogImage = $("meta[property='og:image']").attr("content") || sitemapMeta?.image || "";
   const date = pickDate(ld, $) || sitemapMeta?.lastmod || null;
   const audioUrls = extractAudio($);
@@ -450,6 +448,7 @@ async function scrapePage(url, sitemapMeta) {
     description,
     sourceUrl: url,
   };
+  if (liveTitle) fm.seoTitle = liveTitle;
   if (date) fm.pubDate = date;
   if (heroImage) fm.heroImage = heroImage;
   if (kind === "blog" || kind === "podcast" || kind === "book-summaries") {
@@ -562,7 +561,9 @@ async function main() {
   console.log("Downloading site photography and favicon…");
   await downloadSiteAssets();
 
-  const urls = locs.filter((u) => u.startsWith(SITE));
+  const only = process.argv.slice(2).filter((arg) => arg.startsWith("http"));
+  const urls = (only.length ? only : locs).filter((u) => u.startsWith(SITE));
+  if (only.length) console.log(`Scraping ${urls.length} requested URL(s)`);
   await pool(urls, CONCURRENCY, async (url) => {
     try {
       await scrapePage(url, lastmods.get(url));

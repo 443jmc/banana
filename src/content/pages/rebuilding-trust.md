@@ -8,6 +8,7 @@ embeds:
   - "https://www.youtube.com/embed/OI5vsCbrPf4?feature=oembed"
   - "https://www.youtube.com/embed/c0H-KxG_K2g?feature=oembed"
   - "https://www.youtube.com/embed/d-QU01pAnY0?feature=oembed"
+seoTitle: Roseville CA Infidelity Therapy
 ---
 
 # Rebuilding Trust

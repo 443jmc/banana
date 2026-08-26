@@ -4,6 +4,7 @@ description: "Anger is the second act in a three-act play. First, you feel unsaf
 sourceUrl: "https://jamesmchristensen.com/blog/10-principles-for-making-marriage-work"
 pubDate: "2024-07-15T09:26:12-0700"
 excerpt: "Physical Safety If there is any ongoing threat of physical violence in your intimate relationship, you will be hard-pressed to step into the kind of collaborative conflict that is necessary to help the relationship…"
+seoTitle: 10 Principles for Making Marriage Work
 ---
 
 **Physical Safety**

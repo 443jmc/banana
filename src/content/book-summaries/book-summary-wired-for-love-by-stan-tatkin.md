@@ -4,6 +4,7 @@ description: "Introduction: Why Your Brain Matters in Love   When conflict erupt
 sourceUrl: "https://jamesmchristensen.com/book-summaries/book-summary-wired-for-love-by-stan-tatkin"
 pubDate: "2026-02-05T13:07:31-0800"
 excerpt: "Introduction: Why Your Brain Matters in Love When conflict erupts in your relationship, it doesn't feel like biology—it feels personal. Maybe your partner says something critical and you immediately shut down. Or…"
+seoTitle: "Book Summary: Wired for Love by Stan Tatkin"
 ---
 
 ## **Introduction: Why Your Brain Matters in Love**

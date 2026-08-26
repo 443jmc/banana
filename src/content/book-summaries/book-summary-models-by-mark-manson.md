@@ -4,6 +4,7 @@ description: "Chapter 1: Non-Neediness     Neediness vs. Confidence:  A man’s 
 sourceUrl: "https://jamesmchristensen.com/book-summaries/book-summary-models-by-mark-manson"
 pubDate: "2025-06-28T19:02:39-0700"
 excerpt: "Chapter 1: Non-Neediness Neediness vs. Confidence: A man’s attractiveness is inversely related to how needy he is. Being overly desperate for approval or affection signals insecurity. Non-neediness means valuing your…"
+seoTitle: "Book Summary: Models by Mark Manson"
 ---
 
 ## Chapter 1: Non-Neediness

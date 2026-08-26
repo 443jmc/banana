@@ -4,6 +4,7 @@ description: "Slow Down  If I start talking before my brain is finished thinking
 sourceUrl: "https://jamesmchristensen.com/blog/ten-tools-for-relationship-communication"
 pubDate: "2025-08-30T16:56:41-0700"
 excerpt: "Slow Down If I start talking before my brain is finished thinking, I'm going to say things that will make things worse and not better. If I'm in an argument with my wife, my instinct is to start talking before she's…"
+seoTitle: Ten Tools for Relationship Communication
 ---
 
 ### Slow Down

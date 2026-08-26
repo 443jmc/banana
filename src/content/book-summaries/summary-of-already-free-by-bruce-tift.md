@@ -4,6 +4,7 @@ description: "Chapter 1: The Developmental View   Summary:  This chapter introdu
 sourceUrl: "https://jamesmchristensen.com/book-summaries/summary-of-already-free-by-bruce-tift"
 pubDate: "2025-06-22T09:04:54-0700"
 excerpt: "Chapter 1: The Developmental View Summary: This chapter introduces the developmental view, which is the foundation of Western psychotherapy. It posits that our early childhood experiences – especially within our…"
+seoTitle: Summary of Already Free by Bruce Tift
 ---
 
 ## Chapter 1: The Developmental View

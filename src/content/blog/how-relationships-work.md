@@ -1,9 +1,10 @@
 ---
 title: How Relationships Work
-description: "Relationship therapy helps you answer three questions:    What is going on in your relationship?    Why is it happening?    How can you make it better?    Every relationship goes through difficult times. With the right tools, you can emerge from these challenges with a more thriving, passionate marriage.   Our first three sessions will focus on these topics:     effective communication    conflict resolution    how to feel safe    how to create trust"
+description: "Relationship therapy helps you answer three questions:    What is going on in your relationship?    Why is it happening?    How can you make it better?    Every relationship goes through difficult times. With the right tools, you can emerge from these challenges with a more thriving, passionate marriage.&nbsp;  Our first three sessions will focus on these topics:&nbsp;    effective communication    conflict resolution    how to feel safe    how to create trust"
 sourceUrl: "https://jamesmchristensen.com/blog/how-relationships-work"
 pubDate: "2024-11-27T13:28:08-0800"
 excerpt: "How Relationship Therapy Works Relationship therapy helps you answer three questions: What is going on in your relationship? Why is it happening? How can you make it better? Every relationship goes through difficult…"
+seoTitle: How Relationships Work
 ---
 
 ### **How Relationship Therapy Works**

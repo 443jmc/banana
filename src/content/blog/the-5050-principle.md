@@ -1,9 +1,10 @@
 ---
 title: The 50/50 Principle
-description: "As a general rule, we tend to be romantically attracted to people who are at least as emotionally mature This means that long-term relationships end up forming between two people with similar levels of emotional maturity. Once a relationship forms, couples tend to grow or stagnate together, so it’s quite rare to find a couple where one person is significantly more mature than the other. "
+description: "As a general rule, we tend to be romantically attracted to people who are at least as emotionally mature This means that long-term relationships end up forming between two people with similar levels of emotional maturity. Once a relationship forms, couples tend to grow or stagnate together, so it’s quite rare to find a couple where one person is significantly more mature than the other.&nbsp;"
 sourceUrl: "https://jamesmchristensen.com/blog/the-5050-principle"
 pubDate: "2024-07-17T06:50:12-0700"
 excerpt: "I’ve worked with hundreds of couples and I have yet to meet a couple where one person was a lot more mature than the other. As a general rule, we tend to be romantically attracted to people who are at least as…"
+seoTitle: The 50/50 Principle
 ---
 
 **I’ve worked with hundreds of couples and I have yet to meet a couple where one person was a lot more mature than the other.** As a general rule, we tend to be romantically attracted to people who are at least as emotionally mature This means that long-term relationships end up forming between two people with similar levels of emotional maturity. Once a relationship forms, couples tend to grow or stagnate together, so it’s quite rare to find a couple where one person is significantly more mature than the other. 

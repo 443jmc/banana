@@ -3,6 +3,7 @@ title: How to Write a Parental Dialogue
 description: "Explore tools and strategies for effective communication through dialogues, guided by James Christensen, LMFT, to improve personal and familial connections."
 sourceUrl: "https://jamesmchristensen.com/dialogue"
 pubDate: 2026-05-15
+seoTitle: Roseville Couples Counseling
 ---
 
 # **How to Write**  

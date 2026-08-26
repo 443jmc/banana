@@ -4,6 +4,7 @@ description: "Kate had a clear memory of her father's actions, but not of his in
 sourceUrl: "https://jamesmchristensen.com/blog/twist"
 pubDate: "2023-11-01T07:52:50-0700"
 excerpt: "A child’s brain A child’s brain is predisposed to perceive her parents as trustworthy and good, even when they aren’t. This mind-twisting persists into adulthood, making it hard to perceive cruelty in potential…"
+seoTitle: "Why Do We Fall in Love with Abusive Partners?"
 ---
 
 #### **A child’s brain**

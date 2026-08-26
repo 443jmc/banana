@@ -5,6 +5,7 @@ sourceUrl: "https://jamesmchristensen.com/blog/your-partner-is-hurting-you-on-pu
 pubDate: "2026-05-06T21:34:56-0700"
 heroImage: /images/blog/blog-your-partner-is-hurting-you-on-purpose-b53241cd81.png
 excerpt: "If you crash your car three times a week, nobody's gonna call it an accident. But if you hurt your partner's feelings three times a week, people will call it an accident. Even therapists will talk about impact versus…"
+seoTitle: Your Partner is Hurting you on Purpose
 ---
 
 ![](/images/site/blog-3f85c7148e.png)

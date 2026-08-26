@@ -4,6 +4,7 @@ description: "When I was 15, my dad took my mom, my sister, and me out to his fa
 sourceUrl: "https://jamesmchristensen.com/blog/building-bridges-in-your-brain"
 pubDate: "2026-01-30T12:28:17-0800"
 excerpt: "When I was 15, my dad took my mom, my sister, and me out to his favorite fancy restaurant. My dad has a ton of social anxiety, and my role in the family was to be the class clown so that we could all relax a little…"
+seoTitle: Building Bridges in Your Brain
 ---
 
 When I was 15, my dad took my mom, my sister, and me out to his favorite fancy restaurant.

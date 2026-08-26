@@ -1,9 +1,10 @@
 ---
 title: The 80/20 Rule
-description: "80% of the distress you experience in your adult relationship is an emotional flashback to childhood. The human brain is more optimized for survival in childhood than thriving in adult relationships. In childhood, your brain formed around whatever behavior was needed to coexist with your parents or caretakers. In adulthood, the behavioral patterns you learned are still with you, and they tend to make themselves known in adult romantic relationships. "
+description: "80% of the distress you experience in your adult relationship is an emotional flashback to childhood. The human brain is more optimized for survival in childhood than thriving in adult relationships. In childhood, your brain formed around whatever behavior was needed to coexist with your parents or caretakers. In adulthood, the behavioral patterns you learned are still with you, and they tend to make themselves known in adult romantic relationships.&nbsp;"
 sourceUrl: "https://jamesmchristensen.com/blog/the-8020-rule"
 pubDate: "2024-07-17T22:03:15-0700"
 excerpt: "80% of the distress you experience in your adult relationship is an emotional flashback to childhood. The human brain is more optimized for survival in childhood than thriving in adult relationships. In childhood,…"
+seoTitle: The 80/20 Rule
 ---
 
 80% of the distress you experience in your adult relationship is an emotional flashback to childhood. The human brain is more optimized for survival in childhood than thriving in adult relationships. In childhood, your brain formed around whatever behavior was needed to coexist with your parents or caretakers. In adulthood, the behavioral patterns you learned are still with you, and they tend to make themselves known in adult romantic relationships. 

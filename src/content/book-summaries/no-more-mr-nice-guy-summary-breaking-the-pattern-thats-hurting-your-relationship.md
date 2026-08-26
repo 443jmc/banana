@@ -4,6 +4,7 @@ description: Understand the No More Mr. Nice Guy book summary and how Nice Guy S
 sourceUrl: "https://jamesmchristensen.com/book-summaries/no-more-mr-nice-guy-summary-breaking-the-pattern-thats-hurting-your-relationship"
 pubDate: "2026-02-05T13:32:04-0800"
 excerpt: "No More Mr. Nice Guy Summary: Breaking the Pattern That's Hurting Your Relationship I can't tell you how many times I've had a man sit in my office, shoulders slumped, and say something like: \"I do everything for my…"
+seoTitle: "No More Mr. Nice Guy Summary: Breaking the Pattern That's Hurting Your Relationship"
 ---
 
 # **No More Mr. Nice Guy Summary: Breaking the Pattern That's Hurting Your Relationship**

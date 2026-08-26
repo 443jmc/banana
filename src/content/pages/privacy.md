@@ -4,6 +4,7 @@ description: "Learn how your personal data is collected, used, and secured when 
 sourceUrl: "https://jamesmchristensen.com/privacy"
 pubDate: 2025-04-20
 heroImage: /images/pages/privacy-91d4b0e5eb.jpg
+seoTitle: "Privacy | Ensure Data Protection"
 ---
 
 ![](/images/pages/privacy-91d4b0e5eb.jpg)

@@ -4,6 +4,7 @@ description: "Chapter 1: A Weird Question and the Science of Sex  Nagoski opens 
 sourceUrl: "https://jamesmchristensen.com/book-summaries/book-summary-come-as-you-are-by-emily-nagoski"
 pubDate: "2026-02-05T13:06:09-0800"
 excerpt: "Chapter 1: A Weird Question and the Science of Sex Nagoski opens with a seemingly simple question: \"What's wrong with your genitals?\" For many people, the answer involves shame, confusion, or frustration. But here's…"
+seoTitle: "Book Summary: Come As You Are by Emily Nagoski"
 ---
 
 ### Chapter 1: A Weird Question and the Science of Sex

@@ -8,6 +8,7 @@ excerpt: "Dan Purcell: James Christensen: About Dan Purcell: Dan and his wife Em
 audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/689baa34e443f619202ebb98/1755032203453/24.+Calm+the+Heck+Down+with+Dan+Purcell.mp3"
 embeds:
   - "https://www.youtube.com/embed/tx0HMkvqYGE?feature=oembed"
+seoTitle: 24. Calm the heck down with Dan Purcell
 ---
 
 <audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/689baa34e443f619202ebb98/1755032203453/24.+Calm+the+Heck+Down+with+Dan+Purcell.mp3"></audio>

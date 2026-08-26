@@ -4,6 +4,7 @@ description: "Every book by Dr. David Schnarch, creator of Crucible Therapy. Pas
 sourceUrl: "https://jamesmchristensen.com/blog/a-complete-list-of-dr-david-schnarchs-books"
 pubDate: "2025-02-18T06:01:33-0800"
 excerpt: "Dr. David Schnarch published five books while he was alive, and his last manuscript was released as a free PDF download after he died. Here are his books, listed in reverse chronological order, with the free PDF…"
+seoTitle: "David Schnarch Books: Complete List & Reading Order"
 ---
 
 Dr. David Schnarch published five books while he was alive, and his last manuscript was released as a free PDF download after he died. Here are his books, listed in reverse chronological order, with the free PDF listed first.

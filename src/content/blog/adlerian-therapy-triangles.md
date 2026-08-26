@@ -5,6 +5,7 @@ sourceUrl: "https://jamesmchristensen.com/blog/adlerian-therapy-triangles"
 pubDate: "2026-01-02T16:13:45-0800"
 heroImage: /images/blog/blog-adlerian-therapy-triangles-3b310a93fa.jpg
 excerpt: "I use two Adlerian Couples Therapy Triangles when I’m working with couples. The first one has three sides: that pad person poor me what will I do now The second one has two sides, the third side is blank: your impact…"
+seoTitle: Adlerian Couples Therapy Triangles
 ---
 
 ![](/images/blog/blog-adlerian-therapy-triangles-d30e46fa42.jpg)

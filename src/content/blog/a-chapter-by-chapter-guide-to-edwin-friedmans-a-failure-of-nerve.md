@@ -5,6 +5,7 @@ sourceUrl: "https://jamesmchristensen.com/blog/a-chapter-by-chapter-guide-to-edw
 pubDate: "2026-01-04T12:26:25-0800"
 heroImage: /images/blog/blog-a-chapter-by-chapter-guide-to-edwin-friedmans-a-failure-of-nerve-0648de7468.webp
 excerpt: "Edwin Friedman, a rabbi and family therapist, spent decades watching leaders fail not because they lacked information or skills, but because they lacked the nerve to stand firm when everyone around them got anxious.…"
+seoTitle: "A Chapter-by-Chapter Guide to Edwin Friedman's \"A Failure of Nerve\""
 ---
 
 ![](/images/blog/blog-a-chapter-by-chapter-guide-to-edwin-friedmans-a-failure-of-nerve-0648de7468.webp)

@@ -4,6 +4,7 @@ description: "Introduction   What if the quality of your relationships—especia
 sourceUrl: "https://jamesmchristensen.com/book-summaries/book-summary-emotional-intelligence-by-daniel-goleman"
 pubDate: "2026-02-05T13:28:01-0800"
 excerpt: "Introduction What if the quality of your relationships—especially your most intimate partnership—wasn't determined by how smart you are, but by how well you understand and manage your emotions? This is the central…"
+seoTitle: "Book Summary: Emotional Intelligence by Daniel Goleman"
 ---
 
 ## **Introduction**

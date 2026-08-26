@@ -8,6 +8,7 @@ excerpt: "In this episode I’m talking to relationship coach Catherine Roebuck 
 audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/66c0fd5cc726ca54717b0edf/1723923862595/Podcast+4.mp3"
 embeds:
   - "https://www.youtube.com/embed/QguDJ8D7Ihg?feature=oembed"
+seoTitle: "Episode 4: How to Heal your Brain with Catherine Roebuck"
 ---
 
 <audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/66c0fd5cc726ca54717b0edf/1723923862595/Podcast+4.mp3"></audio>

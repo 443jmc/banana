@@ -8,6 +8,7 @@ excerpt: "Dr. Corey Allan from joins me for real talk about marriage and relatio
 audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/687ee0e4e514fb285eb0d5b3/1753145668713/Dr+Corey+from+Sexy+Marriage+Radio.mp3"
 embeds:
   - "https://www.youtube.com/embed/yGp1CWENwKk?feature=oembed"
+seoTitle: "14: Live your Way to a Better Marriage"
 ---
 
 Dr. Corey Allan from [Sexy Marriage Radio](https://smr.fm) joins me for real talk about marriage and relationships.

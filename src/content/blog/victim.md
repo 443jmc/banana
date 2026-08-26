@@ -1,9 +1,10 @@
 ---
 title: The Victim Triangle
-description: "The Victim Triangle describes three roles we take on in challenging situations. The three roles are:     1. Victim     Feels oppressed and powerless, can’t solve problems or make decisions    Seeks help from rescuers but resists solutions    Derives sense of self from feeling persecuted     2. Perpetrator     Controlling, blaming, critical, angry, rigid, and superior    Derives sense of self from looking down on others     3. Rescuer     Feels compelled to take on burdens that belong to others    Feels guilty when not helping    Derives sense of self from rescuing others"
+description: "The Victim Triangle describes three roles we take on in challenging situations. The three roles are: &nbsp;   1. Victim     Feels oppressed and powerless, can’t solve problems or make decisions    Seeks help from rescuers but resists solutions    Derives sense of self from feeling persecuted     2. Perpetrator     Controlling, blaming, critical, angry, rigid, and superior    Derives sense of self from looking down on others     3. Rescuer     Feels compelled to take on burdens that belong to others    Feels guilty when not helping    Derives sense of self from rescuing others"
 sourceUrl: "https://jamesmchristensen.com/blog/victim"
 pubDate: "2024-10-23T16:35:18-0700"
 excerpt: "describes three roles we take on in challenging situations: 1\\. Victim Feels oppressed and powerless, can’t solve problems or make decisions Seeks help from rescuers but resists solutions Derives sense of self from…"
+seoTitle: The Victim Triangle
 ---
 
 The Victim Triangle describes three roles we take on in challenging situations: 

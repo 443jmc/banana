@@ -1,9 +1,10 @@
 ---
 title: "Anger, Frustration, and Resentment"
-description: "Anger is your body’s emergency self-help solution. When you’re in real trouble, anger is there to help you protect yourself. Anger is a survival mechanism, designed to save us from the worst situations we ever experience. "
+description: "Anger is your body’s emergency self-help solution. When you’re in real trouble, anger is there to help you protect yourself. Anger is a survival mechanism, designed to save us from the worst situations we ever experience.&nbsp;"
 sourceUrl: "https://jamesmchristensen.com/blog/anger"
 pubDate: "2024-11-16T08:54:40-0800"
 excerpt: "Anger, resentment, and frustration are all the same thing. I’m going to use the word anger here, but feel free to replace it with frustration or resentment if that’s what you usually call it. Anger is your body’s…"
+seoTitle: "Anger, Frustration, and Resentment"
 ---
 
 Anger, resentment, and frustration are all the same thing. I’m going to use the word anger here, but feel free to replace it with frustration or resentment if that’s what you usually call it. 

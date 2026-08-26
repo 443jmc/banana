@@ -1,9 +1,10 @@
 ---
 title: How Higher-Desire Partners Contribute to Sexual Problems
-description: "When a couple struggles with differing levels of sexual desire, it’s easy to assume that the partner with a lower desire (LDP) is solely responsible for the issue. However, the sources you’ve provided make it clear that the partner with higher desire (HDP) contributes just as much to the problem.  The HDP often struggles with a deep need for validation from their partner, and when that validation isn’t received (in the form of sexual interest), it triggers a cycle of pressure and resentment that only makes things worse."
+description: "When a couple struggles with differing levels of sexual desire, it’s easy to assume that the partner with a lower desire (LDP) is solely responsible for the issue. However, the sources you’ve provided make it clear that the partner with higher desire (HDP) contributes just as much to the problem.&nbsp; The HDP often struggles with a deep need for validation from their partner, and when that validation isn’t received (in the form of sexual interest), it triggers a cycle of pressure and resentment that only makes things worse."
 sourceUrl: "https://jamesmchristensen.com/blog/how-higher-desire-partners-contribute-to-sexual-problems"
 pubDate: "2024-12-18T09:55:01-0800"
 excerpt: "When a couple struggles with differing levels of sexual desire, it’s easy to assume that the partner with a lower desire (LDP) is solely responsible for the issue. However, the partner with higher desire (HDP)…"
+seoTitle: How Higher-Desire Partners Contribute to Sexual Problems
 ---
 
 When a couple struggles with differing levels of sexual desire, it’s easy to assume that the partner with a lower desire (LDP) is solely responsible for the issue. However, the partner with higher desire (HDP) contributes just as much to the problem. **The HDP often struggles with a deep need for validation from their partner, and when that validation isn’t received (in the form of sexual interest), it triggers a cycle of pressure and resentment that only makes things worse.**

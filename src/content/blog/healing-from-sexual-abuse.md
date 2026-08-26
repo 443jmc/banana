@@ -4,6 +4,7 @@ description: "Witnessing or even suspecting sexual abuse within the family can t
 sourceUrl: "https://jamesmchristensen.com/blog/healing-from-sexual-abuse"
 pubDate: "2024-12-18T09:45:32-0800"
 excerpt: "Growing up in a family where sexual abuse occurs can be more damaging than the abuse itself due to several factors: Traumatic Mind Mapping: Children in these families are constantly trying to understand the minds of…"
+seoTitle: Healing from Sexual Abuse
 ---
 
 Growing up in a family where sexual abuse occurs can be **more damaging than the abuse itself** due to several factors:

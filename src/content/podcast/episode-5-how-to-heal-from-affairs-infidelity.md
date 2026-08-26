@@ -8,6 +8,7 @@ excerpt: "James Christensen:  Catherine Roebuck: https://catroebuck.com 00:32 - 
 audioUrl: "https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/66d3e6ce76074d6f7109b007/1734307586202/Episode+5.mp3"
 embeds:
   - "https://www.youtube.com/embed/SLRkSo03j4c?feature=oembed"
+seoTitle: "Episode 5: Infidelity"
 ---
 
 <audio controls="" preload="none" src="https://static1.squarespace.com/static/64fb40924ddf256063824bc3/t/66d3e6ce76074d6f7109b007/1734307586202/Episode+5.mp3"></audio>

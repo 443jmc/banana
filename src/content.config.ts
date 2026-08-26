@@ -3,6 +3,7 @@ import { glob } from "astro/loaders";
 
 const seo = {
   title: z.string(),
+  seoTitle: z.string().optional(),
   description: z.string().optional().default(""),
   pubDate: z.coerce.date().optional(),
   heroImage: z.string().optional(),

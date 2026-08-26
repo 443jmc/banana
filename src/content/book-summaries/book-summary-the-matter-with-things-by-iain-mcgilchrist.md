@@ -4,6 +4,7 @@ description: "Summary of McGilchrist's groundbreaking work on brain hemispheres.
 sourceUrl: "https://jamesmchristensen.com/book-summaries/book-summary-the-matter-with-things-by-iain-mcgilchrist"
 pubDate: "2025-07-17T09:24:48-0700"
 excerpt: "In this sequel to The Master and His Emissary, Iain McGilchrist expands on his ideas about how the right and left brain affect our perception of the world and how we behave. McGilchrist's ideas have profoundly…"
+seoTitle: "The Matter with Things by Iain McGilchrist: Summary"
 ---
 
 In this sequel to *The Master and His Emissary*, Iain McGilchrist expands on his ideas about how the right and left brain affect our perception of the world and how we behave.

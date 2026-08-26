@@ -4,6 +4,7 @@ description: "Anxious, avoidant, or secure? A therapist's guide to Attached and 
 sourceUrl: "https://jamesmchristensen.com/book-summaries/book-summary-attached-by-amir-levine-and-rachel-heller"
 pubDate: "2026-02-01T20:16:37-0800"
 excerpt: "Attached brings attachment theory—originally developed to understand parent-child relationships—into the world of adult romance. Authors Amir Levine, a psychiatrist and neuroscientist, and Rachel Heller, a…"
+seoTitle: "Attached by Amir Levine: Summary of Attachment Styles"
 ---
 
 Attached brings attachment theory—originally developed to understand parent-child relationships—into the world of adult romance. Authors Amir Levine, a psychiatrist and neuroscientist, and Rachel Heller, a psychologist, argue that understanding your attachment style can transform your relationships.

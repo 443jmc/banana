@@ -4,6 +4,7 @@ description: "Explore top wedding venues in Roseville, CA, including historic sp
 sourceUrl: "https://jamesmchristensen.com/wedding-venues-in-roseville-ca"
 pubDate: 2025-08-03
 heroImage: /images/pages/wedding-venues-in-roseville-ca-bf2cffa32c.jpg
+seoTitle: "Wedding Venues in Roseville, CA. | Find Your Perfect Venue Today"
 ---
 
 ![Logo for Roseville Couples Counseling featuring two intertwined hearts, one dark green and one light green, above the text 'ROSEVILLE COUPLES COUNSELING'.](/images/pages/wedding-venues-in-roseville-ca-bf2cffa32c.jpg)

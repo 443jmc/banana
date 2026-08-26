@@ -4,6 +4,7 @@ description: "These exercises, developed by sex and relationship therapist Dr. D
 sourceUrl: "https://jamesmchristensen.com/blog/connection"
 pubDate: "2023-10-31T07:29:05-0700"
 excerpt: "This is a guest post by relationship coach . These three exercises, developed by sex and relationship therapist Dr. David Schnarch, are designed to help you learn to be physically and emotionally close to your…"
+seoTitle: Exercises for Calmer Connection
 ---
 
 **This is a guest post by relationship coach** [**Cat Roebuck**](https://catroebuck.com)**.**

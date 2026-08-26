@@ -4,6 +4,7 @@ description: "A therapist's summary of Schnarch's Passionate Marriage. How diffe
 sourceUrl: "https://jamesmchristensen.com/book-summaries/book-summary-passionate-marriage-by-david-schnarch"
 pubDate: "2025-07-11T11:49:50-0700"
 excerpt: "Chapter 1: Nobody’s Ready for Marriage—Marriage Makes You Ready for Marriage Summary: Chapter 1 introduces the idea that no one is fully prepared for marriage’s challenges upfront; instead, marriage itself is what…"
+seoTitle: "Passionate Marriage by David Schnarch: Book Summary"
 ---
 
 ## Chapter 1: Nobody’s Ready for Marriage—Marriage Makes You Ready for Marriage

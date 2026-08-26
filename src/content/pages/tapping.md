@@ -1,8 +1,9 @@
 ---
 title: Emotional Freedom Tapping
-description: ""
+description: "Notes on Emotional Freedom Tapping: zoom into what you feel, then zoom out and frame those feelings in the context of your life as a whole."
 sourceUrl: "https://jamesmchristensen.com/tapping"
 pubDate: 2026-05-25
+seoTitle: Tapping
 ---
 
 # Emotional Freedom Tapping

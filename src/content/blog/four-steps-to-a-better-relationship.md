@@ -4,6 +4,7 @@ description: "When you feel abandoned or overwhelmed, you might blame your partn
 sourceUrl: "https://jamesmchristensen.com/blog/four-steps-to-a-better-relationship"
 pubDate: "2024-04-20T06:01:36-0700"
 excerpt: "Step One: Your Partner Is Not the Source of Your Distress When you feel abandoned or overwhelmed, you might blame your partner for these feelings and the physical sensations that accompany them. In reality, this…"
+seoTitle: Four Steps to a Better Relationship
 ---
 
 **Step One: Your Partner Is Not the Source of Your Distress**

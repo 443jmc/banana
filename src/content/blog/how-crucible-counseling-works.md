@@ -1,9 +1,10 @@
 ---
 title: How Crucible Counseling Works
-description: "David Schnarch’s Crucible Therapy for couples is much less popular than the Gottman Method or Sue Johnson’s Emotionally Focused Therapy. Schnarch’s approach to treating couples requires the therapist to go through a grueling course of personal growth and development that enables them to help couples change their relationships. Traditional methods of counseling focus on teaching skills, while Crucible therapy focuses on creating deep, lasting change in individuals, couples, and families. "
+description: "David Schnarch’s Crucible Therapy for couples is much less popular than the Gottman Method or Sue Johnson’s Emotionally Focused Therapy. Schnarch’s approach to treating couples requires the therapist to go through a grueling course of personal growth and development that enables them to help couples change their relationships. Traditional methods of counseling focus on teaching skills, while Crucible therapy focuses on creating deep, lasting change in individuals, couples, and families.&nbsp;"
 sourceUrl: "https://jamesmchristensen.com/blog/how-crucible-counseling-works"
 pubDate: "2024-10-05T09:53:52-0700"
 excerpt: David Schnarch’s Crucible Therapy for couples is much less popular than the Gottman Method or Sue Johnson’s Emotionally Focused Therapy. Schnarch’s approach to treating couples requires the therapist to go through a…
+seoTitle: How Crucible Counseling Works
 ---
 
 **David Schnarch’s Crucible Therapy for couples** is much less popular than the Gottman Method or Sue Johnson’s Emotionally Focused Therapy. Schnarch’s approach to treating couples requires the therapist to go through a grueling course of personal growth and development that enables them to help couples change their relationships. Traditional methods of counseling focus on teaching skills, while Crucible therapy focuses on creating deep, lasting change in individuals, couples, and families. 

@@ -4,6 +4,7 @@ description: "Anxiety kills relationship communication. When you're anxious, you
 sourceUrl: "https://jamesmchristensen.com/blog/4-steps-to-better-relationship-communication"
 pubDate: "2024-04-20T08:34:09-0700"
 excerpt: "Step one: calm down Anxiety kills relationship communication. When you're anxious, you can't calm down enough to listen to what your partner's saying, because you're too busy thinking about what you want to say next.…"
+seoTitle: 4 Steps to Better Relationship Communication
 ---
 
 **Step one: calm down**

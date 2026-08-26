@@ -4,6 +4,7 @@ description: "How Ellyn Bader's developmental model maps the five stages couples
 sourceUrl: "https://jamesmchristensen.com/blog/ellyn-baders-developmental-approach-to-couples-therapy"
 pubDate: "2025-06-22T10:23:07-0700"
 excerpt: "Dr. Ellyn Bader is a clinical psychologist, educator, and a widely recognized expert in couples therapy. Along with her husband Dr. Peter Pearson, she co-founded The Couples Institute in California and co-created…"
+seoTitle: Ellyn Bader’s Developmental Approach to Couples Therapy
 ---
 
 Dr. Ellyn Bader is a clinical psychologist, educator, and a widely recognized expert in couples therapy. Along with her husband Dr. Peter Pearson, she co-founded The Couples Institute in California and co-created what’s known as the **Developmental Model of Couples Therapy**. In the 1980s, Bader and Pearson pioneered this approach, which focuses not on “fixing” what’s wrong with partners, but on helping couples **grow and develop** through the natural stages of their relationship. Bader’s approach is unique in that it views conflict and challenges in a marriage not as signs of failure, but as *opportunities* for growth. In this warm introduction, we’ll explore the foundational principles of Ellyn Bader’s work – how she understands conflict, the importance of differentiation (being your own person *and* staying connected), and how couples can foster emotional growth in their relationship. By the end, you’ll see what makes Bader’s approach distinctive and how it can help couples build a healthier, more resilient love.
