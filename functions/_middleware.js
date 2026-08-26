@@ -1,7 +1,7 @@
 /**
- * Host-level cutover: www → apex. Path-level trailing slashes are in
- * public/_redirects (`/*/ /:splat 301`). RSS query strings are handled
- * by functions/blog.js and functions/podcast.js (200, not a redirect).
+ * Host-level cutover: www to apex. Path-level trailing slashes are in
+ * public/_redirects (splat 301). RSS query strings are handled by
+ * functions/blog.js and functions/podcast.js (200, not a redirect).
  */
 export async function onRequest(context) {
   const url = new URL(context.request.url);
