@@ -1,0 +1,41 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import CollectionGrid from "../../components/CollectionGrid.astro";
+import { BLOG_RSS_TITLE, BLOG_RSS_URL } from "../../lib/site";
+
+const posts = (await getCollection("blog")).sort((a, b) => {
+  const ad = a.data.pubDate?.getTime() || 0;
+  const bd = b.data.pubDate?.getTime() || 0;
+  return bd - ad;
+});
+---
+
+<BaseLayout
+  title="Blog"
+  seoTitle="Couples Therapy Blog | Relationship Advice from a Therapist"
+  description="Research-backed articles on marriage, intimacy, and relationship growth from a Roseville couples therapist. Explore Schnarch, Gottman, and more approaches."
+  canonicalPath="/blog"
+  rssHref={BLOG_RSS_URL}
+  rssTitle={BLOG_RSS_TITLE}
+>
+  <header class="page-hero">
+    <div class="wrap">
+      <h1>Blog</h1>
+      <p class="lede">Writing from the therapy room on conflict, intimacy, narcissism, and growing up in your marriage.</p>
+    </div>
+  </header>
+  <section class="section-tight">
+    <div class="wrap">
+      <CollectionGrid
+        items={posts.map((post) => ({
+          href: `/blog/${post.id}`,
+          title: post.data.title,
+          excerpt: post.data.excerpt,
+          date: post.data.pubDate,
+          image: post.data.heroImage,
+        }))}
+      />
+    </div>
+  </section>
+</BaseLayout>

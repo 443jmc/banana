@@ -1,0 +1,43 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+import OfferCard from "../components/OfferCard.astro";
+import { formatDate } from "../lib/site";
+
+interface Props {
+  title: string;
+  seoTitle?: string;
+  description?: string;
+  image?: string;
+  date?: Date;
+}
+
+const { title, seoTitle, description, image, date } = Astro.props;
+---
+
+<BaseLayout title={title} seoTitle={seoTitle} description={description} image={image}>
+  <article>
+    <header class="page-hero">
+      <div class="wrap narrow">
+        {date && <time datetime={date.toISOString()}>{formatDate(date)}</time>}
+        <h1>{title}</h1>
+      </div>
+    </header>
+    {
+      image && (
+        <div class="page-hero-image wrap">
+          <img src={image} alt="" />
+        </div>
+      )
+    }
+    <div class="section-tight">
+      <div class="wrap narrow prose">
+        <slot />
+      </div>
+    </div>
+  </article>
+  <section class="section section-warm">
+    <div class="wrap">
+      <OfferCard />
+    </div>
+  </section>
+</BaseLayout>

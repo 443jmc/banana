@@ -1,0 +1,1391 @@
+---
+title: "Strength-Based Marriage Blog Where Narcissism Comes From, and How to Grow Out of It How to Solve Relationship Problems"
+description: "Research-backed articles on marriage, intimacy, and relationship growth from a Roseville couples therapist. Explore Schnarch, Gottman, and more approaches."
+sourceUrl: "https://jamesmchristensen.com/blog"
+pubDate: 2026-06-12
+heroImage: /images/site/blog-d08ae91a56.png
+embeds:
+  - "https://www.youtube.com/embed/LOcBFFR02QI?feature=oembed"
+  - "https://www.youtube.com/embed/qE7n9_26B2Q?feature=oembed"
+  - "https://www.youtube.com/embed/90MXFG4khi4?feature=oembed"
+  - "https://www.youtube.com/embed/FLu8fQNovLs?feature=oembed"
+---
+
+# Strength-Based  
+Marriage Blog
+
+by James Christensen
+
+<div class="embed-frame"><iframe src="https://www.youtube.com/embed/LOcBFFR02QI?feature=oembed" title="How to Fix Narcissism" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>
+
+Narcissism has four main components:
+
+*   Superiority (the belief that I'm better than everyone else)
+    
+*   Indifference (a lack of concern for other people)
+    
+*   Fragility (the inability to tolerate feedback or criticism)
+    
+*   Manipulation (the habit of distorting reality to make it more validating than it really is)
+    
+
+In this post I'll discuss:
+
+*   Where narcissism comes from
+    
+*   Why it's so resistant to change
+    
+*   What it takes to become less narcissistic
+    
+
+## It's a spectrum, not a diagnosis
+
+Narcissism is a known failure mode of the human mind, and it's not a yes-or-no question. Nobody is simply "a narcissist" or "not a narcissist." Every person sits somewhere along the spectrum of those four components. The real questions are how far along the spectrum you are, and what you're going to do about it.
+
+And you're not a zero. Nobody is. All of us would be better off doing the work to become less narcissistic. It's also true that some people are far more narcissistic than others, and those people make life genuinely difficult for everyone around them.
+
+My background here is personal. For most of my life, I was quite narcissistic, and I've worked hard to become less so. I know this territory from the inside out, and I know a lot of other people who are somewhere on the same journey.
+
+## Where it comes from
+
+Narcissism is a defense mechanism against shame.
+
+Like most people, I grew up with a deep sense of insufficiency. I felt like I wasn't good enough, and I felt ashamed of that. Nearly every human being carries some version of this feeling. Narcissism is one way of protecting yourself from it.
+
+The conditions that produce above-average narcissism are simple: intense shame, plus someone in your life who models narcissism as a defense against it. You learn early that there's a way to keep the feeling of insufficiency at bay: play superior, manipulate, stop caring about other people.
+
+All of it is driven by the fragility, which is just the shame underneath. People who are extremely narcissistic are extremely fragile. Someone willing to pour enormous effort into seeming superior, or into pushing other people down, is doing it because it's the only way they know to avoid feeling terrible about who they are.
+
+## Why it's so hard to fix
+
+Once this protective mechanism develops, it protects itself.
+
+Suppose I go to therapy and the therapist detects narcissism in me. The moment they bring it up, it feels awful. And if I've been practicing these defenses for years, I'm very good at backing people off, distorting reality, and slipping around whatever they're saying. It's hard for the therapist to get through, and it's even harder for me to see that there's a problem at all.
+
+A narcissistic brain is organized around one idea: everybody else is the problem, and I'm not. When things go wrong in my marriage, at work, or with my kids, I blame other people. The thought that I made a mistake, that I didn't measure up, feels so toxic that I'll do almost anything to make it go away.
+
+That's the whole point of narcissism: avoiding reality. Reality says I'm an ordinary person who makes mistakes like everyone else, and that feels unbearable. So I construct an alternate reality where I'm actually superior. My talents just aren't recognized, I'm being treated unfairly, or I'm simply not trying, but if I tried, I'd obviously be exceptional.
+
+The same pattern shows up in marriage. If my wife has complaints about me, I find a way to make her complaints invalid while mine remain entirely legitimate. Distorting reality to make it more validating than it really is. That's the move, every time.
+
+## How to become less narcissistic
+
+You're probably reading this with someone else in mind, someone more narcissistic than you. It's more useful to ask what this process would look like for you. All of us carry shame. All of us are narcissistic to some degree. All of us would be better off with less of it.
+
+The process, more or less, is this: you encounter someone who's willing to tell you what you're really like, and who can do it with enough love that the truth becomes survivable.
+
+This is part of my work as a couples therapist. It's common for one partner to try to manipulate me, or their spouse, right in the office. My job is to pause and say, "Let's look at what just happened. Let me see if I can help you see how you're being manipulative right now." By manipulative, I mean trying to make reality seem like one thing when it's actually another.
+
+Receiving that message feels terrible. I've been on both ends of it, and there's no version that doesn't hurt. But this is the root of narcissism: negative feedback feels so bad that you'll go to great lengths to avoid facing it, and after years of practice, you've become an expert at not facing things.
+
+Growth requires sitting with that pain long enough to ask: could this feedback actually be correct, even though it feels like I'm going to die? That sounds dramatic, but when you carry this depth of shame, it's accurate. The discomfort is physical. Some people describe it as a fire in the brain, or a fire in the bones: a bodily alarm insisting *this is not okay, I'm not going to be okay, I need this to stop.*
+
+Which is why helping someone grow out of narcissism requires more than honesty. It requires enough love, kindness, and support to counterbalance the shame that comes with facing difficult realities. Most narcissistic people have never received that combination. Their interactions tend to go one of two ways: either people get boondoggled and buy into the performance, or people see through it. And when they see through it, they either withdraw or confront in a way that deepens the shame.
+
+## A point of no return
+
+One reason narcissism is often considered incurable is that it's self-perpetuating and self-defending. Once a person heads down this track, the default outcome is to become more narcissistic with age.
+
+There's something like a tipping point along the path. You become so skilled at defending the false reality, so skilled at manipulating people, that the odds of anyone stepping in to rescue you shrink every year. Eventually they get vanishingly small, and what remains is a sad, disconnected life: few real friends, a failed or hollow marriage, children who keep their distance once they're grown.
+
+Reversal is possible. But it takes an unusual circumstance, sustained effort, and a real willingness to tolerate pain. It is not the default outcome.
+
+One last thing. Narcissism is a popular topic online right now, and the overwhelming majority of what gets said amounts to shaming narcissistic people. I understand the impulse. Being around narcissistic people is hard, and being stuck in a relationship with one is harder. But shame is the engine of narcissism. If you respond to a narcissistic person with judgment and contempt, you're feeding the very thing you're condemning, even though doing otherwise is genuinely difficult.
+
+![](/images/site/blog-d08ae91a56.png)
+
+Your brain has two modes:  **Problem Mode and Person Mode.** 
+
+In Problem Mode, you see your partner as a problem to be solved. 
+
+In Person Mode, you see your partner as a person, someone who’s a lot like you. 
+
+**The Problem with Problem Mode**
+
+When you are facing a problem in your relationship, your brain will go into Problem Mode to try to solve it.
+
+There are three problems with problem mode:
+
+1.  It doesn't understand people
+    
+2.  It's too focused
+    
+3.  It oversimplifies
+    
+
+**1\. It Doesn't Understand People** 
+
+When I put pressure on my coffee mug, it slides across my desk.
+
+But when I put pressure on my wife, it actually makes her want to push back in the opposite direction. 
+
+The single most important difference between person mode and problem mode is that person mode understands this and problem mode doesn’t. 
+
+When you get stuck in problem mode, you will consistently try to pressure your partner into doing things your way. 
+
+Because you're stuck in problem mode, you won't remember that when you pressure your partner, it actually makes it harder for them to do the things you want.
+
+Person mode knows that people crave freedom and autonomy. Problem mode thinks of people as if they were inanimate objects that can be controlled and manipulated. This never really works, of course. But when you're stuck in problem mode, you just try it over and over and over. 
+
+My wife and I were stuck in problem mode for the first 20 years of our marriage. We both were trying to control and manipulate each other constantly, and we were both responding to each other with rebellion, anger, and hatred. 
+
+**2\. It’s too Focused**
+
+Problem Mode is designed to solve one specific problem while ignoring everything else. 
+
+When your brain is stuck in problem mode, it ignores the context of your relationship. 
+
+It especially ignores your contribution to the problems in your relationship. 
+
+When you’re in problem mode, your partner's behavior seems like the biggest problem in the world 
+
+It becomes nearly impossible to think about how you are contributing to relationship difficulties. 
+
+Your brain returns over and over to the idea that your partner has to change for you to be okay. 
+
+**3\. It oversimplifies**
+
+Problem Mode things there is a prescribed solution to every problem, and it thinks it knows that solution. 
+
+It oversimplifies everything. 
+
+Problem Mode says “The way you see things is obviously wrong, and the way I see things is obviously right.”
+
+Papa Mode doesn't deal with the dynamic nature of human beings, and it doesn't deal with the complex nature of reality. 
+
+In reality, there are always dozens of things to consider in creating relationship change. 
+
+In reality, a person's behavior is determined by a combination of hundreds of separate influences they have experienced throughout their lives. 
+
+In reality, your partner is just as likely to have the answers to your relationship problems as you are. 
+
+When your brain is in problem mode, it's not going to acknowledge any of those facts. 
+
+It will just continue thinking that it knows what's right and your partner doesn't have a clue. 
+
+**How to get out of problem mode**
+
+Here are three questions to free your brain from problem mode:
+
+1.  If my partner doesn't change, will I find a way to be okay?
+    
+2.  If my partner doesn't change, what will my life will look like one year from now?
+    
+3.  If my partner doesn't change, will I relate to myself with warmth and acceptance?
+    
+
+Each of these questions takes you away from focusing on the one problem that seems so overwhelming to you right now. As long as you remain focused on that one problem, your brain will stay in problem mode and you won't actually be able to make your relationship better. 
+
+These questions help you zoom out from the one problem and look at the big picture instead. 
+
+You will feel your brain magnetically drawn to go back into problem mode. They will want to obsess about the one big problem, they will want to spin it around over and over, looking for a solution it is incapable of finding. 
+
+The part of your brain that is capable of seeing your partner as a person is also in charge of:
+
+*   full-body movement and sensation
+    
+*   singing, dancing, and poetry
+    
+*   Synchronizing body movement with other people.
+    
+
+Sports, walking in nature, learning new things, and most outdoor activities pull your brain out of problem mode. 
+
+**The Big Picture**
+
+You actually have two brains, not one. The left half of your brain is problem mode and the right half is person mode. 
+
+If you want to have a better relationship, start by helping your brain get used to operating in person mode all the time. 
+
+Problem mode will still be there for you when you need to change a light switch open a can, or play a video game. 
+
+But when you're trying to relate to your partner, only person mode will help you. 
+
+If you want to learn more about problem mode and person mode, read or listen to The Master and His Emissary by Iain McGilchrist. 
+
+![](/images/site/blog-7f64762deb.png)
+
+When you have a relationship problem, your brain wants to focus on your partner's behavior, not on yours.
+
+It wants to think about your partner's impact on you, and it doesn't want to think about your impact on your partner.
+
+With effort, you can help your brain learn to focus on your impact on your partner instead of focusing on your partner's impact on you.
+
+### Example 1: Jill and Julian
+
+Jill wanted to have children, and Julian wasn't sure. The discussions spiraled into arguments, with each of them saying mean things to the other. Jill's brain focused on how Julian was treating her, and Julian's brain focused on how Jill was treating him.
+
+Things got better when Jill started focusing on her impact on Julian, instead of focusing on Julian's impact on her.
+
+Jill approached Julian and apologized for the way she had been treating him. She didn't back down from her position because having children was still really important to her. But she promised herself that going forward, she would hold herself to a standard of always treating Julian respectfully.
+
+Every time the topic of children came up, Jill could feel her brain sliding into seeing Julian as a problem, not a person. She noticed the slide and pulled herself back to seeing Julian as a person, not a problem.
+
+If Julian doesn't change his mind, Jill will face a difficult choice. She can either leave Julian and try to find a partner who wants children, or she can stay with Julian and face the reality that he doesn't want to have children with her. Either way, Jill's life will be better if she can hold herself to the standard of always treating Julian with respect.
+
+### Example 2: Mike and Diane
+
+Mike wanted to buy a new car and Diane wanted to spend the money on new carpet instead.
+
+Diane was happy with the car they had, and Mike was happy with the carpet they had.
+
+Mike's brain wanted to focus on the way Diane was treating him. He didn't want to focus on how he was treating her.
+
+His brain wanted to see Diane as a problem, not a person.
+
+One morning, Mike woke up and realized he was already angry at Diane, before he had even gotten out of bed.
+
+He went for a run and started thinking about what it must be like for Diane to be on the other side of his energy.
+
+He thought about what it would feel like to have a partner who's angry at you all the time.
+
+I'm not going to tell you how they resolved this conflict, because it's not the point of the story.
+
+In a situation like this, you're either going to find a compromise or someone is going to yield.
+
+That's not what matters.
+
+What matters is when one person decides to focus on the impact they have on their partner instead of focusing on the impact their partner has on them.
+
+### Example 3: Mark and Susan
+
+Mark and Susan didn't really disagree about anything significant.
+
+They had similar views on politics and parenting, and they didn't even really disagree on how to spend their money.
+
+Even though they agreed on most things, they found themselves arguing several times a week.
+
+Mark sat down and tried to figure out the underlying drive behind his dissatisfaction with Susan.
+
+What he came up with was remarkably simple. He wrote it on a piece of paper and underlined it twice. It said simply this: "I want you to care about me more than you do."
+
+He told Susan what he had done, and showed her the piece of paper. Susan sat silently for a few seconds, and then said, "I want the same thing from you."
+
+Knowing that you want your partner to care more about you is a good start. But realizing that you can't directly do anything about that is important.
+
+What you can do is figure out how to start caring about your partner more than you do right now.
+
+It's not a black or white thing. It's not about whether you care about them or whether you don't care about them. It's about learning to care more than you do right now.
+
+Mark decided to focus his attention on thinking about what it was like for Susan to be married to him.
+
+Whenever he found himself in a difficult relationship situation, he would calm himself and refocus his attention on how he was impacting Susan in that moment.
+
+He would help his brain move away from the idea that he needed Susan to change, and instead settle himself down with the thought that he was going to be okay even if she didn't change.
+
+Given that fact, it was okay for him to focus on how he could improve the impact he was having on Susan.
+
+As Mark did that, it made it easier for Susan to do the same.
+
+Susan picked up on Mark's settling, which had decreased the pressure she felt to fight for her own survival. As she felt herself calm down, she was also able to think more about what it was like for Mark to be married to her.
+
+### Your impact on your partner is the best definition of who you are as a person
+
+If you want to know who you are, think about what it's like to be married to you.
+
+Your impact on your partner is the best definition of who you really are.
+
+Your brain doesn't want to focus on your impact on your partner. It wants you to focus on how your partner impacts you.
+
+If you want to grow, help your brain learn to focus on how you impact your partner.
+
+Move your focus to your outbound energy.
+
+You won't regret it.
+
+![](/images/site/blog-7c52be96ca.png)
+
+A good relationship is full of compassion, caring, love and investment, but none of those things are the foundation of a good relationship.
+
+**The foundation of a good relationship is a sense of personal power and okayness.**
+
+Compassion, caring, love and investment are built on top of that sense of personal power.
+
+When the foundation crumbles, the whole structure comes tumbling down.
+
+### What is personal power?
+
+Personal power is the sense that you are probably going to be okay, even if your partner doesn't change.
+
+If you are in an unhappy relationship, you probably have the sense that you need your partner to change for you to be okay.
+
+When you feel that way, it makes it a lot harder for you to really open up to your partner with compassion, caring, love and investment.
+
+Your ability to care about your partner will always be limited by your ability to feel like you're probably going to be okay.
+
+### What happens when you don't feel powerful?
+
+When you don't feel powerful, or when you don't feel like you're probably going to be okay, your brain goes into survival mode.
+
+When you feel like your partner — instead of you — is the solution to your okayness, you start to see your partner as a problem and not a person.
+
+When you see your partner as a problem and not a person, you lose your capacity for love and caring.
+
+When you lose your capacity for love and caring, it makes it harder for your partner to love you and care about you.
+
+That is how relationships start to crumble.
+
+### Why your brain defaults to feeling powerless in your relationship
+
+Your brain is optimized for childhood, not for adulthood. The relational part of your brain is optimized for managing a child-parent relationship, not for managing an adult-to-adult relationship.
+
+You can change this pattern in your brain, but it takes deliberate effort.
+
+There's a special place in your brain that is reserved for the person who's supposed to love you. When you were a child, that place was reserved for your parent or caretaker.
+
+When you were young, you treated that relationship with your parent as a survival relationship because it was.
+
+You were reliant on that person for love, support, caring, food, clothing and shelter.
+
+As an adult, you don't depend on your partner the way you once depended on your parent. But your brain will not automatically update its software to reflect that new reality.
+
+You have to help your brain change if you want to feel more powerful in your adult relationship.
+
+### How to feel more powerful in your adult relationship
+
+Self-compassion is the key to feeling more powerful in your adult relationship.
+
+Your brain was focused on getting love and caring from a parent when you were young. That parental investment was the key to your survival as a child.
+
+As an adult, you need to learn how to provide that same kind of warm, loving care internally.
+
+As your brain develops, it adds on new features but doesn't delete the old features that were already there. So the parts of your brain that craved parental care and warmth when you were young are still inside you. We'll call this part of your brain your inner child.
+
+You have also developed another part of your brain that is capable of providing warm, steady reassurance to a child in distress. We'll call this part of your brain your inner adult.
+
+You will feel more powerful in your relationship when you learn to build a stronger connection between the two parts of your brain.
+
+One way to do this is to visualize your younger self in your imagination, and see if you naturally feel compassion towards that child.
+
+You can also imagine how you as an adult would comfort your younger self in a difficult situation. You can revisit memories of difficulty from your childhood, and then imagine you as an adult stepping in to provide comfort and protection to your younger self.
+
+Another way to develop a sense of personal power is to visualize how you will take care of yourself if your partner doesn't change.
+
+As a child, there wasn't much you could do to take care of yourself if your parents didn't offer you the comfort and protection you needed. As an adult, there's a lot you can do to take care of yourself if your partner doesn't love you the way you hope to be loved.
+
+### How to handle relationship distress
+
+When you feel pain and loneliness in your relationship, you have the option of treating it as an opportunity to practice self-compassion.
+
+Your instinct will be to try to get your partner to fix the problem for you, but that reinforces your brain's desire to rely on external reassurance instead of learning to comfort yourself.
+
+Creating your own internal emotional fallback is the key to building a better relationship.
+
+In the long run, your ability to comfort yourself makes it more likely that you will receive the kind of warmth and attention you crave from your partner.
+
+When you feel relationship distress, when love hurts, think of it as an opportunity to practice comforting yourself.
+
+As you do this, you will become more capable of offering warmth and compassion and acceptance to your partner. When that happens, it makes it easier for your partner to respond in the same way to you.
+
+### Remember the foundation
+
+Personal strength, power and resilience are the foundation of lifelong love.
+
+When you find your compassion and warmth and acceptance of your partner fading, it is usually a sign that your sense of personal power is also eroding.
+
+When you feel powerful and strong, it is so much easier to offer warmth and acceptance to yourself and your partner.
+
+Remember the foundation. Build the bridge between your inner child and your inner adult.
+
+This is the way to create lasting lifelong love.
+
+![](/images/site/blog-3ad170e19c.png)
+
+Intimacy is Into-Me-You-See.
+
+You can create intimacy in your relationship by revealing your true self to your partner without needing their validation.
+
+True intimacy requires self-acceptance, which is your ability to accept yourself the way you are right now.
+
+If you can't accept yourself the way you are, you will constantly find yourself reaching for your partner's acceptance and reassurance.
+
+One way you will do that is by pretending to be better than you really are.
+
+That pretending destroys intimacy.
+
+When you imagine that you're unacceptable the way you are, you pretend to be someone else to try to be accepted, but that just reinforces the idea that you're not acceptable the way you are.
+
+Intimacy is often uncomfortable and anxiety provoking.
+
+The thing we call intimacy is often just external validation or reassurance.
+
+Intimacy is to allow yourself to be fully known. You have to accept yourself to a certain extent before you'll be able to do that. Your partner can help, but most of the work will be yours.
+
+![](/images/site/blog-3f85c7148e.png)
+
+If you crash your car three times a week, nobody's gonna call it an accident. 
+
+But if you hurt your partner's feelings three times a week, people will call it an accident. 
+
+Even therapists will talk about impact versus intention. 
+
+In reality, the emotional impact you had is probably the emotional impact you wanted to have. 
+
+People are really good at predicting the emotional impact of their words and actions. 
+
+If you've lived for someone for many years, you have a really good idea of how they're going to feel when you say or do a certain thing. 
+
+When you hurt your partner's feelings, you're usually doing it on purpose. 
+
+It's organized behavior, not accidental behavior. 
+
+In your mind, you might think of hurting someone on purpose as something that only bad people do, but in reality, everybody does. 
+
+You can learn not to do it, but you have to start by realizing that you're doing it on purpose, not accidentally. 
+
+If you consistently think that you hurt your partner's feelings on purpose, you probably also think that your parents didn't intend to hurt you when they were mean to you. 
+
+Every child's brain is designed to see their parents as more benevolent and innocent than they really are. 
+
+If you go back to the visual evidence from your childhood, you will eventually see that your parents knew about the impact they were having on you and did what they did anyway. 
+
+This is, unfortunately, a normal part of childhood for most of us. 
+
+When your parents were angry at you, they probably tried to make it seem like you are being a bad kid, and they were just trying to be good parents. 
+
+In reality you were probably a normal kid and they were normal parents. 
+
+Normal kids are a lot more innocent than normal parents. Because parents are old enough to be responsible for their behavior, and because kids usually learn unhealthy behavioral patterns from their parents. 
+
+Ichiro Kishimi tells a story about a mother who's berating her child for getting in a fight at school. In the middle of her angry lecture, the school principal called to discuss the incident with her. She instantly let go of her angry tone and talk to the principal with respect and appreciation. 
+
+This story illustrates the fact that she was choosing to use anger to punish her child. To her, it probably didn't feel that way. It probably felt like she was just responding to her emotions and doing what felt instinctive. But as soon as the context changed, her emotional expression also changed. 
+
+This mother would be much more effective if she would talk to her child respectfully all the time. That is what will help the child learn to be respectful.
+
+This mother was hurting her child on purpose, not accidentally. She was taking out her anger on her child in an attempt to control him. 
+
+Before she can change her behavior. She has to be able to see that it's intentional behavior, not accidental behavior. 
+
+![](/images/site/blog-95d267b0ce.png)
+
+Every relationship is narcissistic, and some relationships are more narcissistic than others.
+
+No matter how narcissistic your relationship is, your life will get better if you deal with the narcissism. 
+
+This article has four sections:
+
+1.  What is narcissism?
+    
+2.  What is a narcisstic relationship?
+    
+3.  How to deal with narcissism in yourself
+    
+4.  How to deal with narcissism in your partner
+    
+
+**1\. What is Narcissism?**
+
+Narcissism has four main components: 
+
+1.  Fragility (you can’t handle criticism)
+    
+2.  Indifference (you don’t care about people very much)
+    
+3.  Superiority (you look down on people.)
+    
+4.  Manipulation (you distort reality)
+    
+
+The root of narcissism is a deep sense of personal insufficiency. Narcisstic people develop these four charactaristics as a way to avoid feeling the deep pain of not being good enough. 
+
+Narcissism is a known failure mode of the human mind, a combination of character traits that  are designed to protect the narcissistic person from feeling the deep shame of not being good enough. 
+
+The components of narcissism are four different ways you can avoid the intensity of feeling like you’re not good enough. 
+
+Narcissism exists on a spectrum. There’s no such thing as “a narcissist” or “not a narcissist,” there’s just people with varying degrees of narcissism. 
+
+Here’s how they work:
+
+1.  Fragility:  you react intensely to criticism, so people around you learn to avoid criticizing you. This helps you avoid feeling inferior or not good enough.
+    
+2.  Indifference:  you don’t invest time or energy in other people, because you see them as vastly inferior to yourself, and you don’t want to dip into the emotions that come with really caring about someone.
+    
+3.  Superiority:  you can get around the intensity of feeling not good enough by focusing on the delusion that you’re better than everyone else.
+    
+4.  Manipulation:  the intensity of your distress motivates you to get good at twisting reality to make it seem like you’re better than everyone else.
+    
+
+**2\. What is a narcisstic relationship?**
+
+In a narcisstic relationship, one or both partners are doing the four things mentioned above. There is usually plenty of superiority, manipulation, indifference, and fragility on both sides. 
+
+Narcissistic relationships exist on a spectrum just like narcissism exists on a spectrum.  Bad relationships tend to have a lot of narcissism, and good relationships have less. 
+
+Part of my goal here is to normalize narcisstic relationships. If you and your partner get along well and handle conflict well, you probably don’t have a lot of narcissism in your relatioship. But if you have normal relationship challenges, it may be helpful to look at those challenges through the lens of narcissism. 
+
+**3\. How to handle narcissism in yourself**
+
+You can delete narcissism from your relationship by dealing narcissism both in yourself, and in your partner. 
+
+First, practice reversing the four components of narcissism in yourself. If you feel resistance to this idea, remember that every single human being does all four of these things. Even if your partner is more narcissistic than you are, you still need to start by rooting these out from your own heart. 
+
+1.  Fragility → Resilience. When you get criticized, take a moment to comfort yourself. Calm yourself down and see if you can be okay even though someone is criticizing you. It is normal to feel hurt when someone criticizes you. And if you want to have a better relationship, you need to learn how to allow the criticism to exist.
+    
+2.  Indifference → Caring. Ask yourself what you would do differently if you cared more about your partner. Be careful to separate out caring about them as a person versus caring about what they think about you or feel about you.
+    
+3.  Superiority → Equality. Notice when your brain starts to construct a false reality where you're better than other people. Instead of being superior, could you just be a normal person who makes normal mistakes? The trick here is to let go of judgment entirely. You may not notice it, but you exercise the same harsh judgment towards yourself as you do towards others.
+    
+4.  Manipulation → Reality. You will find yourself devoting less energy towards manipulation as you deal with the other three components. Notice when you f feel the need to make other people see things a certain way. Practice letting go of that need. When you find yourself telling stories about victimhood or about how bad other people are, ask yourself, Is that story really true?
+    
+
+As you decrease the components of narcissism in yourself, you will become less vulnerable to your partner's narcissism. As you become more solid in yourself, you'll become more capable of dealing with your partner's narcissism as well. 
+
+**4\. How to deal with your Partner’s Narcissism**
+
+As you get more solid, you'll become more capable of dealing with your partner's narcissism. 
+
+Let's look at how the four reverse components help you deal with your partner:
+
+1.  Fragility → Resilience. It's hard to control a resilient person. When you're solid enough to let your partner think about you what they actually do think about you without needing you to change the dynamic between your shifts. Your partner will put less effort into criticizing you when you become less vulnerable to their criticism.
+    
+2.  Indifference → Caring. When you care more about your partner, it makes it easier for them to care more about you. They still have to do their work. But their work becomes less difficult than it was.
+    
+3.  Superiority → Equality. When you learn to see your partner as an equal, their attempts to claim superiority over you become less threatening too. You don't feel like you need to prove that they're not better than you.
+    
+4.  Manipulation → Reality. When you become more grounded in reality, your partner's attempts to distort reality become less effective. They'll be less tempted to put so much effort into destroying reality when it stops working.
+    
+
+The more narcissistic a person is, the harder it is to change. Each subcomponent serves as a block to growth. 
+
+As you get stronger, you'll become more capable of helping your partner change, and you will also become more capable of being okay if they don't change. 
+
+![](/images/site/blog-cb35c09675.png)
+
+If you want to know who I am, ask my wife what it's like to be married to me.
+
+Ask her what it was like two years ago compared to what it's like today.
+
+If you want to know who you are, ask the person you're closest to what it's like to be with you.
+
+Ask the people you live with what it's like to live with you.
+
+The person you are is defined by the impact you have on the people you are closest to.
+
+That doesn't mean being a doormat or a pushover, because that actually has a negative impact on the people you're closest to. If you want to have a positive impact on the people you're closest to, you need to stand up for yourself in the kindest way possible.
+
+Having a positive impact on the people you're closest to does not come naturally to most of us.
+
+Your ability to measure and improve the impact you have on the people you care about the most is what allows you to live the kind of life you want to live.
+
+When you were young, your brain focused on your parents impact on you. You depended on them for survival and it was important for you to track how invested they were in your well being.
+
+As you entered into adult relationships, your brain maintained that default setting of paying more attention to your partner's impact in you than your impact on your partner.
+
+If you want to have a better relationship, you need to reverse that default. You need to pay more attention to your impact on your partner and less attention to their impact on you.
+
+This doesn't come naturally, but it is possible to make the switch.
+
+Once you start paying more attention to how you impact your partner, you become capable of unilaterally improving your relationship.
+
+![](/images/site/blog-a67d6e6801.png)
+
+**Here are three ways** to improve communication in your relationship”
+
+1.  Say what you really think in the kindest way possible
+    
+2.  Embrace disagreement and disapproval.
+    
+3.  More silence than speaking.
+    
+
+**1\. Say what you really think in the kindest way possible**
+
+Most couples go back and forth between two modes of communication:
+
+1.  Not saying what you really think.
+    
+2.  Saying what you really think with a lot of anger and judgment.
+    
+
+There is a third option, which is saying what you really think in the kindest way possible, but most of us have never learned to communicate that way. 
+
+You can learn by taking the time before you speak to think about whether or not there's a kind of way to say what you want to say. 
+
+By kinder, I don't mean hedging or beating around the bush. When people first start trying to do this, they often add a lot more words instead of taking words away. 
+
+Adding more words always makes things worse, not better. 
+
+Speaking kindly to your partner is more about how you think about them and how you feel about them than what you say. 
+
+You have to take the judgment out of your soul before you speak. 
+
+Once you have dealt with a part of you that wants to hurt your partner, once you feel kindness and openness towards your partner, then you can tell them what you really think. 
+
+Your partner will still feel defensive, and that's okay. Your job is to reveal your mind in the kindest way possible. 
+
+**2\. Embrace disagreement and disapproval**
+
+When your partner disagrees with you or disapproves of you, you will feel defensive, uncomfortable, and maybe even unheard. 
+
+Those feelings are not your partner's fault. They're an indication that you need to get better at relying on your own self-respect instead of trying to get your partner's approval. 
+
+When your partner disagrees with you, it's an opportunity for you to calm down and think about what you think is actually true. Is there any truth to what your f partner is saying? 
+
+In most relationships, each of you can see the other more clearly than you can see yourself. So if your partner is telling you something about yourself that you disagree with, there's a good chance that they are right and you are wrong. 
+
+Calm down and sit with your partner's disagreement or disapproval long enough to see if there's any truth to it. 
+
+When your partner disapproves of you, see if you can make room for that disapproval to exist without it taking you down. 
+
+Your reactivity to your partner's disagreement and disapproval is a sign that you have more work to do in earning your own self-respect. As you learn to validate yourself, you will put less effort into trying to get your partner to validate you. 
+
+**3\. More silence than speaking**
+
+When you and your partner disagree, the first thing that pops into your head is likely not a useful thing for you to say. 
+
+If you can wait a few seconds, think about your response, and then respond, you will be able to communicate more effectively. 
+
+When you feel defensive, your default responses are likely to be aggressive. When you respond in an aggressive way, it makes it harder for your partner to not respond in an aggressive way. That's how a discussion turns into a fight. 
+
+When you're fighting, you are both just trying to figure out the meanest things you can say to each other. You're trying to hurt each other with your words. There's no communication happening. It's just verbal sparring. 
+
+At that point, one of the two of you has to stop talking and let the other person have the last word. 
+
+As you get better at communication you will find that there will be more silence than speaking when you disagree with each other. This happens because both of you are taking the time to calm down and think about what you want to say before you say it. 
+
+![](/images/site/blog-be2423858d.png)
+
+Your brain is mostly optimized to survive childhood, it's not really designed for adult relationships. Your partner occupies the place in your mind that is reserved for the person who's supposed to love you. And that place was formerly occupied by your parents.
+
+When you were young, you relied on your parents for love, affection, and survival. If they had decided to abandon you, you might have died.
+
+That's why you felt so much pain when you discovered infidelity in your relationship. Your brain categorizes your partner as a person whose love and devotion is a matter of life and death.
+
+As an adult, you don't actually rely on your partner for survival, but your brain still reacts to their betrayal as if you did.
+
+The pain you are feeling comes from a part of your brain that developed when you were very young. Because of that, the best way to respond is to practice comforting yourself the way you would comfort a young child.
+
+Close your eyes and imagine a toddler in distress. If you were in charge of comforting that child, you would gather them up and hold them in your arms in a certain way. You would welcome their distress and you would offer them comfort and support.
+
+If you have a memory of feeling abandoned as a child, it might help for you to picture yourself in that situation. Did you ever get lost in a grocery store, or did you get left behind at a gas station or a restaurant? If that happened to you, you can imagine coming back as an adult and comforting your younger self in that stressful situation.
+
+Your brain doesn't have a delete function. The part of your brain that was worried about being abandoned when you were young is still there. And that's what's causing you to experience such intense pain.
+
+You can think about your brain as if it were made up of two parts: an inner child and an inner adult. It's important to comfort your inner child, and it's just as important to strengthen your inner adult. You can do that by imagining how you will respond to your partner if they cheat on you again.
+
+When you were a toddler, you just had to accept your parents' actions. You didn't have a choice about what family you were born into, or how your parents treated you. If your parents wanted to abandon you, they could, and there wasn't anything you could do about it other than make a fuss.
+
+As an adult, you have a lot more power. If your partner decides to continue cheating on you, there are things you can do to make sure that you are going to be okay.
+
+Imagine finding out one month from now that your partner has had another affair. Then fast-forward to a year from now. What kind of a life do you have? How are you taking care of yourself? Do you know how to create a rich and rewarding life for yourself, regardless of the choices your partner makes?
+
+When you go through that exercise, you're connecting with your inner adult. You're reinforcing the part of you that knows how to take care of yourself, even in difficult circumstances.
+
+As you continue to process the pain of infidelity, take turns connecting with your inner child and your inner adult. It may help to write down your experiences in a journal, especially your thoughts about what you will do if your partner continues to cheat. As you learn to trust yourself, you will feel a greater capacity to handle the pain of infidelity.
+
+![](/images/site/blog-85e4b3396c.png)
+
+The end of infidelity can mark the beginning of a much better relationship.
+
+I have seen hundreds of couples use infidelity as a way to rebuild their relationship into something much better than it was before.
+
+When infidelity happens in a relationship, it indicates a lack of caring and a willingness to deceive that are present in that relationship.
+
+It's easy to pin those problems on just the partner who cheated, but they probably exist on both sides.
+
+Infidelity indicates a lack of caring because one of you didn't care enough about the other to not cheat. It also indicates a willingness to deceive, because infidelity always includes deception.
+
+After infidelity is revealed, there is still a willingness to deceive and a lack of caring in your relationship. When your mind drifts back to the infidelity that has happened, it's often an indication that you're picking up signs of deception and lack of caring that are still present in your relationship today.
+
+The key to overcoming infidelity is to reveal more of your mind to your partner in the kindest way possible. This helps you both learn to stay present in the relationship and to offer the best of yourselves to each other.
+
+![](/images/site/blog-dac4184aa1.png)
+
+**Your therapist wants to talk to you about your parents** because your parents had a significant impact on how your brain developed.
+
+This article has three parts:
+
+1.  Your parents affected the way your brain developed
+    
+2.  Seeing your parents clearly
+    
+3.  Seeing yourself clearly
+    
+
+**Your parents affected the way your brain developed**
+
+Most human brain development occurs before the age of 15. Some of your brain function was determined genetically, before you were even born.
+
+When you were young, your brain was hyper-focused on adapting to the peculiarities of your parents. You depended on them for love, for guidance, and for survival. And your brain paid more attention to them than to anything else.
+
+When you were born, your brain was like a computer without an operating system. You had some basic functionality, but you didn't know how to deal with people. Specifically, you didn't know how to get other people to do what you wanted.
+
+You paid a lot of attention to how your mom and dad tried to get each other to do what they wanted, and how they tried to get you to do what they wanted.
+
+Whatever strategies they used are probably the ones you use.
+
+We all want to not be like our parents, but that's easier said than done. You are working against genetic predisposition and years of training. It's not impossible, and it starts with understanding parental blindness.
+
+**Seeing your parents clearly**
+
+Before the Industrial Revolution, child mortality was extraordinarily high, and many children did not survive to adulthood.
+
+Childhood was a survival problem.
+
+Your chances of surviving childhood increased dramatically if your parents were intensely invested in your well-being.
+
+Children who rebelled against their parents, or who did not do a good job of earning their parents' favor, were less likely to survive childhood.
+
+Children who ran away from home had less chance of surviving and passing on their genes to their offspring than those who stayed home and accommodated their parents' weaknesses.
+
+Our brains are designed to accommodate our parents, not to stand up to them.
+
+One way our brains do this is by turning our R-rated childhood experiences into PG-rated childhood experiences.
+
+It's like you have a filter in your brain that turns the worst things your parents do into things that don't seem nearly as bad.
+
+It does that by removing the intentionality of your parents' behavior. If your mom or dad did something bad to you, like hit you or yell at you, your brain interpreted it as something they were doing for your benefit, or something they did accidentally without meaning to hurt you.
+
+The reality is much darker.
+
+Parents who yell at their children and hurt their children do it on purpose. They do it because they want their children to feel bad. They want their children to suffer. That is the purpose of the yelling and the physical abuse.
+
+When you are young, your brain is designed to protect you from the reality of why your parents do what they do. As an adult, it's important to go back to your actual visual memories and create new interpretations of why your parents did what they did.
+
+If you don't do this work, you will filter your own behavior through the same optimistic filter you granted to your parents. You will see yourself as much less cruel and much less intentional than you actually are.
+
+**Seeing yourself clearly**
+
+Your brain made a lot of assumptions about your parents when you were young. It assumed that they cared about you, that they were invested in you, and that they had your best interests at heart. To a certain extent, those assumptions were accurate, and to a certain extent they were not.
+
+As you go back and revise your assumptions about your parents based on actual evidence, you will find yourself more capable of seeing yourself clearly.
+
+The filters your brain developed to deal with your parents have been making it hard for you to see yourself clearly. As you dismantle those filters, you start to have a clearer picture of what you're actually like.
+
+Specifically, you can get a clearer picture of what it's like to be married to you or to be in a relationship with you.
+
+You probably underestimate the negative impact you have on your partner in the same way you underestimated the negative impact your parents were having on you.
+
+As you learn to revise that picture, you become a better partner. You become kinder, warmer, and more loving. You become more capable of allowing another person to disapprove of you and to disagree with you.
+
+You become capable of having a better relationship.
+
+![](/images/site/blog-3cc3eaa4f6.png)
+
+Your brain wants you to focus on your partner's impact on you. It wants you to feel like your partner has to change for you to be okay.
+
+Your brain does this because it's optimized to survive childhood, not to thrive in adult relationships. When you were young, your survival depended on your parents' level of investment in you. Your brain was designed to track that investment and respond accordingly. When your parents weren't invested in you, you were motivated to try to do something about that.
+
+If your parents weren't very invested in your wellbeing, you really did need them to change for you to be okay. There wasn't much you could do to directly impact the way the family system worked. All you could do was try to get them to change.
+
+As an adult, that's no longer true. You have just as much power and influence in your relationship as your partner does. That means you can change the nature of your relationship by changing how you show up in it. That was not true when you were a child.
+
+Your brain will try to convince you to focus on your partner's influence on you, even though that doesn't do you much good as an adult. All of the things your partner is likely to do this year are things you can handle, because you are an adult and not a child. You are capable of taking care of yourself in a broad range of circumstances, so most of what your partner does will probably fall within your circle of okayness.
+
+When you were young, that was not true. There were a lot of things your parents did that were more than you could handle. You had good reason to feel overwhelmed, powerless, and even afraid.
+
+When you focus on your partner's impact on you, your brain is focusing on inbound energy — what it's like for you to be married to your partner. It's not thinking about outbound energy — what it's like for your partner to be married to you.
+
+Helping your brain learn to focus on outbound rather than inbound energy is a lifelong task. It does not come naturally, but it's one of the most powerful things you can do to improve your relationship. Here are some questions you can ask yourself to accelerate this transformation:
+
+1.  What is it like to be married to me?
+    
+2.  What is it like to be on the other side of the energy I'm bringing into my relationship right now?
+    
+3.  Am I making my partner feel worse, or better?
+    
+4.  Is my anxiety impacting my partner?
+    
+5.  How does my partner feel right now?
+    
+
+As an adult, you can measure what kind of person you are by measuring the impact you have on the people you care about the most.
+
+If you ask me who I am, my answer will be: I am the impact I have on my wife. After that, I am the impact I have on my children. After that, I am the impact I have on my friends, clients, and family members.
+
+But most of all, the best definition of who I am is the impact I have on my wife.
+
+If you want to know who you really are, figure out what it's like to be married to you.
+
+![](/images/site/blog-70bcc88f62.png)
+
+When you don't feel like you're going to be okay, it's hard to be kind to your partner. Learning how to feel like you're going to be okay is the foundation of a good relationship.
+
+I call it a feeling of personal power. Personal power means I feel strong enough to take care of myself, even if my partner doesn't change. It means I'm not dependent on my partner the way I used to be dependent on my parents. It means I want my partner to treat me well, but I don't need my partner to treat me well, because I can take care of myself.
+
+Your ability to have a good relationship will always be limited by your own sense of personal power and okayness. No matter how well your partner treats you, if you don't know how to generate a sense of personal power and okayness internally, you'll always carry an excessive degree of caution and fearfulness into your relationship.
+
+This happens because the relational part of your brain is optimized for childhood, not adulthood. It was designed to pay attention to how your parents felt about you when you were young, because that was important for your survival. It's designed to operate in a family system where you, as the child, have very little power.
+
+If you want a better relationship, help your brain learn to adapt to the reality of being an adult in an adult relationship.
+
+![](/images/site/blog-0fff72c4b6.png)
+
+Intimate relationships are the primary driver of human growth.
+
+You fall in love with someone, but eventually your feelings fade and the reality of who you are starts to take over your relationship. You start to feel angry and resentful. Sex falls apart.
+
+You're bumping into the fact that your brain is designed to survive childhood. It's not designed to support a long-term romantic relationship.
+
+When you have an intimate relationship, you get forced into uncomfortable situations where you have to either grow or be miserable. That's why intimate relationships drive growth.
+
+When you grow, your relationship gets better, and as your relationship gets better, it drives even more growth. This cycle never ends.
+
+You do have a choice: you could have a cat or a dog and live by yourself. But most of us want to love and be loved, and if you want to love and be loved, you need to grow to become capable of loving and being loved.
+
+We all have to face this challenge. Every couple has relationship problems. Every couple struggles with communication. Every couple struggles with sex.
+
+There's one luxury in life that outshines all others: an amazing marriage. There's no reason you can't have that kind of marriage.
+
+![](/images/site/blog-182820ef43.png)
+
+Your default programming is to make a fuss when you don't get what you want. That's how you stayed alive as an infant.
+
+When you were hungry, you made a fuss.
+
+When you were tired, you made a fuss.
+
+When you were uncomfortable, you made a fuss.
+
+As you grew, you started looking for more sophisticated ways to get things that you wanted. You copied and pasted your parents' operating system into your own brain.
+
+How does Dad get Mom to do what he wants? How does Mom get Dad to do what she wants?
+
+Whatever tools they used are the ones you learned.
+
+If your parents were collaborative and kind, you also learned to be collaborative and kind. If your parents were deceptive and manipulative, you learned to be deceptive and manipulative. If your parents avoided conflict, you learned to avoid conflict. If one of your parents used emotional dysregulation to try to control the other, you took that to be a valid strategy.
+
+All of the programming you learned from your parents is still in your brain, and it's not going to go away.
+
+What you can do is become more aware of how your parents dealt with each other and how they dealt with you, and then make a deliberate effort to shift your behavior away from those patterns.
+
+One way to do this is to imagine talking to one of your parents about the impact they had on you. If one of your parents had a negative impact on you, imagine having a very direct conversation with that parent where you talk to them, one adult to another, about the impact they had on you. If you write down the conversation like a movie script, it forces your brain to get inside your parent's mind, so you can figure out what it was like for your parent in that moment. What were they thinking about you? What were they feeling about you?
+
+The more you understand of your parent's mind, the easier it is to separate out the person you want to be from who your parents were.
+
+We all copy and paste our parents' operating systems and operating instructions. But we don't have to stay that way.
+
+![](/images/site/blog-87207cb689.png)
+
+One of the biggest lies we're told in society is that the key to a good relationship is to find a better partner.
+
+The truth is that you will not be able to have a relationship with a better partner until you become a better partner.
+
+Use the relationship you have to get better at relationships. As you get better at being in a relationship, the relationship you have will improve. If your current relationship ends, you will also be capable of attracting a new partner who is already better at relationships.
+
+You might find yourself attracted to someone who's taller, shorter, richer, or poorer than you. But you will never find yourself deeply attracted to someone who's a lot less mature than you are. You will also never find yourself attracted to someone who's a lot worse at being in a relationship than you are.
+
+So if you want to attract a better partner, become a better partner first.
+
+<div class="embed-frame"><iframe src="https://www.youtube.com/embed/qE7n9_26B2Q?feature=oembed" title="Room recording - Apr 7, 2026" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>
+
+**James:** Is there ever a good reason to yell at your kids?
+
+[**Catherine**](https://catherineroebuck.com)**:** Maybe if they're actively running into traffic.
+
+**James:** That's exactly what I thought. If a child is about to run in front of a car, yelling can get their attention. In that case, the goal is safety, not manipulating behavior with shame or fear.
+
+**Catherine:** Right. You might need to raise the volume of your voice in an urgent safety situation, but you don't need to berate anyone or bring judgment, shame, or harshness to it. It can just be urgency. And if someone is right next to you, yelling may not even be the best response.
+
+In general, though, I'm not a fan of yelling at kids. I think it causes a lot of harm and has no real redeeming benefit. I had a client bring this up recently. He doesn't like the yelling in his home, especially when his partner yells at him, and he sincerely asked whether it was actually bad to yell at their kids. I do think it's bad, and I have a long list of reasons.
+
+One place I start is by asking why we yell at kids in the first place. Most adults can handle all kinds of interpersonal situations without yelling in every other area of life, and then in parenting we act like we have to do it this way. I don't buy that. If you can handle an emergency at work or a conflict with friends without yelling, why are you yelling at your kids?
+
+**James:** I think we yell at kids because we can get away with it.
+
+**Catherine:** Often, yes. I think you're naming entitlement, and I do think there's a lot of entitlement in parenting. I also think many people haven't thought much about their decision to yell at kids.
+
+One situation where I've certainly been tempted is with my teenager, who always has headphones on. If I want his attention, I could yell, but that's a line I don't cross with my kids. So instead I walk over and tap his shoulder, or sometimes I call his phone because that's what he's listening to music on anyway. It's easy as a parent to justify not doing the harder thing. Why walk over? Why not just yell up the stairs?
+
+What I object to is the harshness of it. Younger, smaller people need more gentleness, not more harshness. But culturally, there's a lot of conditioning that it's okay to be harsh with kids in ways you would never tolerate from another adult, or even from your child toward you.
+
+**James:** You've brought that up before, how hypocritical we are about allowing ourselves to do things to our children that we would never allow our children to do to us because we'd call it wrong or disrespectful.
+
+**Catherine:** Yes. I see that all the time. Parents will not tolerate their kids talking to them the way they talk to their kids. In general, I hold adults to higher standards than children, and I hold parents to higher standards than their own children.
+
+When you're dealing with young, developing brains, it's not realistic or fair to expect them to regulate themselves better than you do. What you're modeling is, "This is how we handle frustration around here. This is how we handle impatience around here." Then the whole household starts following that pattern, and everyone's frustration and anger build on each other.
+
+**James:** My favorite way to think about this is that we often talk about yelling as if it's just a response. You did something, I felt something, and then I yelled, as though I had no say in the matter.
+
+I think a more accurate way to describe it is this: my behavior is designed to create an emotional response in you. If I yell at you, I'm trying to make you feel bad so I can manipulate your behavior. I really think that's what's happening most of the time.
+
+**Catherine:** Yes, and one of the reasons I think yelling doesn't work is that it conditions the wrong thing. A lot of parents yell because they want their kids to do chores. But if the kid learns, "I jump up and do chores when someone is angry and yelling at me," then the child isn't developing self-regulation or any real sense of responsibility. The trigger for action becomes aggression.
+
+That always backfires, because then you have to keep reaching for that same trigger over and over. No parent actually wants that. They want the child to do the thing without that level of intervention, but yelling teaches dependence on harshness.
+
+**James:** I also think a lot of us grew up with physical punishment, and most of us are trying not to raise our kids that way. That gives kids more freedom.
+
+My kids don't have to clean their rooms the way I did. I cleaned my room to avoid physical punishment. My kids don't have that threat hanging over them, so I think it's fair to say they won't be as obedient as I was. There's no threat of physical punishment driving that obedience.
+
+**Catherine:** Right. You're running into the limits of how much control you get over another person when you're not going to use aggression, verbal or physical. Aggression can force compliance in the short term. But what it doesn't do is help kids develop a genuine sense of responsibility that isn't tied to fear and resentment.
+
+**James:** It's delicate, because people are naturally wired to seek autonomy, even very young children. When I was growing up, there was a constant threat of physical punishment, so one path to autonomy was doing what I was told in order to avoid something worse.
+
+My children aren't in that situation. If I don't handle myself well and there's no threat of physical punishment, then disobeying me can actually feel like the path to more autonomy for them. I think it's pretty normal for kids not to do what their parents want if they don't gain any autonomy by doing it.
+
+**Catherine:** That makes sense to me. I've been running a not entirely conclusive experiment with my own kids for years, which is basically: will kids do housework if you don't make them?
+
+I really don't impose many chores. What I've found is that they will help if I'm sick. They will help if I'm genuinely overwhelmed. They will help if we're trying to leave for a trip and I calmly explain, "We can leave as soon as these things are done, and I'd love your help." They do some things most days if I simply ask in a calm way. They'll walk the dog, pick up dishes, things like that.
+
+And as they've gotten older, more and more they just spontaneously clean their rooms. I never made them do that. My theory is that the main thing I'm offering them is a model of non-resentful housework. I don't stomp around the house acting like a martyr and saying people treat me like a maid. I just take care of my stuff and my space as best I can. I think the main thing I'm offering them is the absence of negative emotional intensity around it.
+
+We'll see how it plays out when they're living on their own, but so far that seems to matter.
+
+**James:** I've had the same experience. I stopped trying to get my kids to clean their rooms several years ago, and all three of the ones still at home eventually started cleaning them on their own.
+
+The longest gap between when I stopped trying to force it and when it started happening on its own was about two years. The others were shorter. They all eventually figured out that they actually wanted a clean room. I don't think I could have accelerated that, definitely not by yelling and probably not by consequences either.
+
+The only thing that seems useful is what you're talking about: modeling what it looks like to maintain a clean, orderly space and making it clear by your behavior that life is better that way, without shaming them. I think most young children don't want a clean room enough to do the work of making one. Some do, but most don't. And it's actually pretty hard for young children to put things in order.
+
+**Catherine:** I remember being extremely overwhelmed by cleaning my room as a kid. It felt like I didn't know how to do it. I remember being five or six, sitting there surrounded by stuff, and not knowing how to get it from the state it was in to an acceptable state.
+
+That seems developmentally realistic to me. If you've grown up in a very structured environment or a Montessori environment, maybe you've got more skills than I had. But I think we sometimes read kids as lazy or disrespectful when they're actually just struggling with something that is genuinely hard for their young brains.
+
+**James:** I think we teach kids ten times more through our example than through our words. If I want my child to be kinder, more courageous, or more considerate, talking to them about that will do very little compared to me behaving that way.
+
+That puts me in a hard position because if I want my kids to be more respectful, the best thing I can do is be more respectful to them and to my partner. That's hard for me. And it's useful for me to notice that, because if it's hard for me, it's going to be even harder for my kids.
+
+**Catherine:** As a rough metric, if your child is a third of your age, it's probably realistic to expect them to be maybe a third as good at emotional regulation. If they have a third of your capacity and they're a third your age, they're probably doing fine.
+
+What doesn't feel good is that parenting puts your own struggles right in front of you. It's a lot easier to externalize that and blame the kids and say they're being disrespectful.
+
+**James:** Parenting really does demand that I grow myself up. To be a good parent, I have to ask, "What is my impact on my children? What is it like for them to be on the other side of the energy I'm bringing?"
+
+That's the same question I ask in my marriage. But my wife is more capable of giving me collaborative, constructive feedback than my kids are, because there isn't the same power differential. With my kids, I have to do even more work to figure out what it's like to be on the other side of me.
+
+One of my four kids is especially good at telling me. From his early teen years, he'd stop me and say, "No, wait a second, Dad," and point out where I wasn't living up to what I was saying. That was a real gift. Sometimes I had enough presence of mind to say, "You're right," even though it felt terrible. My other three kids couldn't really do that, at least not until they were adults.
+
+**Catherine:** What you're highlighting is how hard it is to get real feedback from your family about how you're actually showing up, and yet parents often feel entitled to go around giving feedback constantly.
+
+We don't watch our own delivery enough. Am I being respectful to my kid here? If a child says something clumsily and the delivery is off, we might immediately say, "That's disrespectful. You can't talk to me that way." But receiving feedback is hard. We could use more compassion for how hard that is, especially given how much feedback we give kids about their behavior.
+
+**James:** I run into this with couples. They'll complain that their kids are disrespectful, but I'm sitting there watching the parents be disrespectful to each other. From my point of view, it's obvious their kids will also be disrespectful.
+
+Children's brains are looking for an operating system, and they're going to download whatever operating system is available. If the parents are disrespectful to each other, and probably to the children too, then the children are going to learn disrespect. There's no magic switch where I can treat my child and my partner with disrespect and then somehow expect my child to know how to be respectful to me. That's not possible. Where would they have learned it?
+
+**Catherine:** I have seen parents who treat the kids a lot better than they treat their partner, and they seem to think that's enough. But it's still a parenting problem if you're treating your partner badly in front of your kids.
+
+**James:** If my kids are used to dealing with my dysregulation, then they're learning that this is what it's like to be with someone who's supposed to love you. In their future relationships, they may end up on either side of that pattern, either "You need to help me handle my dysregulation" or "I'm going to help you handle yours." In neither case is anyone really responsible for managing their own emotions.
+
+**Catherine:** Exactly. With yelling, kids wire that into attachment. They're at risk of growing up and either yelling at their partners or being with partners who yell at them, or just treating each other with hostility in general, because their brains have mapped that as a normal part of love and attachment.
+
+**James:** And the way our brains develop is so hard to change in adulthood. I can give my kids this huge gift by showing them how this is supposed to work so they don't have to spend their thirties and forties rewiring it. It's much easier to learn it straight from a parent than to untangle it decades later.
+
+**Catherine:** The first time I read *Brain Talk*, I felt a real urgency to clean up a lot of my parenting and not just my parenting, but my own brain.
+
+It's not that you lose influence when kids reach adulthood. You've talked about how your continued growth has still had a huge impact on your adult kids. When I work with clients who wonder if it's too late to repair the damage they did as parents, I always ask whether it would matter to them now, today, if their own parents really looked at themselves and changed. And people always say yes, it would matter so much.
+
+So no, it's not too late. But there is a special window when kids are living at home and their brains are still developing, and during that time your influence is enormous. More warmth and kindness are like the best inheritance you could give them. It's a gift that can pay dividends for generations.
+
+**James:** I like calling that emotional wealth. You build emotional wealth in your family and pass it on to your kids.
+
+**Catherine:** I really like that way of thinking about it too.
+
+**James:** It accumulates and compounds just like financial wealth. If I save and invest beyond what I need to live on, that money compounds. Emotional wealth works the same way. If I build extra kindness and respect into my family, it compounds over time and across generations. You get people who are more courageous and more kind because the family got set on a path of growth instead of stagnation.
+
+**Catherine:** I agree. Each of these changes is hard, especially if you're the first generation trying to make them.
+
+If you're the first generation saying, "I don't want to use physical discipline," that's a hard shift. But once you've made it, your kids won't have to struggle not to repeat something that was never done to them. Then they can focus on something else, maybe how they talk to their kids. And the next generation after that might focus on adding even more positive interaction. It really does compound.
+
+**James:** I like to think of the brain as having a kind of safety mechanism. When I feel under threat, my brain locks down and stops adjusting and growing.
+
+If I yell at my child, I'm putting that child's brain on safety lock. That's the whole point of yelling. I want them to go into survival mode and react to me as if I'm a threat. But a brain in survival mode is not growing. It's reacting. If I put my child there over and over, their development gets pushed behind what it could have been. A lot of that can be recovered later, but it's so much better not to put them there in the first place.
+
+**Catherine:** Yes. Neuroplasticity is incredibly exciting to me. The fact that we can change our brains in adulthood has changed my life. Even so, it's a lot of work.
+
+I've thrown all kinds of things at my own brain trying to help it outgrow patterns that didn't have to be there in the first place. I wouldn't want that for my kids. As grateful as I am for neuroplasticity in adulthood, I hope they won't need it to the same extent I did.
+
+**James:** I hope so too. I think you're on a good path.
+
+**Catherine:** I hope so. It would be nice if they could use their brain's plasticity for creativity and growth instead of needing so much of it just to retrain themselves not to yell at their kids.
+
+**James:** Exactly. We're always going to be growing. The question is: what rung on the ladder do you want your kids to start on when they're twenty? Do you want them starting at the bottom, or already halfway up?
+
+Parenting is such an unusual responsibility. I can't think of many other situations where someone holds this much influence over another human being. With a young child, it almost feels like accepting an infinite quota of responsibility. Everything I say and do has an immense impact on this little person, and there often isn't anyone there to hold me accountable except me, or maybe my partner if I have one.
+
+I have a friend who's a single dad with a very young daughter, and when he's parenting her, all of that responsibility is on his shoulders. He's the only one there to hold himself accountable. That's a profound responsibility.
+
+**Catherine:** When I work with people in their seventies, we're still looking at the impact of their early life, especially the impact of their parents. Their parents may be long gone, but that's not the point. Their brains are still shaped around who their parents were and how they were treated. In that sense, the impact of parenting is never really over.
+
+**James:** It really is a huge responsibility. When I first came into contact with my impact on other people, I felt a lot of distress about it. I don't feel that way as much now. I'm more focused on this: it's okay for me to be who I am right now, and it's okay for me to have been who I was. Going forward, I want to pay a lot of attention to my impact on the people I care about most.
+
+**Catherine:** And your kids will be mapping that too. They'll map that you care about continuing to grow. The direction matters. You don't have to be perfect. They can tell whether you're moving toward treating them better, and that matters.
+
+**James:** Yeah. All right, I think we should end there. Thank you so much.
+
+**Catherine:** All right. Thanks, James.
+
+**James:** Okay.
+
+<div class="embed-frame"><iframe src="https://www.youtube.com/embed/90MXFG4khi4?feature=oembed" title="Taking Off the Mask in Your Marriage" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>
+
+**James Christensen & Catherine Roebuck**
+
+**James:** There's a thing I tell clients who are trying to regain their partner's trust after cheating. One way to regain your partner's trust is to reveal things that are in your mind — things that are going to be hard to reveal, or that your partner might not like to hear. Because those are the messy things you'd be tempted to hide. To gain your partner's trust, you want to get better at revealing more of your mind. Revealing the messy things makes you more trustworthy, even though it might upset your partner in the short term. Does that seem true to you?
+
+**Catherine:** Yeah, but I think it's missing one piece. You still have to be considerate while you're doing it, because you can just dump your mess on someone over and over. Like, "I was just thinking about how this other person at work is so much more attractive than you, and I'd way rather be with them." That's not going to help. You have to take responsibility for what you're revealing and for what's actually in your mind. The liability I see is that someone could go from hiding everything to revealing everything, but still not dealing with anything.
+
+**James:** So: I'm going to reveal what's in my mind, *and* I'm going to take responsibility for changing the things I do that are harmful.
+
+**Catherine:** Right, and every time you reveal something, you do have to look at why you're sharing this. If you find some kind of problem in your mind and dump it on your partner, but you're not in a place where you're serious about addressing it, this is just going to make your partner's anxiety go up. They're going to think, "This is even worse than I thought."
+
+**James:** Yeah, it's delicate.
+
+**Catherine:** It is.
+
+**James:** As I think about masking, I often consider revealing things to my wife that I never would have revealed before. But I try to pause and think about what the impact will be. Is this worth revealing? The difference is that I didn't even used to consider it, and now I do. I think about whether it's useful to reveal right now, or tomorrow. Sometimes I won't reveal something in the moment, but I'll think about my intentions, the impact, the way of revealing it, the time and the place. In the end, I want to reveal most of what's in my mind. But as you're saying, revealing can be used to harm as well as to help.
+
+**Catherine:** Totally. And it's not a substitute for dealing with what's in your mind. But I also run into people who have this idea that they're going to go in secret — without confiding in their partner at all — secretly clean up this whole mess in their mind, and then never have to talk to their partner about it. I've had clients who had an affair years ago, coming in saying they're going to work through it but still never tell their partner. I have reservations about that because it's not really fair. You're not giving your partner a choice.
+
+**James:** I don't think you can clean up an affair without telling your partner. You're still deceiving them. You're allowing your partner to think you've been faithful when you haven't. The deception is still ongoing. You're not really cleaning anything up.
+
+**Catherine:** That's my view as well. There are people who think differently, who think it's sometimes better not to reveal it. But I think if you're going to continue a relationship — a sexual relationship — and you're going to continue asking your partner to open up to you, holding that kind of thing back isn't going to work.
+
+**James:** That's interesting that people still recommend that. There's such an emphasis on not hurting someone's feelings, which I think is the wrong emphasis. The emphasis needs to be on caring about the other person and presenting myself in a congruent and authentic way. There are things I've done that have seriously been hurtful to my wife, and if I don't reveal them — the thing is, the harm has been done regardless of whether I reveal it or not. This idea that the harm is in the revelation doesn't line up.
+
+**Catherine:** I agree, because the harm exists. Most likely, the partner in that situation is walking around with a sense that something happened. They don't really know what the problem is, but there is a problem. There's some reason they don't trust their partner, and it's been this way for years. The idea that they might get angrier when you reveal it — that's not the harm. The harm has already happened. I still think it can be restorative to bring something to the surface and give your partner a choice. If you've really worked through it and you're with a reasonable person, there's a decent chance they'll be able to see what you've done and make their own decision about whether that resolves it for them.
+
+**James:** I was talking to someone the other day about how they were trying to use an apology to control the other person's feelings. This client said, "I'm sorry for what I did," and then got upset because their partner didn't feel better instantly. But the apology is you taking responsibility for what you did. It doesn't mean the other person is going to feel better instantly. Now you're trying to control their feelings and getting upset at them for not changing how they see you just because you said something. They're actually going to base what they think about you on what you do, not on what you say.
+
+**Catherine:** Do you see that apology as a mask?
+
+**James:** It's interesting — when this client told the story, I initially assessed that the apology was not genuine. What happened is Partner A told the story about Partner B apologizing, and I thought it sounded like a general apology. But then Partner B came in and told their side, and I realized it actually probably was genuine. But then they got upset about Partner A not forgiving them immediately, so it seemed like a separate problem — more of a fragility thing.
+
+**Catherine:** That idea that they're really sorry but they're mad that you don't immediately forgive — that doesn't line up for me. Part of being really sorry about hurting someone is being willing to make real contact with the impact of what you did. Your partner's reaction *is* the impact of what you did, at least a big part of it. So here one partner is saying they've dealt with it and they're really sorry — putting forward the idea that they've made real contact with their impact. But then their partner shows them that impact and they're like, "How dare you show me that."
+
+**James:** Yeah. And there's also a disagreement about who's responsible for what. He was saying, "I'm sorry for what happened, but I don't think your emotional response is appropriate." That's fine, but he needs to hold onto that line instead of saying, "I said I was sorry, now you need to stop feeling bad" — which is a whole different thing. I think it's an over-belief in the power of words. The idea that "I said a certain thing, so you need to feel a certain way." Feelings are more often a response to behavior, not to what someone says.
+
+**Catherine:** The behavior I see here is the apologizing partner actually breaking contact at the very moment they're getting a view of their impact. That makes me not trust how real this apology is. How much have they actually dealt with this? Even if your partner is having an overreaction — you really hurt your partner. Can you handle sitting with them for a few minutes through their overreaction? That seems like a fair thing.
+
+**James:** Yeah, absolutely. The difficulty — and I face this — one of the most powerful words I learned in my own marriage therapy was the idea of *fragility*. I'd never been described as fragile before. We men love to think of ourselves as super strong, rock solid, no feelings. "Say whatever you want about me, I can take it." What I learned in marriage therapy is that I am actually quite fragile, especially around my wife. The slightest hint of her disapproval just really gets to me, and that causes a lot of problems because I react intensely. My intense reaction affects her, and we go through this whole dance.
+
+Part of our path of growth was for me to learn to comfort myself when I feel threatened by her criticism. Whether it's valid or not — it's not so much related to how right she is, it's related to the idea that she sees me in a critical light, and that's hard for me to handle. That's something for me to work on. What I tell clients is: can you give your partner permission to see you how they see you, instead of trying to change it all the time? I'm going to handle my own feelings about that — which are intense — but I'm not going to put the responsibility for my emotional response to your criticism back onto you. That's my responsibility.
+
+**Catherine:** If I go back for a minute to this partner who apologized and then the spouse was overreacting — an overreaction is just a reaction to something historical. It's not necessarily something from this couple; it could be a reaction to something from childhood. Part of taking in the impact of what you've done to your partner is understanding that you did it to a person who was already raw in this area. Say it's some type of deception, and this spouse has some historical reason from childhood that makes deception feel particularly frightening. If I'm going to deal with the impact I've had on my partner, I have to hold in my own awareness that I didn't just deceive someone — I deceived someone who already had a predisposition to really struggling when someone deceives them. This is very tender, and I probably knew that already. If you care and you're serious about cleaning up your impact on people, you have to be willing to make contact with who you did it to.
+
+**James:** I agree. My impact on my wife is related to my behavior, our history, who she is, and her history before I ever met her. It makes sense for me to take all of that into account and not to blame her for being who she is. I married her the way she is, with her particular sensitivities and tenderness and fragility around certain things. Those things were true before I ever met her, in large part. I chose this person, and when I chose her, I chose her with all of her fragility and frailty and sensitivity.
+
+**Catherine:** Exactly. If you're going to love someone, you're loving a whole person. There are things about them that predate you, and just because you didn't cause that in them doesn't release you from caring about the fact that it's in them — and that it could really sting if you step on those spots.
+
+**James:** One thing I've done as I've worked on taking my mask off in my marriage is I've practiced sharing more of what's going on inside me — including my feelings and my thoughts. That's interesting because I often advise couples not to talk about their feelings, but in my case, it has been useful to talk more about mine.
+
+The context is that I went from zero to one, not from nine to ten. I didn't used to talk about my feelings at all. I didn't even really believe I had feelings — I was pretty disconnected from them. Over the last year or so, I've said things like, "I'm feeling really angry right now," which I had never told her before. I would be angry, and I would give no overt indication of it. I wouldn't have an angry face, and I wouldn't do angry actions — not immediately, not what people associate with anger. I would get condescending and manipulative, which is where my anger goes.
+
+What I try to do now is say, "I'm feeling really angry right now." It's helpful to just bring that out. She actually really appreciated it — I remember the first time, she said, "Thank you for telling me that." We were in the car, and I said, "I'm angry right now," and she had this breeze of relief. Not what I expected, but she knew already. I was pretending to be fine all the time when I obviously wasn't. It was helpful for me to take my mask off a little bit in that regard.
+
+**Catherine:** I love that word, *congruence*. The opposite of wearing a mask is being congruent — where what you do and what you say and the feeling of being around you and the tone of your voice all line up. That's what's so difficult about being in a relationship with someone who's masking a lot: they don't line up. They're telling you they're fine, but you can tell they're not fine. They're telling you they're not mad, but you can tell they are. You can tell they're hiding something, and they get mad every time you try to talk to them about it. All of this is very stressful.
+
+The congruence is just: can you be real with me? But not in an indulgent way where you're saying, "Now you deal with everything about me that I'm not dealing with." When you told your wife in the car that you were angry, you weren't yelling, you weren't berating her. You weren't venting your anger at her. You were just sharing what was actually going on for you. And when you say you often tell couples not to talk so much about their feelings — I think it's more about the venting. It's about dumping or becoming aggressive with your feelings, using them like weapons, or the idea that because you feel something, your partner has to change.
+
+**James:** Exactly.
+
+**Catherine:** I don't think you can love someone without caring about your feelings or sharing them. But a lot of what we actually do in relationships is different from that — it's more like, "I can't handle my feelings, so here they are. You deal with them."
+
+**James:** Exactly — "It's your responsibility and your fault. My distress is caused by you, and you're going to be the solution to it. I'm not going to do anything about it. I'm not going to calm myself down, I'm not going to comfort myself. That's all on you, and it's all your fault." That's kind of the traditional approach in marriage. And that approach made sense when we were young and dealing with a parent who had the responsibility to take care of us. I don't think it makes sense in adult relationships.
+
+**Catherine:** Right. Our first attachment experience involves a genuine imbalance where there's an adult and a child, and the adult has more capacity and responsibility to regulate both people's emotions. Then you get into an adult relationship where you're actually on equal footing, but your brain is still wired for a close attachment where you're expecting the other person — this powerful, magical other — to be the one who helps you with all of this, because you still feel kind of small and haven't figured out how to handle it yourself.
+
+The other way it can go is that sometimes you have a parent who isn't able or willing to do a lot of regulation, and you end up — even as a child — regulating them. Some people fall into a pattern of over-functioning and caretaking in their adult relationships, taking too much responsibility for themselves and their partner.
+
+**James:** There's a tradition in couples therapy — it comes from nonviolent communication, and it's also common in things like Gottman therapy — where the approach is: "I'm going to talk to you about my feelings and my needs. This is what I feel, and this is what I need."
+
+I strongly disagree with that model. What I tell people is: don't talk to your partner about your feelings or your needs. Say, "I want to talk to you about your behavior. This is what I see you doing, and this is what I want you to do." I think that makes a lot more sense because my wife is not responsible for what I feel, but she is responsible for what she does. She's responsible for her behavior.
+
+Even though I do tell her what I feel occasionally, if I really want to deal with a problem in my marriage — and I've already dealt with my side — I think the best approach is to say, "This is what I see you doing, and this is what I want you to do," as opposed to "I have a certain need" or "I have a certain feeling," which just doesn't seem precise enough. What is she supposed to do about it, and why is it her responsibility to make me feel differently in the first place?
+
+**Catherine:** The thing I wonder about is: where's the vulnerability if you're just talking about their behavior and what you want? I do think talking about your own internal experience — including your feelings and emotions — can be vulnerable. A lot of times it's done in a way that's not actually vulnerable, but it can be. I see that as part of what you want to do when taking off a mask in a relationship: actually showing your partner a vulnerable side.
+
+**James:** Yeah. It can be vulnerable. The reason I steer people away from it is that they're doing it manipulatively. When I see couples using their feelings to manipulate each other, that's when I'll say, "Let's stop talking about your feelings, because you're using them to manipulate each other." In the future, you can learn to share your feelings in a collaborative way, but right now that's not happening.
+
+So if you want your partner to do something differently, figure out what that is and ask for it directly. Part of the reason we don't do that is because when I do that work and say, "The thing I want my wife to do is this," I'm admitting that it's not my choice — it's her choice. The temptation is to say, "I feel this and I need this," which implies that she has to do what I need and take care of my feelings. I think that's the manipulative implication. I want to go straight to, "I want you to do this," because there's an admission in there that this is what I want, but it's not my choice.
+
+**Catherine:** And that's actually a more vulnerable position as well, because it's being honest about the limits of your power. I do think there's a lot of benefit in making requests versus complaints. If you say, "I'm feeling abandoned," that's a complaint. But if you say, "I'd really like to spend an hour with you tonight," that's a request — and it's much more inviting. Saying "I'm feeling abandoned" draws your partner right into a dynamic where they're very likely to become defensive. If they're super skillful, they might not, but they're probably not super skillful. You might need to be more precise about what you're actually asking for and be willing to step into the vulnerability of asking.
+
+**James:** Exactly. Now, there's a flip side. My wife and I — I feel an abandonment panic quite a bit, several times a week. But we've talked about this extensively and have a pretty solid understanding that my abandonment panic is not her responsibility. I'll come to her and say, "I feel an abandonment panic right now," and she knows it's not her job to help me deal with it. If she wants to, she can look at how well she's showing up as a partner, but it's not a request for her to do something about it. There's an acknowledgment between us that this is mine to deal with.
+
+It doesn't lead anywhere good if I bring that panic to her as though it's about her, because it's not really about her. She's not doing anything responsible for the intensity of my feelings. My feelings are really intense, and they're tangentially related to what she does, but not directly. I've been deployed for months in the military and been fine, and then she goes out with her friends one night and I'm dying inside. It doesn't make any sense. I can't hold her responsible for feelings that predate her by quite a bit.
+
+**Catherine:** Right. And she's actually doing you a favor by bringing them up over and over, giving you lots of opportunities to get precise and clear about what's really going on.
+
+**James:** There was this one time in therapy. We were sitting right here, and I was going through some really hard feelings during the session. Molly reached over and grabbed my hand, and the therapist said, "Molly, take it back. Don't do that. He needs to figure out how to handle this." Molly sheepishly pulled her hand back. The therapist said, "Let him deal with this for at least 30 seconds before you reach over." She was right — it really is good for me to learn how to handle my own feelings. If I constantly try to outsource that to her, it's not a long-term solution. It doesn't work in adult relationships for someone to be constantly taking a parental role.
+
+**Catherine:** No, it doesn't work. It leads to burnout and resentment on the side of the person doing it. It typically also leads to resentment on the side of the person receiving it, because it's never actually enough. And there's this powerlessness or panic of, "What if you were to stop?"
+
+**James:** Exactly. It just prolongs the problem — now I'm even more dependent. But as the marriage gets better, we naturally get more warm and kind and caring, and these things get easier to handle. That's a byproduct of us getting stronger. The strength comes first and the kindness and caring comes second, not the other way around.
+
+**Catherine:** And then it has a different meaning. It's more about "I'm here and I care," not "I'll solve this for you" — which you can't.
+
+**James:** Right. It's not "I'm going to keep you from feeling this horrible thing." It's "I actually care a lot about you and I care about my impact on you" — which is different from "I'm going to avoid what I feel when you feel strong things" or "I'm going to accommodate my anxiety by trying to do something about your anxiety."
+
+**Catherine:** Yeah, that makes sense. So if someone's watching this and thinking, "Okay, I can see it — I wear a mask all the time, at least around my spouse," what do they do? How do you take the mask off?
+
+**James:** It's been such a hard process for me. I don't even know where to start. This has been really hard for me, and it's really hard for me to help clients with. I think I'm still kind of stumbling through it. What I have told clients is what my therapists have told me: tell your wife what it's like to be you right now. But be careful, because that can quickly turn into manipulation. It's this delicate thing of revealing your inner state to your wife while being really careful not to use it to manipulate her. And that's really hard.
+
+In the past, part of my justification for not revealing was that I've seen this used to manipulate people so often. That was part of my hesitance. But there is a way to say, "I'm feeling really angry right now" or "I'm having an abandonment panic" where it's not designed to manipulate — it's just what's happening.
+
+**Catherine:** Yeah. Sharing your internal experience, but not making up a story about the other person being the cause or solution to it. Something we've done together is improv classes — just to learn to respond to things in the moment when it's actually moving too fast to manage masking the whole time. It's been a lot of fun and very effective for learning to access and show a range of emotional expression in real time. It was crazy hard at first, but it's gotten easier over time.
+
+**James:** Improv has been one of the most humbling experiences in my entire life. I did a play in high school and I view myself as someone who's good at speaking, so I thought I was going to go to improv class and shine. I got on stage the first time, they gave me the scenario, and I couldn't say anything. My mind went completely blank. I tried again and again, and I fell on my face consistently. To this day, I've spent hundreds of hours in improv training, and I'm a mediocre performer. It doesn't come naturally to me because it requires me to let go and genuinely respond to what's happening right now without thinking it through first. That's really hard for me.
+
+**Catherine:** I think a lot of it is building your connection with yourself. There are different pieces — do you even know what's going on for you? And then, can you handle showing it in real time? Figuring out what's even going on for you can be helped a lot by coaching or therapy, connecting with friends who are interested in deeper connection, doing bodywork or yoga — anything that gets you to be present with yourself more.
+
+I also think self-compassion is really important, because you start to come in contact with things you don't like when you look at your own internal experience. The more you're able to face something intense without going into a spiral of judgment, shame, and despair, the more you're able to get to know yourself and tolerate showing what's really going on to other people. Sometimes people will have a bad reaction — they'll shame you or judge you or be harsh with you. That's life. And if you can't handle those reactions inside yourself, you're definitely going to struggle when it comes from outside of you.
+
+**James:** You're reminding me of one of our mentors who said, "It's okay that you pulled my pants down, because I know how to pull them back up." She was talking metaphorically, of course — someone had done something designed to undermine her in a public setting. That had an impact on me. If I get up on the improv stage and make a fool of myself, it's that same feeling of being really embarrassed in public, which is super hard for me to handle. Can I comfort myself and take care of myself and support myself in that moment? Can I handle the feelings and handle the reality and center myself and be okay again?
+
+**Catherine:** I think about it as: can I restore my own dignity? Whether it comes from humiliation or from exposing something yourself that you then regret — can you get your feet back under you? Deal with the heat in your face? Deal with the thoughts in your head? Integrate this into the overall sense of being a human who's alive and imperfect?
+
+Building on that is super empowering. You can handle taking more risks and being closer with people when you know how to restore your dignity or take care of yourself after that kind of exposure — or even after an attack. Sometimes people really aren't kind or fair to you. Do you know how to have that experience without turning on yourself as well?
+
+**James:** It's so critical. We have this defect model in psychology where you have this disorder or that disorder, and it seems so harmful to me because it's like imagining there's some perfect human out there who has no disorders. I don't see it that way at all. We're all trying to help our brains grow into becoming capable of loving and caring — especially in marriage. I don't think any of us are natively capable of having a good marriage, but we can learn to be capable of having a better one.
+
+That's not a defect model, it's a growth model. I'm perfectly fine the way I am, and I want to be a better husband. I'm okay the way I am, and I want to have a better marriage, and there are things I can do about that. It starts with accepting myself just the way I am — a difficult and critical first step.
+
+**Catherine:** I think marriage puts pressure on everyone to some degree, and it puts much more pressure on you if your early attachment experiences were more hierarchical or difficult. It's an attachment experience that is peer-to-peer — there's not a more powerful other with more capacity who can lift you up. You actually have to show up and expect as much of yourself as of your partner, and that can be a new experience.
+
+There's a huge range in how difficult it is based on where you come from. How much have you ever experienced telling someone you have a problem with something they did and having them just take that in without getting defensive or mean? How much do you know how to do that yourself when someone gives you feedback? How safe was it to let people know what you were feeling in real time, where you came from?
+
+**James:** I think it's useful to keep in mind that the level of difficulty is significant for everyone. It goes from difficult to extremely difficult. It's an adult attachment experience where I choose a person, and that person moves into the place in my brain of "this is the person who's supposed to love me, the person who's supposed to put me first." That place was formerly occupied by my parents, and because of that, a lot of my brain wiring around that person is inappropriate for an adult relationship. I'm going to expect them to handle themselves a lot better than I handle myself, to be more regulated, more kind, more loving than I am.
+
+As you said, that makes no sense at all, because we marry at our own level of emotional development. If some woman who was way more developed than I am had been out there, she's not going to marry me. I'm going to end up marrying someone who's operating at a similar level. It's not reasonable for me to expect my wife to be a lot more mature, settled, regulated, or kind than I am.
+
+**Catherine:** Yeah, because that would interfere with attraction.
+
+**James:** Right. And there's this experience where you meet someone who's significantly more developed, and there's just no attraction there.
+
+**Catherine:** Or you could admire someone but think, "They're out of my league. I wouldn't want to let them too close because they're going to see what's going on inside me."
+
+**James:** I had this experience in my twenties. There was a woman I'd liked when we were teens, and we met again in our twenties. I really liked her, but she said, "I used to like you and now I don't." I think she grew up more than I did over those years. She saw me as someone who was kind of stuck, which was true. She had moved on and I hadn't.
+
+**Catherine:** A last thought about building your tolerance for taking off the mask: I think it's about tolerating the intensity of person-to-person, mind-to-mind contact. One way you can work on that is to give yourself experiences of spending time talking with somebody who can offer you more contact than you can tolerate right now — like a coach or a therapist. You want to give your brain time to map the experience that someone could see more of you and continue to mean well toward you, continue to be fair, continue to have compassion for you. That can actually help you build on it yourself. I think this is transmitted human to human. It's not something you can read in a book — you have to actually experience it.
+
+**James:** I've been toying with the idea of writing a book, and I'm bumping up against exactly what you said. I don't know how to transmit this in a book. I barely know how to transmit it in person. I would love to find a way to teach a lot of people at once what we're talking about right now, but I'm not sure it's possible.
+
+**Catherine:** Yeah. I don't think it can be done en masse at the level it can be done in small groups or person to person.
+
+**James:** I've seen it done with a couple dozen people, and that's the best I've seen. If I imagine that group expanding to 50, 60, or 70, it seems like it's going to drop off because that level of contact becomes basically impossible.
+
+**Catherine:** Right. It's how many human minds can you track at a time?
+
+**James:** Exactly. I can maintain contact with 10 or 20 people, but can I really maintain contact with 50 at the same time? Probably not. Okay, should we end there?
+
+**Catherine:** Yeah. Thanks, James.
+
+**James:** Thank you, Catherine.
+
+<div class="embed-frame"><iframe src="https://www.youtube.com/embed/FLu8fQNovLs?feature=oembed" title="How to Heal your Trauma" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" loading="lazy"></iframe></div>
+
+**A Conversation Between James Christensen and Catherine Roebuck** *March 30, 2026*
+
+**James:** The way I think about it is the more intense an experience is—well, maybe a better way to define it is the less capable I am of handling any one thing that happens to me, the more my brain will encapsulate that experience and not connect it to other experiences. So I think of it as an encapsulation or a protective mechanism where the brain says, "This thing happened," and it's sealed off and stored separately from everything else. It's going to have its own special little category, locked up in this little box, and the key gets thrown away.
+
+Not necessarily that I'm not going to remember it—I may or may not remember it—but I'm not going to plug it in. I'm not going to connect it to all of my other life experiences. It's going to be separated out by itself. And I think that exists on a spectrum. The more intense and the more harmful an experience is, or the less capable I am of handling any given experience at any given time, the more encapsulated and protected it gets in my memory. That's kind of the way I think about it. What do you think about that?
+
+**Catherine:** That makes a lot of sense to me. There's something I read the other day that said the more reactive you are to a trigger, the younger you were when you first encountered that kind of problem.
+
+**James:** Right.
+
+**Catherine:** And that lines up with what you're saying, because the younger you are, the fewer options you have for what you can do in the face of something overwhelming. If you encounter something as a baby or a toddler that's very distressing, basically your options are you can appeal to your caregivers by crying and hope that they come through for you. If they don't come through for you—if they're not available or not responsive, or they're the ones actually causing you harm—you don't really have a lot else you can do.
+
+You're out of options really quick when you're young, and so you can have a very big reaction to something if the first time you encountered it, you had very few options. You were super dependent and young because it genuinely was an existential threat at some point, and it'll still be wired that way in your brain. Your brain will wire it up originally as "This is an existential threat if this happens," and even if it's no longer true because you're an adult with other options, if you haven't reworked that, you can still react to it with that level of panic.
+
+**James:** And panic was the appropriate response when you were young and helpless. That was the best thing you could do. In fact, it was important that you respond to dangerous things with extreme distress or panic and make a lot of noise about it, because that's how you stay alive as an infant and a toddler—by making a big fuss about things you can't handle.
+
+**Catherine:** Yeah, that can happen. Or at some point, an infant or toddler could also just shut down. It's not always getting loud. Those are kind of your options: you can get loud and ask for help, or you can dissociate and shut down. Those are pretty much what you can do when you're really, really little.
+
+**James:** But there's not a third option. There's not an option where you engage directly with the problem and do something about it, because there's nothing you can actively do about it when you're tiny and powerless.
+
+**Catherine:** That's right. And that's most true when you're youngest, but there can also be situations even when you're older where there's not a lot else you can do—where you're facing a threat so big that you can correctly assess, "I won't win a fight. I can't get away. I tried appealing to this person and that didn't work." And so then your option is pretty much dissociation. That's it.
+
+**James:** Yeah, and that is a useful thing to be able to do.
+
+**Catherine:** There's research on different types of trauma experiences that finds that if you are able to do something to try to change your circumstances, you're less likely to develop PTSD—even if it doesn't work. If you make an unsuccessful escape attempt, it's still less traumatic to your brain to have tried something than not to have tried. The helplessness is one of the things that really seems highly linked with trauma. When you're in a situation where there actually is nothing you can do, that's one of the things that can lead to your brain handling it as trauma.
+
+And like you said, just encapsulating it—it gets recorded differently from your normal experiences. It gets stored more as imagery and sensory data, and it doesn't necessarily have a story attached to it or words attached to it.
+
+**James:** The way I think about it is it lacks context. And so the way I tend to think about healing from trauma is I'm going to help my brain create new connections, or build bridges between this very difficult thing that happened to me—usually while I was young—and my current life, where I'm capable of dealing with something like that.
+
+If someone tried to pull something like that on me today, there's a whole list of things I could do about that and I would do about that. My ability to handle difficult situations in my life now is a hundred times greater than it was when I was, say, two years old.
+
+**Catherine:** Yeah, exactly. So you were saying the way you get better from trauma is by putting it in context?
+
+**James:** Yeah, it's adding context. I think of it as building physical neuronal connections in the brain. I don't know whether that really happens, but it makes a lot of sense to me that if my brain encapsulated this memory and sealed it off, then one thing I can do about it is help the brain make more connections between all the things that have been true about me at various stages in my life.
+
+So there was a time when I was tiny and vulnerable and dependent, and there is a time now when I'm not tiny, not vulnerable, not dependent. And I would like to be able to respond to difficult people in my life now from the correct context of "This is a difficult person, and I'm a powerful person who can handle difficult people." Whereas when I was young, I could not handle difficult people and there was basically nothing I could do—nothing effective.
+
+I could make some noise or dissociate, but there was nothing effective I could do to take good care of myself in that moment. And my brain likes to respond to difficult people in my life now with the response that was appropriate to the past, when I was less powerful.
+
+**Catherine:** Brains are pretty complicated, and I'm not an expert on them, although I wish I were. But my guess is that there is something that happens on a neural connection level. If you think about someone who's gone through a pretty difficult childhood and they've had many traumatic experiences, there are all of these different places in their brain where a memory or information is encapsulated. As you're going about your day trying to function, your brain is going to keep hitting walls, keep hitting blocks, and it has to take these quite roundabout paths.
+
+I think it's just much more work to function and to think and to connect with other people when you're working around all of these isolated things in your brain. As you process trauma, you put it in context. You get a clearer picture of what was really going on, why it was such a big problem, and why it's not as much of a problem now. You're able to take much more direct paths. That's how I think about the jump in functioning that can happen when people start to deal with their traumatic memories—it's actually making it possible for your brain to function much more efficiently.
+
+**James:** That makes sense. I've never thought of it as being a direct path, but it's like if there were giant potholes in the road and then you patch the potholes. Or if there was a gate cut through a fence—instead of going around the fence, now there's a gate and I'll open the gate and go directly. That's an interesting metaphor.
+
+**Catherine:** That's how I think about it.
+
+**James:** I think of two different paths which are related, but I think it's useful to categorize: inner child work and inner adult work. Both of those are useful as ways to improve the connectivity in the brain, improve the brain's ability to hold correct context, and to not perceive things in the wrong context.
+
+So if a difficult person enters into my life, or I have to deal with a difficult person—that's not, for me as an adult, a survival situation. But it will feel like a survival situation. When I'm dealing with a difficult person, I might get physically shaky, I might start sweating, my heart might start pounding, it might be hard for me to talk. I see those as responses where my body is saying this is a survival situation, which I think is not the appropriate response given the context I'm in, but it is how my body responds.
+
+Do you think of it in terms of inner child work and inner adult work, or is there a third category? Do you not use those categories at all? How do you think about this?
+
+**Catherine:** I think those are great, and I love that you're bringing up inner adult work especially, because there is a lot of emphasis in therapy on the wounded child and taking care of the wounded child—which matters, don't get me wrong, life-changing stuff—but you could get a little stuck in it. There was someone we went to a training with—Steven Gilligan—and he talked about how when he's working with someone, he'll notice whether they're more connected with their wounded child or their powerful adult internally when talking about an experience.
+
+He'll try to balance it, to get them to connect with whichever side they're less connected with in the moment. If someone comes in talking about trauma but they're doing it from this place of "Well, it didn't affect me and everything's fine now," then he tries to get them to have some compassion for what it was really like when they were five.
+
+**James:** Yeah. And in the end, I think both of these pathways end up creating more connection. The way I think about it is that our brains, as they develop, we add onto the brain but we don't ever delete from the brain—once again, I'm just guessing, but that makes sense to me. The parts in my brain that developed when I was four and five years old are still there. I've added new parts since then. And what I want is more connectivity between the old parts and the new parts.
+
+**Catherine:** I mean, we forget a lot of daily things. Most people don't remember their daily life throughout their life. In that sense, things do get kind of deleted from the brain, or they just get grouped into a routine—like "I understand that I got the bus every day, but I don't remember every time I took the bus."
+
+**James:** Yeah, I'm not thinking so much about memory as about levels of functioning. I had developed a way of dealing with the world when I was five years old, and I really think that pattern is still in my brain. That programming's still there, and it shows up sometimes.
+
+I also think that since I'm now almost fifty, I've developed a lot of more effective ways of dealing with difficult situations. But I don't think the old ways went away. They're still there. When I start acting in a childish way, it's because the part of my brain that developed when I was a child has taken control of my behavior. That's kind of how I think about it.
+
+**Catherine:** Yeah, I agree with that framing. That makes a lot of sense. And so the inner adult work—sometimes you'll encounter someone who is handling most things in their life with the level of resilience they had at six, and they just have a hard time really seeing the truth that they have more options now.
+
+You can do work where you basically update your brain. "Hey, let's look around at our resources now. Let's look at our options now." When you were ten, you maybe didn't have a choice about whether you stay in the room when someone's yelling at you. But now that you're forty-five, you do have a choice. Maybe you don't have to stay there.
+
+The inner adult work—you really just have to be open to both connecting with your capacity and connecting with your vulnerability. And I do think there's so much to be said for the connection aspect of this—you're just building more paths in the brain so it's not stuck with one way to handle things, like "All I can do is get upset."
+
+**James:** So tell me how you do inner child work with your clients or with yourself.
+
+**Catherine:** With clients or with myself, I try to focus on visualizing, because of how difficult memories are stored. There are a couple of ways memories are stored. One is data, which doesn't tend to change over time. Another is narrative—the story we tell about what happened—which changes as you tell it.
+
+If a client tells me a story about getting lost as a child, they have one story that maybe a parent told them and now they tell it. If I have them visualize this, I'll say, "Okay, go back to the moment you realized you couldn't see your mom. Look at the scene. Can you see the room around you or the area where you are? Do you see yourself?"
+
+One thing that often hits people is that they look young. The way they've thought about themselves in a memory is often as older than they actually were. When you start thinking about it—do you know a five-year-old? How little is a five-year-old? A lot of people I work with are parents, and they'll have a lot of compassion for their kids and awareness of how little their children are, but when thinking about their own childhood, they felt quite mature.
+
+Then you go into what's this five-year-old feeling? What is this like for them? Instead of just skipping to what happened in terms of "How did you end up getting reunited?" you're trying to go into what was the experience on a sensory level—what could you see, what could you hear, what were you feeling, what was your internal feeling?
+
+People will spontaneously experience some compassion for their young self when they start connecting with that—compassion that was absent when they're just telling the story as data and analysis, just saying words without really feeling anything about it. When they start to look at the scene and connect with their felt sense, that's often the first time someone actually sits with that lost, scared kid and takes in what it was like for them.
+
+**James:** So you would consider that a kind of inner child work?
+
+**Catherine:** Yeah, I do. And there are things you can do that go further than that, where you can start paying attention to what did you want, or what did you need in that moment? What would have made this better for you? That's also helping you connect with the experience of what it was really like, and what kinds of support a child in that situation would need, and what it was like that you didn't get that.
+
+But a lot of what I do really just goes to that point of making contact with yourself. And I see it as you're making contact between one part of your brain and another part of your brain, using this metaphor as a way to work with your brain.
+
+**James:** Yeah, because you can't tell someone, "Would you please connect neuron A to neuron B?" That doesn't work. But you can say, "What did you look like when you were five? How tall were you when you were five?"
+
+**Catherine:** Right. And if there's someone else involved—which in many traumatic memories there is, because trauma is mostly interpersonal—trauma is more about how the people who saw what you were going through reacted than it is about what you were going through a lot of the time.
+
+**James:** This is so important. It's about the context as a whole. It's about the world you were living in—what was true about the environment you were living in that you as a small person could do very little to change. You're living in this environment, can't really do anything about it, and it's not very well suited to you in some way. It doesn't provide the kind of support you need. Children need immense amounts of support, and in some way this environment is not providing you the kind of support that you need. So you have no choice but to respond to it in the best way you can, even though it's not very effective.
+
+**Catherine:** Yeah. So if you go back to a memory where you're little and you have a parent that's disciplining you in a somewhat harsh way, part of that—if you look at the scene—you're going to become aware that your distress was clear. And so then you're not just dealing with "What did it feel like to have a parent hit you?" You're dealing with "What did it feel like to have a parent see your distress and keep going?"
+
+**James:** So you're looking at the information about what was going on in my parent's mind while they were doing this thing.
+
+**Catherine:** Yeah. How were they relating to you? What were they thinking about you that made this work for them, that they could keep going? And you can push yourself to imagine: if I were a parent and this were my child and I saw their distress, what would I have to do inside myself to be able to continue the thing that's causing them distress?
+
+**James:** What would I have to be? How would I have to be thinking about my child in that moment? Am I looking at this child and saying, "This is a person I care about, this is a person I don't want to suffer"? Or am I thinking, "It's okay with me if this person suffers. It's okay with me if this child experiences distress. That doesn't bother me right now"?
+
+**Catherine:** Well, it could be that, or it could go even darker: "I own you. You deserve this. This will show you." There are all kinds of things that could be happening, but that's the thing that kind of blows your mind—when you're going through a traumatic experience and you understand, though you couldn't put it into words, how this person is relating to you to be able to continue treating you this way. That's the thing that is overwhelming to the system.
+
+There's some research with Hurricane Katrina survivors that found the thing that predicted how likely it was that they would develop PTSD was their interpersonal interactions with other people. Were they in a situation where they needed help and somebody saw that they needed help and could have helped them and didn't? That's the thing that caused the trauma. It's very different if your leg gets broken because a tree falls versus your leg gets broken by another human being on purpose. Those are going to have really different impacts on your brain.
+
+**James:** Yeah, of course. Why is it beneficial to go into "What was my parent thinking while they were being mean to me?" Why does that help?
+
+**Catherine:** I think it helps you locate the problem. One thing trauma does is leave you with a feeling of "There's something wrong with me." Because you're getting the message "I deserve this." But what could a little child do to deserve abuse? Nothing. So you're left with this twist in your mind, something very difficult to work with—a feeling of fundamental shame or inadequacy or wrongness.
+
+When you push yourself to look at the scene and to map the mind of your antagonist, you can correct the record in your own brain of what was the problem here. Was it that I was the kind of child that deserves this? Or was it that my parent was the kind of person that liked to do this?
+
+**James:** Children are, by definition, innocent. Parents don't get the same treatment. You and I are both parents, and we know that it wouldn't be fair to say we've been innocent as parents, even though we wouldn't consider ourselves bad parents. But claiming innocence would still not be accurate. Specifically, in an interaction where I am angry at a young child, the young child is just by definition innocent. Children do age-appropriate things, developmentally appropriate things, which are inconvenient, unpleasant, and hard to handle.
+
+If I come into a situation and say, "You are being a bad child and I am being a good parent"—which is something that happens every day in most families—that's just not true. It's turning the world upside down. In reality, you have a child who's being innocent, even if I'd like that child to stop that behavior. There's a certain innocence to the behavior, and the parent's behavior is just not that innocent. As adults, especially as parents, we carry a level of responsibility that children just don't carry.
+
+**Catherine:** Yeah. A lot of times when parents become harsh with their kids, what's going on is the kid is dysregulated and the parent is dysregulated. The kid is overwhelmed and the parent is overwhelmed. But one of these people has a lot of power and agency in their life; the other has very little.
+
+One place I see this play out is theme parks. If you watch families in theme parks toward the end of the day, you're going to see kids melting down and parents melting down. But the parents have had the option all along to call it on the day and go back to the hotel and cool down. They've passed their own limits and their kids' limits, but the kids didn't have that power. The parents are in a much better position in every possible way to manage a situation so it doesn't go to the point of harshness.
+
+You'll see a parent yelling at a child for yelling. The child is innocent—they're just displaying their actual level of overwhelm and a completely developmentally reasonable inability to self-soothe. And the parent is saying, "Well, I'm only acting out because of your bad behavior." They're justifying whatever they're doing with the kid's behavior. But it's putting more responsibility on the child for how things go—saying the kids are the ones who decide—and that's not reasonable. The parent has decades of life experience, a fully developed prefrontal cortex, money, options. The kid is pretty much at the mercy of the parents.
+
+**James:** I do want to add one more idea about inner child work. I have found it useful to do an inner child rescue, which is a very common practice in trauma treatment. An inner child rescue basically consists of imagining myself as an adult going back to a difficult memory from my childhood, and I, as an adult, am going to offer my younger self the kind of love and support and protection that I needed in that moment.
+
+Once again, I'm visualizing it. It's purely imaginary—time travel isn't real—but it's a helpful way for me to build these connections within my brain between the very young and vulnerable part of me and the more powerful part of me that's also capable of comforting a child.
+
+**Catherine:** I think inner child rescues are beautiful. My guess is that the way they work is you've got something in your brain where you encounter a problem that's familiar because it reminds you of something that happened when you were young. Your brain only knows that this is a problem. It doesn't know that there's a solution, because when this was originally encoded, there wasn't a solution. It didn't get solved. It didn't get handled well.
+
+So you go in and complete the stress cycle or finish the story in a way that the next time this trigger comes up, instead of your brain going, "Oh no, there's a big problem"—and that's where the story ends—it goes, "Oh, there's a big problem. And there's someone here who can help me with this. It's me." So it's a much less distressing experience, because you build trust in yourself and confidence in your own ability to respond. And then you don't panic the next time it's triggered.
+
+**James:** That has been my experience. I've done many inner child rescues and they have consistently helped me respond in a more productive way to the sense of panic that arises.
+
+For me, an inner child rescue often ends with me looking at my younger self, this little boy, and saying—that's going to make me cry—but saying, "I will always be here for you, and if you call, I will answer." The way I think of him calling is when I feel that distress arise. When I as an adult feel the kind of panic associated with being a small person in a scary world, I try to remember in the moment: this is the part of my brain saying "Help! I don't know how to deal with this." And there's another part of my brain that says, "Well, I do."
+
+I want to make that connection in the moment, but my brain doesn't naturally behave that way. Naturally, this younger part of my brain says, "I've got this. We're going to throw a fit, or dissociate, or take some sort of extreme action—get angry or manipulative—we're going to take these childish actions." As opposed to the fact that a lot of the time as an adult, the best response is, "Let me think about this for thirty seconds." As an adult, there are so many situations where you can just sit there and do nothing and say, "I'm in a difficult situation. I'm going to sit here and do nothing until I figure out what to do about it." But the younger part of the brain wants instantaneous action right now. And often, doing something is not the best plan in the moment.
+
+**Catherine:** That's exactly what's happening. We were talking earlier about kids being innocent and parents not being innocent. But there is a way that all that's going on most of the time in the mind of a parent who doesn't handle themselves well is they're having a childish response. They haven't had the support or resources or a way to think about it to be able to handle it better yet. They do have the capacity to get there—and they should be in therapy—but you can have compassion for other people's reactivity as well when you think about it as, "Yeah, this is their inner seven-year-old saying 'I know how to handle this.'"
+
+We all just come up with these strategies when we're young and use them until we replace them on purpose. They don't necessarily get updated organically. You have to think about it. You have to watch what you're doing and think about your impact and think about whether you have other options at this point in your life. And yeah, a lot of the time, one option you have is you could slow yourself down and do nothing for a couple of minutes, and then see what you can come up with in that time.
+
+**James:** All right, let's transition into inner adult work then, because this is actually getting pretty close. Can you describe—if you were going to explain inner adult work to someone, what would you say?
+
+**Catherine:** One thing I like to do is just talk things through with people so they can make sense of the problem with what they're doing. For example, I had a client reach out about a difficult interaction he'd had. His wife had said, "This is emotional manipulation." And he asked me, "Is that what I'm doing here? Am I being emotionally manipulative?"
+
+I work with a lot of people who are very logical thinkers and I really like to work that way. So I offer a framework for how you could evaluate: is this emotional manipulation? For me it's "Am I using intense negative emotion to try to get what I want?" If you're working with someone's inner adult, you can evaluate through that logical lens. "All right, that actually is what happened here." First step is recognizing the problem in a concrete way, and then once you're not okay with what you've been doing, you can push your brain on what else you can do. What's coming to mind for you for inner adult stuff?
+
+**James:** My favorite way to frame this is: as a child, it made sense for me to pay more attention to others' impact on me than to my impact on others, because I was young and dependent and I really needed to pay attention to what other people were doing to me. As an adult, I'm in a position in life where it actually makes a lot more sense for me to pay more attention to my impact on others.
+
+This is especially true in the family. If I want to live a good life and be happy, the single most important thing for me to do as a married man is to pay attention to the emotional impact I have on my wife. That is not something that comes naturally to me. What comes naturally is to pay a lot of attention to the emotional impact she has on me. That doesn't help me very much because I can't directly change that. It's fine to be aware of it, but if I spend a lot of my time and attention on what impact she's having on me and how much I don't like that, then I'm basically spinning my wheels. What I really need to do is set that aside and focus on: What is it like for her to live with me? What is it like for her to be married to me? That's the most important thing for me to look at. But it's very much an adult way of dealing with the world, and it doesn't come naturally to most people in my experience, and definitely not to me.
+
+**Catherine:** I think that's really good. Another reason it makes sense for adults to look at what they're doing is that they have choices. If you're with someone who is really not treating you well and doesn't want to change, you're probably not going to get very far trying to appeal to them. At some point you've got to deal with the reality: I'm an adult choosing to be in this dynamic. So I should look at what am I doing that keeps the dynamic going?
+
+Another way to think about it is: what bad behavior on my side makes it easy for this other person to justify what they keep doing to me? It's not to say that you don't hit a limit where you just have to decide whether a situation's workable for you. You look at your side and work on your side. If you hit a point where you're like, "No, I've done so much on my side and I don't have the power to change this dynamic," then you accept that and work on the reality you're in.
+
+**James:** You make your choices based on what you see is best for you. In some situations, leaving a relationship is part of the solution. That's what you're talking about, isn't it?
+
+**Catherine:** You could leave, you could change the level of contact you have.
+
+**James:** The other way I like to think about this is: all of the things my wife is likely to do this year, including all the things I don't like, they fall within the circle of what I can handle. I call it my "circle of okayness." My brain doesn't like to think of it this way. My brain likes to think, "There's this and this that she does, and I really don't like it, and that's a survival problem for me." It sounds silly to say it that way, but my brain really does respond to her behavior as if it were a survival problem when it's not.
+
+I like to push myself on this. I will say things like, "If my wife never changes, will I be okay?" And the answer is yes—I will find a way to be okay. That's very much my responsibility as an adult, to find a way to be okay in whatever environment I find myself in. It is not a good idea for me to think of myself as dependent on my wife changing.
+
+I know there are circumstances—I'm not in one—but there are people in circumstances where it's really difficult to find a way out of a difficult relationship. For me, it's important to think of my life as something I can handle. It's not a survival situation, which means it makes more sense for me to focus on my impact on her and focus less on her impact on me.
+
+**Catherine:** I'd add one more focus: your impact on yourself. In a situation where it really is untenable, you have to look at your impact on yourself. Keeping your focus on the details of the mistreatment is probably not going to be the answer. You're up against practical challenges of how to extract yourself, which could be about your own brain having a very difficult time detaching, or other obstacles.
+
+As an adult, you have a huge impact on yourself. You have so much agency, so much power to determine who you interact with and how much you interact with them and what kind of contact you have. If you determine that this person has a bad impact on you and you don't see that changing, then you have to look at what you need to do to take good care of yourself.
+
+That still means taking your focus off of an obsession with tracking and venting about the stuff they're doing. Not that you go blind—there's some level of awareness that is healthy and important. But I'll have clients who come in and what they'd like to do for an hour is just list off the bad things their partner did that week, and then do the same the next week. Sometimes I'll say, "Let's start with a blanket assumption that your partner's not handling themselves well. Let's look at how you are handling yourself. Let's look at what you're actually doing in this. You're an adult. You can change your life, and you can change your relationships."
+
+**James:** I encounter that a lot also, where someone's putting a lot of energy into trying to convince me their partner is doing bad things. I'll just stop them and say, "You know what? I agree with you. In fact, I think you see your partner really accurately, and I'm glad you do. So I would like you to stop trying to convince me that you're right, because I'm already on your side here. I want to talk to you about what you're going to do in this situation. How are you going to handle this?" That's a kind of inner adult work, I guess.
+
+**Catherine:** Another thing I think about with inner adult work is getting connected to your values—making decisions based on values and not based on how another person is going to react or what they tell you you can and can't do.
+
+I see this show up when someone says, "I can't. I'm not allowed. They won't let me." That's usually about a partner, sometimes a parent. It's like, okay, they can put pressure on you. But this is about you making a decision for yourself based on your own values and moving into a peer-to-peer position: "We're both adults here. You can tell me what you want or don't want. You can put pressure on me, you can criticize me. But whether I am honest with you is not decided by whether you're going to get mad. It's decided by whether I value being honest."
+
+**James:** In the end, obviously it's easier for me to be honest with you if you're not going to yell at me. But it's still my choice. That's what you're talking about: can you take full responsibility for all of your behavior, no matter how your partner responds to it?
+
+**Catherine:** And I do think you can make requests. You could say, "Hey, I really want to talk to you about something important. It's going to be pretty hard for me to get through this, and I expect it'll be pretty hard for you to hear. If you're willing to try to hear me out, it would mean a lot to me." You can make requests.
+
+**James:** Have you ever seen a Time Timer? It's a little visual clock, and you could say, "I'm going to put two minutes on this clock, and my request is that you just listen to me for two minutes. Then after I've talked for two minutes, I'll give you two minutes." It seems structured and a little artificial, but if every discussion ends up with two people stepping on each other and talking over each other, it's important to get to a place where I can speak, then there's a pause, then you can speak, then there's a pause. If that helps you get there, then it helps you get there.
+
+**Catherine:** One of the things that can be hard about seeing yourself as an adult is relating to your parents adult-to-adult. I think the reason it's hard is that your relationship was laid down initially when there was a genuine power imbalance—you were a child, they were an adult. Getting your brain to handle contact adult-to-adult, where you're not afraid of them, you're not deferring to them, and you're also not trying to be ultra-harsh to exert power over them—just trying to do this in a peer-to-peer way.
+
+I think that's one of the things that has the biggest impact on your brain: when you start to relate to your parents as "We're both adults, we're both grown up. I'm in charge of my life. I can tell you the truth and you can have your reaction. But you're not my guardian anymore."
+
+**James:** It sounds a lot easier than it is. It's actually really difficult. And it impacts your ability to talk to your partner like an adult. If I can't talk to my parents in an adult-to-adult way, it's unlikely that I can talk to my partner in an adult-to-adult way, because that same programming that shapes how I talk to my parents is going to show up in how I talk to my partner.
+
+**Catherine:** That makes sense, because this is your main attachment figure. When we get into romantic relationships, we're following attachment patterns that started in childhood—an important other that we're really attached to.
+
+**James:** So it's really useful to imagine talking to one of your parents about something they would get defensive about. I think it's a really useful exercise: to visualize what would be the most direct and most powerful way—without being mean—to say, "Mom or Dad, I want to talk to you about this thing that you did that had a negative impact on me."
+
+Most parents of adult children will get defensive in that scenario. They don't want to be held responsible for the worst impacts they had on their children. They'll start making moves to make it seem like the adult child is in the wrong, or they weren't really responsible for their behavior, or it's not okay for the adult child to be bringing this up for some reason.
+
+**Catherine:** There's a dynamic that's part of the defense reaction: "Hey, you're breaking a family rule. I get to tell you when you do something I don't like, but you don't get to tell me when I do something you don't like."
+
+**James:** And that rule was established in the first place because the parents were fragile and insecure. A parent who's fragile and insecure in their thirties and forties is probably going to be fragile and insecure in their sixties and seventies. They're probably going to have that same defensive reaction: "You don't get to do this to me," and they're going to make some moves to keep you from doing it.
+
+**Catherine:** I agree.
+
+**James:** So that would be inner adult work. The last thing to talk about is the connection between the two. The more inner adult work I do, the more effective my inner child work will be. And this actually ties back to what you said about Steven Gilligan at the very beginning—we need both. I need that tender connection to the young parts of my brain, and I need the connection to the strong and powerful parts of my brain.
+
+**Catherine:** It makes me think about a therapist I had about fifteen years ago. I was talking about a very difficult situation I was in and she would say, "Look at your hands and remind yourself these are not child hands." Like, "I can handle this." But I'd look at my hands and think, "I don't know what I'm doing. I've never handled this." I wasn't looking at the hands of a woman who knows how to do this.
+
+So yeah, you have to build up. If you're going to become less reactive and the reactivity is coming from a wounded child place, to really become less reactive, you have to build trust and competence to handle your life. The stronger your inner adult, the calmer your inner child. They really do go together.
+
+**James:** Absolutely. And this is a mistake I think happens a lot in the world of therapy—skipping over the strong adult part and trying to go straight to the wounded child. But who is the wounded child going to turn to if there is no strong adult there?
+
+**Catherine:** In that situation, people try to turn to their partner usually, but their partner is usually not really willing to consistently take care of them. My view is that because you're with yourself all the time and you're not with anyone else all the time, the only really reliable source of someone who could help you out anytime you're triggered is going to be yourself. There are other people—therapists, coaches, friends, your partner—who can help you sometimes. But if you want someone who's on call and always available, which is what any scared child part is going to want, it actually has to be you.
+
+**James:** It does have to be you. It really does. And there's also a fairness question: is it reasonable for me to ask my wife to be supportive and patient with me in a way that I'm not capable of being supportive and patient toward myself?
+
+**Catherine:** I do think that's fair. In general, I think it's good to look at what you want from other people through the lens of "Do I have this to offer?" Not that everything is perfectly symmetrical, but these fundamental things—wanting someone to be warm, patient, nonjudgmental—asking for it before you can offer it is often asking too much. Partly because you'll just be too hungry for it before you have it to give. If you're not giving it to yourself, you're always going to want more of it than they have the capacity to offer.
+
+**James:** I think we should end there. That was a very good, strong last sentence.
+
+**Catherine:** Great talking to you, James.
+
+**James:** It was so good. Thanks for this amazing conversation, and let's have many more.
+
+**Catherine:** See you soon.

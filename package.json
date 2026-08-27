@@ -1,0 +1,28 @@
+{
+  "name": "roseville-couples-counseling",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "scrape": "node scripts/scrape.mjs",
+    "fetch-audio": "node scripts/fetch-audio.mjs",
+    "generate-feeds": "node scripts/generate-feeds.mjs",
+    "verify-feeds": "node scripts/verify-feeds.mjs",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.4.2",
+    "astro": "^5.13.2"
+  },
+  "devDependencies": {
+    "cheerio": "^1.1.2",
+    "turndown": "^7.2.1",
+    "typescript": "^5.9.2"
+  }
+}

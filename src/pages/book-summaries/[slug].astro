@@ -1,0 +1,25 @@
+---
+import { getCollection, render } from "astro:content";
+import PostLayout from "../../layouts/PostLayout.astro";
+
+export async function getStaticPaths() {
+  const books = await getCollection("book-summaries");
+  return books.map((book) => ({
+    params: { slug: book.id },
+    props: { book },
+  }));
+}
+
+const { book } = Astro.props;
+const { Content } = await render(book);
+---
+
+<PostLayout
+  title={book.data.title}
+  seoTitle={book.data.seoTitle}
+  description={book.data.description || book.data.excerpt}
+  image={book.data.heroImage}
+  date={book.data.pubDate}
+>
+  <Content />
+</PostLayout>

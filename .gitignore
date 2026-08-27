@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.astro/
+.wrangler/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+scripts/.cache/
+scripts/scrape-report.json

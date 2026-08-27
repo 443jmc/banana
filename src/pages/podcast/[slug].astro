@@ -1,0 +1,25 @@
+---
+import { getCollection, render } from "astro:content";
+import PostLayout from "../../layouts/PostLayout.astro";
+
+export async function getStaticPaths() {
+  const episodes = await getCollection("podcast");
+  return episodes.map((episode) => ({
+    params: { slug: episode.id },
+    props: { episode },
+  }));
+}
+
+const { episode } = Astro.props;
+const { Content } = await render(episode);
+---
+
+<PostLayout
+  title={episode.data.title}
+  seoTitle={episode.data.seoTitle}
+  description={episode.data.description || episode.data.excerpt}
+  image={episode.data.heroImage || "/images/site/podcast-cover.png"}
+  date={episode.data.pubDate}
+>
+  <Content />
+</PostLayout>
